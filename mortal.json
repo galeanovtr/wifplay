@@ -1,1 +1,17 @@
-
+[
+    {
+        "name": "Culturales",
+        "samples": [
+            {
+       "icono": "https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ANIMALPLANETHD/EXPORTACION_WEB/SS/ANIMALPLANETHD_t-290x163.png",
+        "name": "ANIMAL PLANET ",
+        "uri": "FTPUqKk1rMeazxYh3enCizi+VubeiIDu0Ad2i0qljbJe76kvXrKYRZMtWNy8HacpgI0n1rL976BndnLn8rmkL6hu8BDxgA2vga/67MvWHoKelAERtK1G1OCCTybVmY05",
+        "drm_scheme": "clearkey",
+        "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36  WebAppManager",
+        "origin": "https://web.app.flow.com.py",
+        "referer": "https://web.app.flow.com.py/",
+        "drm_license_uri": "Kp6HrbcSu1KjAVzGvCRuEyhgxO/tSOYZZm/kJ3dmsy7mCmSij0rVPHZmNIF23umdbr8sdu9b+QKBLP/+CQZexQxz799JP4zYHFokMWdjMXIIPUEbUdpV6238bk04ayLCMFoLeDB6vN0aVLB97r1hzChZCzSC4E1YEZW/vydE5hlzJI+UiowI3qfIDsrLOzUDFfThllRi2eJJwn9tvGWi0A=="
+      }
+        ]
+    }
+]
