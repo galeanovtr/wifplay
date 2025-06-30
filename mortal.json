@@ -2,71 +2,8 @@
   {
     "name": "EVENTOS EN VIVO SOLO EVENTOS ACTIVOS",
     "samples": [
-      {
-        "name": "LIGA URUGUAY NICO",
-        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
-        "uri": "eRHzJ7bZCBODSDlJQ82GIkKFhkEGWFSxJH5VuNYaA8dYrldxpFaHX18tkDtl7FFo4fWNWa26sAyUEKNpUuwD6GKuCobyroFAqS9O4xAc59Q3gBv/72N9CmvW5D4y9jD1"
-      },
-      {
-        "name": "LIGA URUGUAY OPC 2",
-        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
-        "uri": "pXVL3jig0bw4sPpp23XWDpEUtNTvqutA2F+jTBNEOULS25AKHoNrGusyS2+zEVmCN4Ab/+9jfQpr1uQ+MvYw9Q==",
-        "referer": "https://gabitotv.com/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "LIGA URUGUAY OPC 3",
-        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
-        "uri": "0dHKL2ICorh2k5yZQ0FR4pEUtNTvqutA2F+jTBNEOULS25AKHoNrGusyS2+zEVmCN4Ab/+9jfQpr1uQ+MvYw9Q==",
-        "referer": "https://gabitotv.com/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "LIGA URUGUAY",
-        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
-        "uri": "VMa1NG1ZgcPI025EslT7pz9U/o30ZljRbbl6Ok30wdNQrXI3VGRdcvZNS8iDY5+qZwjbq+nOaTRB3Ynen7ptVI/lMjxkTgTfSu6MV35AFmg="
-      },
-      {
-        "name": "COPA POTRERO",
-        "icono": "https://static.wixstatic.com/media/fea500_c2503dbb945148c98abe9d70997d1077~mv2.jpg",
-        "uri": "iPBnJRRaxAUZBS8XYksRlO5kqUFrEBDZJ3Wr8PZxhDiKJJYacnEVvbS6ZOTjO21bQHt1u/req3e8g0Htc2q6sv7ZNDSNVmC+cULAErKnUyg="
-      },
-      {
-        "name": "COPA POTRERO OPC 2",
-        "icono": "https://static.wixstatic.com/media/fea500_c2503dbb945148c98abe9d70997d1077~mv2.jpg",
-        "uri": "eRHzJ7bZCBODSDlJQ82GIkKFhkEGWFSxJH5VuNYaA8dYrldxpFaHX18tkDtl7FFo4fWNWa26sAyUEKNpUuwD6GKuCobyroFAqS9O4xAc59Q3gBv/72N9CmvW5D4y9jD1"
-      },
-      {
-        "name": "EVENTOS PY",
-        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
-        "uri": "RqJ5bvmTtRSAfNdxnOf7UEOjXDAaTR1v1s4CY9Mg4E/vUxgjSifVFIDwJ52hsV7JeF1bDulz7lu0eMF5raAMuPO4H544KkfjIzj8wtTqlTZLC9Dz6zfNjytRdluPp6gOqMWXEp+FfP9a6JDncB8QgTMQl3idK/Ww9+SsYO0bt8E=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "flItQPI6jU/aOBPYSVeF+8rj1fDRx+qhrfWGE4pagrKKJKZT8qvTKfU6fXELzWFkypdz5Q1YyWfXof8fAZnUsP0iIg/g3ACgPBJBgyAttwB+CatCcqzO+FQLtfOs+VKb/uUiEH7jAZaj5woPhjvdzZQfDEG1nkYA/uxpRiKmzJrEZFMHGMDfA2oFA6MA3W+z9NJEXNjQjkQncjfZdeuvBQ=="
-      },
-      {
-        "name": "EVENTOS PY 2",
-        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
-        "uri": "ARwtNmPl2AzeQHH1o25/Y/4MyfiIGf7t94aQQqqzp3VeLmwqpf32mtxzi23nyzWdtuvNOAg+nhU9zWE18u6tu68BcBFNH2GHAysT56Glf5uZ4JWZofHHQy6Lh+8r99MsfyCaWjteLk9d8EN27+BtMg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "naHTOM/mOdxnopq+4IQAIF1uScy8QGwz35H/WC91D08r+CgDdnkN9YNKUKA1B0u200koQHHlJWKuLUut6zk/TqmDDamvZFfdC5mzwcfZPWRkDAUuDxJTA8rK40JO4z3ik5ek6MAuC5F+sTy1uhjXD/wN4GmeSKplegrfVb17EuBLp9+vT2lU64jRXhvgWB8HdkDsbLi60elHsGXqD22SIQ=="
-      },
-      {
-        "name": "EVENTOS PY 3",
-        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
-        "uri": "ARwtNmPl2AzeQHH1o25/Y/4MyfiIGf7t94aQQqqzp3VeLmwqpf32mtxzi23nyzWd0nZvt8GyjiN+Xn7J6xXYMN0y3fI2FpGZ+5w54fnrh9qS4hrqQNcRYvPIi9KzPNIgjlBY5NjzYyaZcS1mJbhrOQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuJb+5S5W/h+qj0tXC1lGRFpNpPgXMItxbyJWqm7SR0ldnRdBwq1v36R3paSuUovogM2J58Kg2B+J2fvMmCWHtRk5pcX5mkminP8ucDqAO8pLMxCXeJ0r9bD35Kxg7Ru3wQ=="
-      },
-      {
-        "name": "MLS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "uri": "VMa1NG1ZgcPI025EslT7pz9U/o30ZljRbbl6Ok30wdNQrXI3VGRdcvZNS8iDY5+qZwjbq+nOaTRB3Ynen7ptVI/lMjxkTgTfSu6MV35AFmg="
-      },
-      {
-        "name": "MLSggh",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "uri": "uNMmg20dvCOhRq06e+KPSHnOijzQI6PZRc2QFN9Ywefji0cMmcDVdz/XKL1gChENS1B3vnsrjMLEwkWT4RuRAOmNrlHOudOF3NOJuAQCFK3xobnWqpm2m0aGprCTz58TDw0T4ypC73hxgBYZwJBGlS+p5g0Rqe2vR51UfVIl5RMA+lZtqj2bc8kVRQaPaFzt7p9/VEHhgd31/nDKLvZ6HYdvBNlr7sH8IJCy9ZkyB2AtZyfVuQu9uq8AyaujP+3UAFOAdrU8+V+8Z/gN0L9CqDcDJ8/HIzNSVLiXoqyIwT3WwlHEmTybEsMFPWVa+ZaRcw3f52SPvOP/rZxg4nzBkg/X6e4yefxOxdCgOUMy5v7UMSYb6uZLOLQbRTsVtWxHcd8zOGJWWkjYPYPuLoid/3AbMMOVqCNez+wx/sX/c4gVTHllbi8WuS5RyEqNiGwkC/ysX8z1cHQVCn8/cdgMs360RQAN4IOtac3KAw2ZVXNLY2HB/gh+xTlcjBdTi01eJ+ur9eU8nOt9JOiRlI1aDANkGXR4N59V2+KlL5ta+iP1yASolxxzN8OwtBc4xjkqpwm32+WC6IcynGpQo0OVaQ=="
-      }
+ 
+   
     ]
   },
   {
