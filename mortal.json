@@ -16,29 +16,29 @@
       {
         "name": "7 de mendoza",
         "icono": "https://yt3.googleusercontent.com/LPkwowY2codqCuMWnebTEV2qMilisd0RIjS59T5XmyqgCcTQSHlG_Rzs-EMzT9tI24VVdN2e=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "IaHgeqImiPWgcJdPpk/no0VGuUsc6/ukFYCwxKVHnVEJliP1Ic0pNQM7E9YV6MgdPE5Xe7Pz4lMFsPdAxTgAmGTHb6XgWllmkz8y5ZOcbipf8cKjC2u4CKopskg1HvGiDH6DN+dana2pqbGnnpU+XD80Qk+3WRj1DUJ8AX8xmtBjwEwYMAD9EdnwUwU3Guqw"
+        "uri": "https://m.mtd.llc/get-stream.m3u8url=https://www.youtube.com/@elsietemendoza/live&uuid=btd0PnYPgYjlnDfPFoyj2CYsKWtuyxxhJ4DyPC2Bij8="
       },
       {
         "name": "Canal 8 San Juan",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png",
-        "uri": "iPBnJRRaxAUZBS8XYksRlO5kqUFrEBDZJ3Wr8PZxhDiTmhJAJxusG0LAPVEEdY+9VB8GGRSYSigIGj8rMC4Vr/7ZNDSNVmC+cULAErKnUyg="
+        "uri": "https://ythls-v3.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8"
       },
       {
         "name": "Canal 4 Eldorado",
         "icono": "https://www.canal4eldorado.com/wp-content/uploads/2016/10/canal4-330x250.png",
-        "uri": "eEcyCWd3QU4zo5iWda1Agy+fBe29NFYXuyNurtSIQPWy9F8gJHkRXhISmkQWDkjtZSwECGH1JTuSLjuTfeDQpef4KznBOj8fWL53RVlWMso="
+        "uri": "https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8"
       },
       {
         "name": "CANAL PROVINCIAL",
         "icono": "https://yt3.googleusercontent.com/th9FIjwWfxyjC5WnmRj0xlBISa5FYZR4MKHwBGr6fI0y8OXmncctu72Oeao7rPYUOrkI0ZZ_2g=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS+0FgAqUbGVdbA7cnhbUNko9xTua1oFprDBq1MHnkSkW7Yzc5WTc8r1hKRzx3T9yQw=",
+        "uri": "https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_dash/PROVINCIAL.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuJb+5S5W/h+qj0tXC1lGRFpNpPgXMItxbyJWqm7SR0ldnRdBwq1v36R3paSuUovogM2J58Kg2B+J2fvMmCWHtRk5pcX5mkminP8ucDqAO8pLMxCXeJ0r9bD35Kxg7Ru3wQ=="
       },
       {
         "name": "San Luis +",
         "icono": "https://yt3.googleusercontent.com/qwv7I6E9EFa62G51wiyk-RyuYY1kSFc6P_37Z8Fv-BIihloEq0csBPzbvryY7FMNQw9ICKVuNQ=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "at0j7Ahp4JUJsy3cCCzIu/BREXmOBKm2gUbrg0/mkfXjpQV+xmD1qbbnQG/VELjOP+hfRO/O9JIeUPnlwTLwCg=="
+        "uri": "https://stream.radiosmundiales.com:19360/sanluismas/1080p.m3u8"
       },
       {
         "name": "Canal 10 roca",
