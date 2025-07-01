@@ -14,6 +14,13 @@
         "uri": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
       },
       {
+        "name": "EVENTOS INTERMEDIAS",
+        "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+    },
+      {
         "name": "7 de mendoza",
         "icono": "https://yt3.googleusercontent.com/LPkwowY2codqCuMWnebTEV2qMilisd0RIjS59T5XmyqgCcTQSHlG_Rzs-EMzT9tI24VVdN2e=s900-c-k-c0x00ffffff-no-rj",
         "uri": "https://m.mtd.llc/get-stream.m3u8url=https://www.youtube.com/@elsietemendoza/live&uuid=btd0PnYPgYjlnDfPFoyj2CYsKWtuyxxhJ4DyPC2Bij8="
