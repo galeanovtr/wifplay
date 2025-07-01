@@ -2,12 +2,7 @@
   {
     "name": "EVENTOS EN VIVO SOLO EVENTOS ACTIVOS",
     "samples": [
-  {
-        "name": "EVENTOS INTERMEDIAS",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-        "uri": "https://live.enhdtv.com:8081/8150/index.m3u8"
-      },
-   
+
     ]
   },
   {
