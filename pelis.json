@@ -530,3 +530,33 @@
     
     }  
 ]
+ },
+    {"name": "RECOMENDADOS",
+        "samples": [
+            {
+                "name": "Las guerreras k-pop",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/F1B7EF9E94C54AD89F599E9675D3FDCF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/swQRKmW7RLhncPYHvM0RHz8b7bT.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3ujssVzNMk3ypJaTs3QRywYoQIx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/yTxmLp7Qp77BxO5SL84TRXURn4b.png",
+                "type": "PELICULA",
+                "descripcion": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
+                "anio": "2025",
+                "genero": "Fantasía, Acción, Comedia, Animación, Música",
+                "duracion": "96 min"
+            },
+            {
+                "name": "Nuestros tiempos",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/4A2F16A7AB0441879A231E961CA29E34_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/t0XyRsfjnxznZb803hXtleSXhtG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dD14o9KJDbmuJ80z4vKdVnQ0zks.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4oGqDfnnUS1zMohEArqoHBZLZgc.png",
+                "type": "PELICULA",
+                "descripcion": "El avance científico de los esposos Nora y Héctor les permite viajar en el tiempo de 1966 a 2025. Mientras ella se adapta de maravilla, él no tanto, poniendo a prueba su relación.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Romance, Comedia",
+                "duracion": "90 min"
+            },
+           }
+      
+    ]
