@@ -2261,6 +2261,15 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
+        {
+    "name": "TV prueba CAMARA",
+    "icono": "https://i.ibb.co/WGV7ZPQ/AKed-OLTsl-SPml87-MT9-Xc-ECZXld-No1-Yiqd-TLv-LL7tk-E0-I0-Q-s900-c-k-c0x00ffffff-no-rj.jpg",
+    "uri": "https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_2A/TV_Camara.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://cdn4.xaxa.live/keys3/tvcamara.json",
+    "origin": "https://web.app.flow.com.py",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
       {
         "name": "TELEFUTURO",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
