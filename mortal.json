@@ -2288,6 +2288,17 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
+       {
+    "name": "TELEFUTURO FLOW HD opción 2 py",
+    "url": "https://edge-mix01-mus.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxNDIzMzQ5Iiwic2lwIjoiMTgxLjk1LjI0NC4xNDUiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRE5ld3MvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYjk5YzI1YmExZDAwODUxMyIsInNlc3Npb25faWQiOiI4MTAxNTA2Mi0xNzUxMjUwNTQ5LTE1MyIsImNsaWVudF9pZCI6IjExMTIyMDExIiwiZGV2aWNlX2lkIjoiODEwMTUwNjIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMzYiLCJzb3VyY2VzIjpbNzUsODUsMTQ0LDg2LDg4XX0=.SEvAjSqlDGwDUYYv3B65IGvnBkO59XS_I9fYihQr5dE2qYKBdI1y58FT61zlBBrFijBJ18xnxfH3gUYkmFKzOg==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://dl.dropbox.com/scl/fi/s84zrlejo4o4sizaioj6v/telefuturo.json?rlkey=p150vxxmajkmtd7pxo3ip72y0&st=ys1amw1n&dl=0",
+    "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+    "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       {
         "name": "GEN TV",
         "icono": "https://latinartv.com/sites/default/files/logos/gentv.jpg",
