@@ -3084,55 +3084,7 @@
         "uri": "+aDNUmMzGS0pfMycJSPn+PTEsPosFjtFzleQxo4KIATRCQjmeL6Qv6mu0u03V4LxnRSZpoOQCh8oK6M0+b4C/g==",
         "referer": "https://en-vivo.pro/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-       },
-  
-    {
-        "name": "TIGO PRUEBA",
-        "url": "DiRjRbsjVOT8uXYPs5K2dXX9yKYL8PT16Br/iTsHfCA54j6ehnUG5ihXmE94MRR5nXeSQKCHhQoBiQ9nBOiwZk/9KXUURNcoZGPQ+aEK1N013zqDmL5tIJ03ALX7lIKM/ImLzSp/BrmRaRlPIO0+Gp77UqGwbyYjwrcCZuFtBoHFO0qNEMSdfVrnjPfD8/Dp2D/OdUQiOoCqdK9ogbEf2il13ILHrhfesmVDAJUsaDRVdp4gRjlTYPIwPTvoqkXzeMRFUtlR7kV8Wu4H+K8ctTeAG//vY30Ka9bkPjL2MPU=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7N83hshtn5zjrrQFGwyjY0ElOLxOBrAIHmtkasnCoMtZXAPpdkV/j09POQBVW5UAfzTFiuBiffbZBq5hrcikAEpqVGwgoVa6ksNAU7NS1COmGDySjrqI+Xj14gkPsDhYpoFcW0AHr4rvZVxpozTevg=",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
-	    {
-        "name": "EVENTOS INTERMEDIAS",
-        "url": "fgUXksvg06s/dw05K1NyjhlfheHLppAEWfMISEPtKKu+vkkVjJEU0NEf9+vmQiIZ",
-        "type": "CLEARKEY",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7N83hshtn5zjrrQFGwyjY0ElOLxOBrAIHmtkasnCoMtZXAPpdkV/j09POQBVW5UAfzTFiuBiffbZBq5hrcikAEpqVGwgoVa6ksNAU7NS1COmGDySjrqI+Xj14gkPsDhYpoFcW0AHr4rvZVxpozTevg=",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
-	    {
-        "name": "EVENTOS DIVERSOS",
-        "url": "fgUXksvg06s/dw05K1NyjtjUKJCHAVBoN/EmvB21TrqY7YsyjW7GFf7BfmuMfv86",
-        "type": "CLEARKEY",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7N83hshtn5zjrrQFGwyjY0ElOLxOBrAIHmtkasnCoMtZXAPpdkV/j09POQBVW5UAfzTFiuBiffbZBq5hrcikAEpqVGwgoVa6ksNAU7NS1COmGDySjrqI+Xj14gkPsDhYpoFcW0AHr4rvZVxpozTevg=",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },	    
-{
-        "name": "EVENTOS1 TIGO FULL HD",
-        "url": "Hx7d54uSwb/qyGDnmMnepuyaHrARKHadz6lmNuJ5C5hslrJZ0A8eIgKMeoxMJB8W9iEqvZZokF8Nh8L92FY5oV4uB2YV8fBSbuaiR9GaOIBAYCp/gL2DeO0jR2RoM0PJ",
-        "type": "CLEARKEY",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7N83hshtn5zjrrQFGwyjY0ElOLxOBrAIHmtkasnCoMtZXAPpdkV/j09POQBVW5UAfzTFiuBiffbZBq5hrcikAEpqVGwgoVa6ksNAU7NS1COmGDySjrqI+Xj14gkPsDhYpoFcW0AHr4rvZVxpozTevg=",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    },
-    {
-        "name": "EVENTOS 2 TIGO FULL HD",
-        "url": "f76VlCWAKyDLR/WttkdLFFsDQDlXcmMbX/CxY0jevclmCYDdXGUlExdCvOPfNWmF6RFbErN1HanBa73QLaFNQtGWvcz/32khvZc9vfqj2ZFAYCp/gL2DeO0jR2RoM0PJ",
-        "type": "CLEARKEY",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6QyQPJdPXbRu+dlqwj3TCMmN91GcxwO8pw5Bx+w1Cj6X6pMQwO5J+n47YX2IiQFHTgxbdSW24PfbtEngDWuCQHEUsyOjZ2DhJezwN2oIYqw9/0YHz7A+u+zl3FyD2GhS17w==",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-        "headers": {
-            "Origin": "https://www.tigosports.com.py",
-            "Referer": "https://www.tigosports.com.py/",
-            "User-Agent": "FireFox"
-        }
-    },
- 
- {
-        "name": "EVENTOS 3 PLAY TV PY HD",
-        "url": "/eo4KeqfI+XRrjQutfRiZDvAHvHJlCxDwgLo2A05t975YBAB3HhCT3FVQ07QZqs8ZlIAVXTRJw7PnBD4Cb3SUgbqOfUhsMutfNrop5v/wIdAYCp/gL2DeO0jR2RoM0PJ",
-        "type": "CLEARKEY",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6QyvrIvtrr7M7UBNmD/xG0aQdKd7R4Kkqnq7a/98jY6d48t9DNTcMsyShYS+8gEueJe54dfLPNaSpZTDCzVirTlJh1W+1JracOEoRpx6Lno3Qjq75usVhr7B/jTGYm6VPAA==",
-        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-    }
-    
-]
+      }
+    ]
+  }
+ ]
