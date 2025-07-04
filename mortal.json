@@ -3,13 +3,11 @@
     "name": "EVENTOS EN VIVO SOLO EVENTOS ACTIVOS",
     "samples": [
       {
-        "name": "TELEFUTURO",
-        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cmo5DmL8jL1RpnT3+1QbwRT+Ylo9Kk/p8AZL2OmMWftC92CJHCQ0ZQJPGIT+F5hT9Gkg4267jESCkyNdeh3t16E",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yeXp8BsLS0Q5w8nk6z/Fa1/kdJ8706aTr2IRl1qV3wVokO63CqlzThIwXEtGVQhLVaR/yDJsUjX2vUpEVLWmCTjWgefjDQnLZcbCSlqC80CcrqG9IMwAGCNJr7c9S3yQhw==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+       
+ "name": "Eventos 1",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+        "uri": "Hx7d54uSwb/qyGDnmMnepuyaHrARKHadz6lmNuJ5C5hslrJZ0A8eIgKMeoxMJB8W9iEqvZZokF8Nh8L92FY5oV4uB2YV8fBSbuaiR9GaOIBAYCp/gL2DeO0jR2RoM0PJ",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yafP0bMtGnmP1Owy5A/8uNy3TmRHlrFsclHzOpSmRImGOzhZohoBZN8vxWvD4O4PpTNz498QWkfdJTsifqBp8cXEZFMHGMDfA2oFA6MA3W+z9NJEXNjQjkQncjfZdeuvBQ=="
       },
       {
         "name": "RPC",
