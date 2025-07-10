@@ -1774,23 +1774,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySTR1K5Wl1NO3DrIzJ/uKvaOntw2GE14MB6BJFaUAkfS1pNEvcVcbUsWoO2wqY/KVVbqsg6vDKkveLaYHXYBks579hsd4HUD69fMzX3NCIEnPm890XeXULh06LwnPhsPwA=="
       }
-     ]
-  },
-  {
-    "name": "PACK HBO GLOBAL",
-    "samples": [
-      {
-        "name": "HBOO",
-        "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg",
-        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRE6iHhfP7cQIw5N+i0Rb79fSsBxaG/QR1nwx5eNqa48UA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZFFqURSwJQSi05vHx6ufVLZYMPARrIPJstAp8b6fOO8daL8OAnyBclrin/zcpf3esnSsCLDMEMGTQ7WYNYDRAZU5BddWc+Y7gjXL6BSnuqxNYlyCFgMSWxDOADGc1EapQ==",
-         "headers": {
-         "Referer": "https://player.sensa.com.ar/",
-         "webtoken": "1.0",
-         "Origin": "https://player.sensa.com.ar",
-         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-      }  
+ 
     ]
   },
   {
