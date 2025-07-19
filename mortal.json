@@ -995,19 +995,19 @@
     "name": "JAPON TV EN VIVO",
     "samples": [
       {
-        "name": "TV JAPON 1",
-        "icono": "https://i.imgur.com/2OINFaA.png",
-        "uri": "pL/GcR1vxzGcHG5qH4GFwoJmdaCG+6Vv346NA+4XtC5pemRpqwu4YIAQtaDtk988Tl8f5Wu0dARmkjpf37T3Ng=="
+        "name": "NHK G",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
+        "uri": "pL/GcR1vxzGcHG5qH4GFwg8W7ILbim/CtBxQOT+PKbf4iQlOlK4IzCNUMY/aiKn9"
       },
        {
-        "name": "TV JAPON 2",
-        "icono": "https://i.imgur.com/vFOBppE.png",
-        "uri": "pL/GcR1vxzGcHG5qH4GFwoJmdaCG+6Vv346NA+4XtC5pemRpqwu4YIAQtaDtk988Tl8f5Wu0dARmkjpf37T3Ng=="
+        "name": "NHK E",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",
+        "uri": "pL/GcR1vxzGcHG5qH4GFwou4Nbckf1HnTIKFhamC+ML4iQlOlK4IzCNUMY/aiKn9"
       },
       {
-        "name": "TV JAPON 3",
+        "name": "NTV",
         "icono": "https://cdn-icons-png.flaticon.com/512/0/49.png",
-        "uri": "pL/GcR1vxzGcHG5qH4GFwoJmdaCG+6Vv346NA+4XtC5pemRpqwu4YIAQtaDtk988Tl8f5Wu0dARmkjpf37T3Ng=="
+        "uri": "pL/GcR1vxzGcHG5qH4GFwseijFP3nlgOXQlzTj2d0Z9CPAKQXxlzhdwbYmBTwcyO"
       }
       
     ]
