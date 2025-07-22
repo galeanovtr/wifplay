@@ -1771,13 +1771,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "HBO 2 OPC 2",
-        "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS/bbTR/R3h1cmlW6xbtZg28+H32wmBnz9JHVjCDi1+KWpSa0DwnvFckHccKd0BQ290=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVkDGgcsbp/LlBySzG/CSAX0HD/94Fkpffqp/AAtnm7EpTSQrkqQMOBhAHJrn9q/tKLgzMGyDoXEn7lpKvjUcSXJGF54HCthF4IUlA5gOEFemCdGVSC6BL2xUeq4ZAsjZA=="
-      },
+ 
       {
         "name": "HBO XTREME",
         "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png",
@@ -1787,13 +1781,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "HBO XTREME OPC 2",
-        "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS//PuYd+i3a5HnJeN/oFsPppw+eOt97JvNzmVk0iY1fXoTRLquj3rNAwxXUsL/YKF4=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTxKhVubtb322z09q+FcRcIHCCkMsh39n+GqC8jZRn2gvPWN4hVdU8Y90hfI+8+5ZEHRqt9zvZbQi/qS940d2HpPR9tQNhSm6idfaTVv3C1KqR24GUXJ7GFJIlU5SFwfXg=="
-      },
+     
       {
         "name": "HBO FAMILY",
         "icono": "https://i.ibb.co/DMn0KSH/descarga-2.png",
@@ -1803,13 +1791,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "HBO FAMILY OPC 2",
-        "icono": "https://i.ibb.co/DMn0KSH/descarga-2.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS8r/GA3sUjD0nCCMnd5vPyepw+eOt97JvNzmVk0iY1fXiZ8k5/SuJxJ+dApqlPaWU4=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySlNL4A378knD4RC/3z5IbFBbwLpu9l7HNjhsBuWcuSWt3GVDJvSm/9SisXj7BpBvRAtLal7l0bzHI/MG2h07MKRmqRl8FtbJEAArkeyMXRmmgTxXtE3JwQ0CvswoVuIKg=="
-      },
+     
       {
         "name": "HBO SIGNATURE",
         "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png",
@@ -1819,13 +1801,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "HBO SIGNATURE OPC 2",
-        "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS8yPqLIQ+/+mWXYqnHhRzeANuq6Dp5nIZ+BAhURY8vtJQE/fh063LiTrWuLnXNKcU2UmtA8J7xXJB3HCndAUNvd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZbUmRrm1LXqlYlY8tzozuMnBBQ5lNydJcf3mFEazTTN8Veio/+Udc1lbDvxTKR9HbOxWc3sSdBXwkOK2Dp+V/EGVf4LVCzzlz1quyfDKVu8CZlRMcTuNkioB0aN512KrQ=="
-      },
+  ,
       {
         "name": "HBO MUNDI",
         "icono": "https://i.ibb.co/dJjRPzB/ar-max-m.png",
@@ -1835,13 +1811,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "HBO MUNDI OPC 2",
-        "icono": "https://i.ibb.co/dJjRPzB/ar-max-m.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS/EjdZybkezgdJCxmKY0Teqvaa+8GawgSZyCIcMGiLQzZJrPzWZzh39A/2WsSdAyGg=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yaAz/kyaCk6uT7aRHrsPuAcYujIyWpiati1YcaPbam3pfJuMmTBTswGwOaFBYGAf4++LaobwM8ML8/7tqEtYujrA/MQMYz+kqjTtBq8z0Z55XOa28ptGsINLzTznmpPpOg=="
-      },
+      
       {
         "name": "HBO PLUS",
         "icono": "https://i.ibb.co/1qcpR0T/ar-hbo-plus-panamericano-hd-m.png",
@@ -1851,13 +1821,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "HBO PLUS OPC 2",
-        "icono": "https://i.ibb.co/1qcpR0T/ar-hbo-plus-panamericano-hd-m.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS/l8M6rHbwZqOgzm/80IWOkkD9GAjs9lqX0fJ0VaHRZUFOVHjUBQMmez4rYEqKCz8M=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yeQgfDK4zi3y1s6VH9lpgdh+AHTrfniCa5BccnK/bvyNHCJm3CaCg/TLwVgjm/wABKKDaj34wzJvdXHhlW08f5LHwIO1PPglqLtxUNn/ekyuQ2KHZebC67UYBJyO9udUhQ=="
-      },
+    
       {
         "name": "HBO POP",
         "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png",
@@ -1866,14 +1830,8 @@
         "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuIQTZ6StyAYtck9S8mpEJ/04/uq0D2FHZh7Gai58rOhVa7IR9CVTm8PKcy5wjJ9ttBCmPhkiusv+YG2tPyn9h++ezfp8Us2Yzxr+gILHXT3zMxCXeJ0r9bD35Kxg7Ru3wQ==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "HBO POP OPC 2",
-        "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS+YAe1L+yydEubPOeBBicRWvPJH5rrnL5jZKsugHX9Cibb4I+ovDegXbCcBXcMqC+s=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWZx7vZXA6B3uK93FHOCNtq65q+ihfd5HyHRJxn6YoCPojOVy0/KfcehyBBoOhRvsKCLQrV4rNNDkod1DV4ocU8yv4DTSWXmEtDWRCKMzjgJuaQXlPsDeUng1AelRtKrlg=="
       }
+    
     ]
   },
   {
