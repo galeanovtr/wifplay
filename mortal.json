@@ -49,6 +49,11 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
+       {
+        "name": "SNT 2",
+        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzT/+BMXCJiNJ6AsrYme8E5nf7ZNDSNVmC+cULAErKnUyg="
+      },
       {
         "name": "TELEFUTURO",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
@@ -58,7 +63,11 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-    
+     {
+        "name": "TELEFUTURO 2",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTxIgYAElJDat4OIianjtVoU5fH+VrtHQEZpI6X9+09zY="
+      },
       {
         "name": "RPC",
         "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
@@ -68,7 +77,11 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      
+      {
+        "name": "RPC 2",
+        "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTt3LejOvElRrUnRFLbOs+lf7ZNDSNVmC+cULAErKnUyg="
+      },
       {
         "name": "UNICANAL",
         "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
