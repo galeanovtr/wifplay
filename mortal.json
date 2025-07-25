@@ -101,6 +101,11 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
+       {
+        "name": "GEN TV 2",
+        "icono": "https://latinartv.com/sites/default/files/logos/gentv.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTE3k4EXShaPsb9NrX53A27cpUBeKkTroT6jwhlVlr/5k="
+      },
       {
         "name": "MEGA",
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg",
@@ -149,6 +154,11 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
+        "name": "SURTV 2",
+        "icono": "https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTHgpdEQsFgQPcWyUnJjRz5spUBeKkTroT6jwhlVlr/5k="
+      },
+      {
         "name": "ABC",
         "icono": "https://i.ibb.co/dGqjksf/descarga.png",
         "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPTV24faEstVZdrMBgzDyDijZ5WgPy1D9KgBQVWAiXw+hXI6UR/P0MqaO1qOxdiGmpo=",
@@ -158,9 +168,9 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "ABC",
+        "name": "ABC 2",
         "icono": "https://i.ibb.co/dGqjksf/descarga.png",
-        "uri": "AKT7nOYlFHaGkyfBlT30YvFr4a3AUvdOh9ww+g+qDa/rfS229h3a7Yg5f9K53jaYdLDbEXKWivNGn9YUN/MopTnIRkWvSITX4Q6a/NJ6M4IGBp2+tIMjl0rGUk3g+sYsteLiulH0PFJAoe8HFxeB2DPRvfPNV7Lhn0JvTtSAMdD+2TQ0jVZgvnFCwBKyp1Mo"
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzToqm28x6B/w6DPIiZPDqtlTeAG//vY30Ka9bkPjL2MPU="
       },
       {
         "name": "NPY",
@@ -198,16 +208,12 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-       
-      {
-        "name": "GEN TV",
-        "icono": "https://i.ibb.co/k2XNPqR/channels4-profile.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn40h+Rui5cp4l9SrDQ7+dQ0DtN18q7WnJCBHuxMvhjEVGMn7R7gYQW69+Kjwrtrpg=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd+25ueir98WToVqPJdQPyvi/v7/XwyUlhGHvM5wWL01Si+euaUb0kFoqF2IxxIi/PZJLBITygdx1xgzeSW6fVv0N3kt4wAE/QsT54pysAOphAw41DGRMTNR6NlIcalEdQ==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
+        {
+        "name": "C9N 2",
+        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTyMT0AFTysdXG48Sp74KHF8pUBeKkTroT6jwhlVlr/5k="
+      }, 
+     
       {
         "name": "LA TELE",
         "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg",
@@ -217,11 +223,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "LA TELE",
-        "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg",
-        "uri": "KDABGuYh4BkQbR4NUfPlTeCqP+k3fELMR47ap1y4L24M//zW7+2KbCGaGxHkCbkVvygqJq/SSglpRQx0Q2svsTUwkiC7liWDV6/AA6P6zpNlkcE76QdI5XnFM/6iWiJc"
-      },
+  
       {
         "name": "Unión Tv",
         "icono": "https://i.ibb.co/9hqVmzy/descarga.png",
