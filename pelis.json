@@ -521,11 +521,28 @@
             "uri": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2FVer%20Scream%206%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4"
           },
           {
-            "icono": "https://pelisimg.online/cover/el-rey-mono-1692434974.png",
-                  "name": "EL REY MONO",
-                  "uri": "https://cache009.peliscdn.online/newhls/1c73ea851515ee2f6b2fd3c267b24fe2/EP.0.1.v2.1709033188.1080.m3u8"
-   }
+            "icono": "https://image.tmdb.org/t/p/original/uj9bcqKBRhUGvYcbUKEAS7uI61f.jpg",
+                  "name": "El payaso del maizal",
+                  "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/478B719323574876857F68DDC407B2EF_media.ts"
+   },
+{
+            "icono": "https://image.tmdb.org/t/p/original/wUdyz4lYoyCR906SRJoL7GeN2rc.jpg",
+                  "name": "Mis 84 m²",
+                  "uri": "http://goovdme.967sd1f.homes/vod/D8814A56A29649849ABCBA878A650E28_media.ts"
+   },
 
+
+          {
+            "icono": "https://image.tmdb.org/t/p/w500/toXaWRjF0DpaQ9yzdbyKoFpFLkU.png",
+                  "name": "Lilo y Stitch",
+                  "uri": "http://goovdme.967sd1f.homes/vod/68C9A424CC26469B83B2065242669B9F_media.ts"
+   },
+          
+ {
+            "icono": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
+                  "name": "El muro negro",
+                  "uri": "http://goovdme.967sd1f.homes/vod/02141F7665DF4DA2943AADDB02B85E0C_media.ts"
+   }
 
 
           
