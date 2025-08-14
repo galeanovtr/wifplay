@@ -35,6 +35,63 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
+
+    ]
+  },
+  {
+    "name": "PACK DE CANALES VARIADOS",
+    "samples": [
+     
+      {
+        "name": "ESPN 1",
+        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTSfPsoaTDylwlHP922EwJIE5fH+VrtHQEZpI6X9+09zY="
+      },  
+
+      {
+        "name": "ESPN 2",
+        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTkmi1Xa3bAHnIeETsdI37PU5fH+VrtHQEZpI6X9+09zY="
+      }, 
+
+      {
+        "name": "ESPN 3",
+        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTrTWwQqrkRbGv0CyAqn2Nfk5fH+VrtHQEZpI6X9+09zY="
+      }, 
+
+      {
+        "name": "ESPN 4",
+        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTX4+gJZCF+N4Bzuicoa948E5fH+VrtHQEZpI6X9+09zY="
+      }, 
+
+      {
+        "name": "ESPN 5",
+        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTWFic0F/Qc7ajMDIHc3uC005fH+VrtHQEZpI6X9+09zY="
+      }, 
+
+      {
+        "name": "ESPN 6",
+        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTYH442lk0NCkxGOJA2SLTak5fH+VrtHQEZpI6X9+09zY="
+      }, 
+
+      {
+        "name": "ESPN 7",
+        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTeiSHXFVNNNH0kweVEyuXc05fH+VrtHQEZpI6X9+09zY="
+      }, 
+
+      {
+        "name": "FOX SPORTS 1",
+        "icono": "https://i.postimg.cc/X77MRPJZ/download-20.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTIb6xTmWTcEVAgRbZkBloDMpUBeKkTroT6jwhlVlr/5k="
+      }
+
+
+      
     ]
   },
   {
@@ -1406,6 +1463,14 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
+      
+       {
+        "name": "FOX SPORTS GLOBAL",
+        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTkmi1Xa3bAHnIeETsdI37PU5fH+VrtHQEZpI6X9+09zY="
+      },
+      
+      
       {
         "name": "FOX SPORTS 1",
         "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
