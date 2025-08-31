@@ -654,59 +654,7 @@
         "uri": "99N5KPL9OlMwb0Emiiyh6PA84G2dFjZz2LrqNBMn+u4VFlv4d1EJOvPgOv6Sp4JOr0/l5JeEWETivwFYLQVtfXsH81koMxY5BxgrfgY0HGY="
       }
 
-       ]
-  },
-  {
-    "name": "DEPORTES BRASIL",
-    "samples": [
-{
-        "name": "PREMIERE CLUB",
-        "icono": "https://embedtv.digital/assets/images/premiere.png",
-        "uri": "73bdm6ZvXtGTNoP2zFLVas3gt0bWbMrnS023hjF6fuM3rDg5+8Jt+1KOJT5rXDrxRo+qq/N9bxbOrq/axX9EPGcU3uK3/vp+JBhmEjWHj2cDbWNIH1OSIx7n+dYaiY7re7pEsnBc9yR+LcYvzA6bPAS8uZzcQUXZypEiPvEeE4wPsp49Tuo73JatTGm/cu23mXhRct8/d+cZap3EjG3bWQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "SPORTV 1",
-        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-        "uri": "MDp1jAqJj1yXCX+7kklzmVAB90V8s7i5CgaZwlgy+ldLQGbD/g/pVc0OHT125alTDQqca3784MAra0fJGQdIC05fH+VrtHQEZpI6X9+09zY=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "SPORTV 2",
-        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-        "uri": "MDp1jAqJj1yXCX+7kklzmfLxVDk8kfxpa4fkLs7KPGhi4MNcmOxYXhrKMgMPuPzrQo7M8xQPyO60wLjkhdFA5Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      
-      {
-        "name": "SPORTV 3",
-        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-        "uri": "MDp1jAqJj1yXCX+7kklzmfLxVDk8kfxpa4fkLs7KPGhi4MNcmOxYXhrKMgMPuPzrDfILIH4TISo1End0uuJyyg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "ESPN BRASIL",
-        "icono": "ttps://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdg2ceqg/vNd0tYrmKBJjmrtQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      }
-  
-  
+         
       ]
   },
   {
@@ -1341,6 +1289,58 @@
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cmvmtr1XWez63ti977Bts8eVAxfzWYQrG+eJ4dcOu/0V0WqQy39bnjdfkSqA4DTtnXGYg9tFyLAvC8EuZUPfHWf",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yR+AXyYvB9jSrCOeQN4UaXQW69qHLmoCW+lp4Ycd8J5FOQp4Z9Swk1TUQzl+3/tza1C2dsKrUAs2V2AhQB7qmAknArAVU4wraj/qvEeldvd+55Iz/OklR7dKczWkyvPWCw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      }
+
+      ]
+  },
+  {
+    "name": "DEPORTES BRASIL",
+    "samples": [
+{
+        "name": "PREMIERE CLUB",
+        "icono": "https://embedtv.digital/assets/images/premiere.png",
+        "uri": "73bdm6ZvXtGTNoP2zFLVas3gt0bWbMrnS023hjF6fuM3rDg5+8Jt+1KOJT5rXDrxRo+qq/N9bxbOrq/axX9EPGcU3uK3/vp+JBhmEjWHj2cDbWNIH1OSIx7n+dYaiY7re7pEsnBc9yR+LcYvzA6bPAS8uZzcQUXZypEiPvEeE4wPsp49Tuo73JatTGm/cu23mXhRct8/d+cZap3EjG3bWQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "SPORTV 1",
+        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+        "uri": "MDp1jAqJj1yXCX+7kklzmVAB90V8s7i5CgaZwlgy+ldLQGbD/g/pVc0OHT125alTDQqca3784MAra0fJGQdIC05fH+VrtHQEZpI6X9+09zY=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "SPORTV 2",
+        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+        "uri": "MDp1jAqJj1yXCX+7kklzmfLxVDk8kfxpa4fkLs7KPGhi4MNcmOxYXhrKMgMPuPzrQo7M8xQPyO60wLjkhdFA5Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      
+      {
+        "name": "SPORTV 3",
+        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+        "uri": "MDp1jAqJj1yXCX+7kklzmfLxVDk8kfxpa4fkLs7KPGhi4MNcmOxYXhrKMgMPuPzrDfILIH4TISo1End0uuJyyg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "ESPN BRASIL",
+        "icono": "ttps://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdg2ceqg/vNd0tYrmKBJjmrtQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
