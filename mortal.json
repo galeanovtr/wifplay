@@ -613,11 +613,7 @@
   {
     "name": "BRASIL",
     "samples": [
-      {
-        "name": "GLOBO TV",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTmWFWkzSbIdGHSFn5iDQmkE5fH+VrtHQEZpI6X9+09zY="
-      },
+      
       {
         "name": "BANB",
         "icono": "https://i.postimg.cc/WzkPwCzX/download-43.jpg",
@@ -632,6 +628,11 @@
         "name": "RECORD",
         "icono": "https://i.postimg.cc/GhCx32Wk/download-14.jpg",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzT/VfL/kek+fSY6gNt7akPEk5fH+VrtHQEZpI6X9+09zY="
+      },
+      {
+        "name": "GLOBO TV",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTmWFWkzSbIdGHSFn5iDQmkE5fH+VrtHQEZpI6X9+09zY="
       },
       {
         "name": "ABERTO TV SIM Colatina",
