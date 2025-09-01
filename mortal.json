@@ -17,7 +17,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWWEyB1Ww7BG038rOwozZekUjDA9TnUN+LJaAej24qpBHsw5ASknENlOYhTuKiJBeyyBzOW8e2vfsDjvnoPACAi130RYJgAW28ELQSn5YESxTjnmoP7o/YwJRpzoIz9Tyg=="
       },
-       
+                 
       {
         "name": "GEN TV",
         "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
@@ -28,6 +28,16 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
 
+       {
+        "name": "UNICANAL",
+        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ckzx1rU1NGKebiUY1/WAiZg41XBikUicmVGnrPUDuEMSzDN2t/ReqCCzaMzOS70l7/Htxesks9vWM3FPnQSWu/n",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yW0hkQSHOEACfbvQDnyvOitmbwafvtBOueBO+QoDoft99LWE7EH9oxtNuid0gBOp9IMSflET2TovQEDo9K65/91VzfkME7kLChsEw5Ll3wJr/nR7KTI/lM8yZIweLfneLw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+
 {
         "name": "GEN TV OPC 2",
         "icono": "http://tplatinvip.club:2086/images/mg9e4VnU5MiobcDarwnBsezs5-AaKeevmM-2nF-Q34w.png",
@@ -36,7 +46,17 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd+25ueir98WToVqPJdQPyvi/v7/XwyUlhGHvM5wWL01Si+euaUb0kFoqF2IxxIi/PZJLBITygdx1xgzeSW6fVv0N3kt4wAE/QsT54pysAOphAw41DGRMTNR6NlIcalEdQ==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  }
+  },
+      {
+        "name": "UNICANAL 2",
+        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
+        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgIOCgrYSayBYmGhvEpbWphQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yW0hkQSHOEACfbvQDnyvOitmbwafvtBOueBO+QoDoft99LWE7EH9oxtNuid0gBOp9IMSflET2TovQEDo9K65/91VzfkME7kLChsEw5Ll3wJr/nR7KTI/lM8yZIweLfneLw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      }
+      
      
       
        ]
@@ -50,7 +70,8 @@
         "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg",
         "uri": "a8Aal6a2004oPhHYYwRRX4FmFE5D5/ZfBMZ2v2kQ2MNvQuU/cg3wu0fIKAvOz482T9D1ojJEPMoXfRzxETSAq05fH+VrtHQEZpI6X9+09zY="
       },
-      
+
+            
  {
         "name": "RALLY 2",
         "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg",
