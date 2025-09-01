@@ -1420,6 +1420,54 @@
         "icono": "https://sm.ign.com/ign_es/screenshot/default/resem104348wwe-day-1_ettn.jpg",
         "uri": "kzv+F8KvTQK4sZ5DRWB/uqskw5F7cnx1M5gxRJ/QhR/TDjQC6E6pQkMZ71pKzNly/tk0NI1WYL5xQsASsqdTKA=="
       }
+
+       ]
+  },
+  {
+    "name": "DAZN",
+    "samples": [
+      {
+        "name": "DAZN 1",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgzFFgPmAIe8SoBZkel3Sp5Q==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZWDg3JGp1oXWVrNVlmMI0nCpXAkdvJqlVCOlxJEfCZRZA+GAoM0hlxtYg75MVw+bf9AA/pN7HM5CFpFCvOHu5LMHlHh4Jeqkls7dokILL0z0VZtXzGJNCDJ7tO2nNWzhg=="
+      },
+      {
+        "name": "DAZN  2",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgSbBDE56DroYwMMTBtO071A==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yf8eNDcX4Lu1FGydZVLkpi0ckZVUOlTFu80lfc4XTpCgpoznnGXkvfawz0zThcifyPpaQ3wgBbxelUeliavGuAtSebvO6ZEPIu0dUgfvzXfuxr9Zzm16MC32I46wgpQdng=="
+      },
+      {
+        "name": "DAZN 3",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgHRcwgggwspu33cyMiHYIWw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yR4PZGkykKpI6TxLKcSkkHlWmREgG+yGrNo5+7tabEDDtIrdnchvrdCRcm5bkvXBR9zNcTGk4DPBtDT3XKKjWOgOuROPtOCfIh157HGz86i0HrqfDcTLCLmuwI3CgIvVCA=="
+      },
+      {
+        "name": "LA LIGA",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgIpqESFtjlwN/evWtIwFJAA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yR4PZGkykKpI6TxLKcSkkHlWmREgG+yGrNo5+7tabEDDtIrdnchvrdCRcm5bkvXBR9zNcTGk4DPBtDT3XKKjWOgOuROPtOCfIh157HGz86i0HrqfDcTLCLmuwI3CgIvVCA=="
+      },
+      {
+        "name": "LA LIGA 2 ",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgIpqESFtjlwN/evWtIwFJAA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yezoTUDpTA6N1yC+Jbc2XNODcS5FVS4fRUcHQrxH7z3b4h8dN8ppCNCG06xlllk/dz763gHCwCSiG0j9Tcjn2o5A3vq+68UUr25wFOSmA7gui+BhxrGiEuLhcNizJSxErw=="
+      },
+      {
+        "name": "DAZN FORMULA 1",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+        "uri": "jMr+S59URyT+FtLRHEYqD8DQIHEcVrqqW2DpABbjRYZmFImleU64HNRinHBd/XLuEdOcdUMSYVzyGzfh/vtY/N2C6+l0PvfxRRLfHoZmDkQMucrlmeDAQRk2Mmjd7ordgqIQLvRynLAxNgjXaOsm+7TdcN8JUnIRIj8QwTD1npk=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySTR1K5Wl1NO3DrIzJ/uKvaOntw2GE14MB6BJFaUAkfS1pNEvcVcbUsWoO2wqY/KVVbqsg6vDKkveLaYHXYBks579hsd4HUD69fMzX3NCIEnPm890XeXULh06LwnPhsPwA=="
+      }
       
         ]
   },
@@ -1807,27 +1855,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
-       ]
-  },
-  {
-    "name": "JAPON TV EN VIVO",
-    "samples": [
-      {
-        "name": "NHK G",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
-        "uri": "pL/GcR1vxzGcHG5qH4GFwg8W7ILbim/CtBxQOT+PKbf4iQlOlK4IzCNUMY/aiKn9"
-      },
-       {
-        "name": "NHK E",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",
-        "uri": "pL/GcR1vxzGcHG5qH4GFwou4Nbckf1HnTIKFhamC+ML4iQlOlK4IzCNUMY/aiKn9"
-      },
-      {
-        "name": "NTV",
-        "icono": "https://cdn-icons-png.flaticon.com/512/0/49.png",
-        "uri": "pL/GcR1vxzGcHG5qH4GFwseijFP3nlgOXQlzTj2d0Z9CPAKQXxlzhdwbYmBTwcyO"
-      }
-      
+             
     ]
   },
   {
@@ -2054,54 +2082,7 @@
       }
        
     
-    ]
-  },
-  {
-    "name": "DAZN",
-    "samples": [
-      {
-        "name": "DAZN 1",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgzFFgPmAIe8SoBZkel3Sp5Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZWDg3JGp1oXWVrNVlmMI0nCpXAkdvJqlVCOlxJEfCZRZA+GAoM0hlxtYg75MVw+bf9AA/pN7HM5CFpFCvOHu5LMHlHh4Jeqkls7dokILL0z0VZtXzGJNCDJ7tO2nNWzhg=="
-      },
-      {
-        "name": "DAZN  2",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgSbBDE56DroYwMMTBtO071A==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yf8eNDcX4Lu1FGydZVLkpi0ckZVUOlTFu80lfc4XTpCgpoznnGXkvfawz0zThcifyPpaQ3wgBbxelUeliavGuAtSebvO6ZEPIu0dUgfvzXfuxr9Zzm16MC32I46wgpQdng=="
-      },
-      {
-        "name": "DAZN 3",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgHRcwgggwspu33cyMiHYIWw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yR4PZGkykKpI6TxLKcSkkHlWmREgG+yGrNo5+7tabEDDtIrdnchvrdCRcm5bkvXBR9zNcTGk4DPBtDT3XKKjWOgOuROPtOCfIh157HGz86i0HrqfDcTLCLmuwI3CgIvVCA=="
-      },
-      {
-        "name": "LA LIGA",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgIpqESFtjlwN/evWtIwFJAA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yR4PZGkykKpI6TxLKcSkkHlWmREgG+yGrNo5+7tabEDDtIrdnchvrdCRcm5bkvXBR9zNcTGk4DPBtDT3XKKjWOgOuROPtOCfIh157HGz86i0HrqfDcTLCLmuwI3CgIvVCA=="
-      },
-      {
-        "name": "LA LIGA 2 ",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgIpqESFtjlwN/evWtIwFJAA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yezoTUDpTA6N1yC+Jbc2XNODcS5FVS4fRUcHQrxH7z3b4h8dN8ppCNCG06xlllk/dz763gHCwCSiG0j9Tcjn2o5A3vq+68UUr25wFOSmA7gui+BhxrGiEuLhcNizJSxErw=="
-      },
-      {
-        "name": "DAZN FORMULA 1",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "jMr+S59URyT+FtLRHEYqD8DQIHEcVrqqW2DpABbjRYZmFImleU64HNRinHBd/XLuEdOcdUMSYVzyGzfh/vtY/N2C6+l0PvfxRRLfHoZmDkQMucrlmeDAQRk2Mmjd7ordgqIQLvRynLAxNgjXaOsm+7TdcN8JUnIRIj8QwTD1npk=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySTR1K5Wl1NO3DrIzJ/uKvaOntw2GE14MB6BJFaUAkfS1pNEvcVcbUsWoO2wqY/KVVbqsg6vDKkveLaYHXYBks579hsd4HUD69fMzX3NCIEnPm890XeXULh06LwnPhsPwA=="
-      }
- 
+    
     ]
   },
   {
@@ -2772,6 +2753,27 @@
         "name": "DIOS TE VE",
         "icono": "https://play-lh.googleusercontent.com/-4OhvRG-BNBSloTMXVTKIax7uGElDnybRLC7qw0waJHUWafazWoprNyQbhG_n0MMRMg=w240-h480-rw",
         "uri": "YCVfuR2Hs5VESDv8KvNkjjBjEDJNe2WmM2STLCbHaSsnuB8wTrWJgXyDrv/LhgF6MxCXeJ0r9bD35Kxg7Ru3wQ=="
+      }
+
+      ]
+  },
+  {
+    "name": "JAPON TV EN VIVO",
+    "samples": [
+      {
+        "name": "NHK G",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
+        "uri": "pL/GcR1vxzGcHG5qH4GFwg8W7ILbim/CtBxQOT+PKbf4iQlOlK4IzCNUMY/aiKn9"
+      },
+       {
+        "name": "NHK E",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",
+        "uri": "pL/GcR1vxzGcHG5qH4GFwou4Nbckf1HnTIKFhamC+ML4iQlOlK4IzCNUMY/aiKn9"
+      },
+      {
+        "name": "NTV",
+        "icono": "https://cdn-icons-png.flaticon.com/512/0/49.png",
+        "uri": "pL/GcR1vxzGcHG5qH4GFwseijFP3nlgOXQlzTj2d0Z9CPAKQXxlzhdwbYmBTwcyO"
       }
     ]
   },
