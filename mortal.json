@@ -1887,7 +1887,7 @@
       },
       {
         "name": "TV ESPAÑA",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/800px-TVE.svg.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm/hFG39GziXqa/BvLBD0XRXf8MRlpECfwyYGYIdo9hT8XCKK0+MhSLX888AlfrsbvGYg9tFyLAvC8EuZUPfHWf",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTT8kOlf5m/nD/q500oxPQXblIkEGlwPKAARa5xlqmOv2EwUGbzCeXsXPbLJilQEC5j+mYrruX8PXL0/Qcj85R3AYEm+UZ/BZ85LKrbnmGSnfwYuUxM8eY4Ou4Mk0JAJrQ==",
@@ -1896,7 +1896,7 @@
       },
       {
         "name": "TV Azteca",
-        "icono": "https://www.grupoisos.com/wp-content/uploads/2024/05/Imagen-TV-AZTECA.jpg",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuqCHTcShu54PLMVH-7GzGwWT0IMRu9baDyg&s",
         "uri": "vNz3864caJo8nYD4XB5kAVD2+fbAohf8PPrlZqApuPj9XrViv9DEoNOh/aOwQIr4"
       },
       {
@@ -1910,7 +1910,7 @@
       },
       {
         "name": "CNN ESP",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/640px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+        "icono": "https://e7.pngegg.com/pngimages/750/138/png-clipart-cnn-en-espanol-logo-united-states-united-states-television-text.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl/sSbUmdKBIZgir1uvRiWEumTTEqTXIFu2i8ZNXaJ3luAXPkn8OTlnwVJftNewIpdGnwcGW7k9IPEdoxGWci9T",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRMVsTLZUlrxMyLUFdZmjvcVcvCYzQXbicnMG2zBXC68cxsZFk3GN1nIN21FUeFVPjuGFon3ek2OsbLaR9na6+hJvW0V5qNSXJg+Df/hADJatoAoLJWB7+ISg7ztIhgeog==",
@@ -1919,12 +1919,12 @@
       },
       {
         "name": "telemadrid",
-        "icono": "https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.pnghash=dcdede14b767968b29028761f31fe79e",
+        "icono": "https://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png",
         "uri": "buejd7pNFlYSoDx9XSwalPguIhnut9AQ7EuphL3+DfnjokCgRp+DpR10jDl6bEwbSsL5otTnW4CuC1UjLXUb2Q=="
       },
       {
         "name": "EURONEW",
-        "icono": "https://yt3.googleusercontent.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg=s900-c-k-c0x00ffffff-no-rj",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20210623155431&path-prefix=es",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmpbgigiXe9sgd9tizJOPx0czqlzL2XEmlIJ026ohQj8Zze849c8j4a/LHQnRLSa8OUmtA8J7xXJB3HCndAUNvd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7EwTUi0cfl2blzxEklz2/0qAellKMAz59LCgy3ltXkymeJSuflCRxHFGWWlDEt+Q6kcMV7dc51XKquKCy/zZdVxMGr61A9cJIHPqFf7wQ2VnnJinx+zDg6jFf/KsKvelQ==",
@@ -1933,17 +1933,17 @@
       },
       {
         "name": "DNEWS",
-        "icono": "https://m.media-amazon.com/images/M/MV5BOTYxMGNjNTQtNjg1OC00OTUwLWI0ZDgtMmUwNGI1MGFmNzRiXkEyXkFqcGdeQXVyNTM4MjQ4MA@@._V1_FMjpg_UY5000_.jpg",
+        "icono": "https://images.produ.com/noticias/1022/big-LogoDNewsONDirectv.jpg",
         "uri": "S87iBzqutt8hYFItZ+vWRn+EpWz/3tMcc4LABR+SAM5AjzuQnri47mv1M0/eHNBZrCyXnxEuTk54YLXrLnrcgKvevdlu3j4HCCjsKl74IsI="
       },
       {
-        "name": " Chilevision Contigo",
-        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTEgAk3JH-qX36AS-VvsPInZr7KKQsCw1yIq6MxS1SJRXAoih0H",
+        "name": "Chilevision Contigo",
+        "icono": "https://www.chilevision.cl/chilevision/site/artic/20240424/imag/foto_0000000220240424143502_imagen_2023-01-06_161610132.png",
         "uri": "gUcYHE3bE3vr92Yzy9g5UyT+UgReVNNXOpswo32/bPE6ef7iPfB+NpOAnmV9GYir4QR45mtODrytaKiVquBrqaDwqmbaPPlj2WGbVwXif0k8XA6ec8H2MIyaCoi4i0LQK61EaTohm9HNzs18wAEQ98YaRa0rBbr3DNCx4JeM6bRvB+9sg0SaadCLpGnsALeb7A8qlutFPBXzaDDH0NgrZT4O5M1lpeQin2UJNPtT62jBwj1uAyoZqZAm0u6hFGSkvh9dQeVeaz7Y2GdilvaeQks4ZMkZenRAkjs+u64s7rwHYo8N5PRknmP6DwG+gYHt3j/SZZhcCXzPXL1yPb0iJNL1sVlpEM7IzyDrzM/ObV5E28TWlROytZChmZ1XY0CmsBzcOHr0cuzS41oPhDe4rvSGZQSfkK0/xQ9S5fDrFFu965LdeAUv8YFybDSxcf602/6btvEU6LEYQYGtFBP3GfMf2nVkuaEAI94XxVkgnCLtcs4GSXRz64O+fDP3YgDUiLy3ov2PEQgTUFyfRTsAIMWV4ObsxEyTlhymqS+klDzMYL8vxpBQcxE8k6zR2ZJTmx7kObRGxq0ITXMpSuvrNw=="
       },
       {
         "name": "TV CHILE",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/687px-Logo_de_TV_Chile.png",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/4/40/TV_Chile_2016.svg/revision/latest/scale-to-width-down/200?cb=20200626163118&path-prefix=es",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmgMmYjZ20J9d9VBR1IVuGJrqaOo5aKh/4q8jC+wnj7QWvJMeZa0RG9sPEq1S0TDxCUmtA8J7xXJB3HCndAUNvd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yQBt2Ps8avz/xkhqjf0q6vRmv33g5Yzc2sDT0YMccnMmu7NLgRP/KQQHmz9vt1lXdGmMYB8DavA0gFStiQJXynfyxBra0SeDqUtIeJLVr9h2feFW1DnEzKecAaD/aVbVgQ==",
