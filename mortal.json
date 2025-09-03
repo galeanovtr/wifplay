@@ -2806,6 +2806,25 @@
         "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png",
         "uri": "NXCf7QPLS+0ZWx9o+euLQ000K09gi+b6O2VHdfQTa3MmeMK5/aq6IjnspU3GIu07WOBHzXntywaWcbrshmLdxw=="
       },
+       {
+        "name": "CANAL DE LAS ESTRELLAS",
+        "icono": "https://cdn.mitvstatic.com/channels/las-estrellas-m.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn6cKNj+7gvV5w9KIWxLHbRWArDfx2xV7PBXz8HHjWdOa5xXBJuKxaas9HbSb86ttGWMXjE8JP7cFWGr1zTJO/j+r7NKqTeD/U6p5cvbc33+g==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXx+qyVZUNtgQ5JETzQKUyFPYKuBM5HHS4M+ecSr5sd90L9UTQO0K+UnPkOW0Pr/6JbNaz2J6ZPcugdTl9TquGwdj6q450PlGWgzJPS6oJAb6DQQgw8ZeSyiJf3DO/dDtA==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "CANELA NOVELAS",
+        "icono": "https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/channel-canela_telenovelas-16x9.jpg",
+        "uri": "eEcyCWd3QU4zo5iWda1Ag/1TZv+N9cnS6C08mMKdlDnF3Pu/A7P8UkPGPE3ANvP6SY+1f4cAOGPslBS9Qi0BMw=="
+      },
+      {
+        "name": "TELEMUNDO",
+        "icono": "https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg",
+        "uri": "ecnRtVoRLuH0J9Bzr+OGA7kL5vD+odrFvg+6Yzmucc2gHKWnzslKPhsjTYeBLx3lGiz7wCz9hZov4u91nTj3pw6+PIaYUUVajRiI031jKrAkIN25qeZ89qF4pifmOFiP"
+      },
       {
         "name": "NOVELISIMA",
         "icono": "https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB",
@@ -2826,28 +2845,10 @@
         "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTGW5z_RzPO0yqZXPjOTEEJKe8ccAtkqYcDFA&s",
         "uri": "/YSmp9KRi4GVYqOvw0yEaNQ60Q+AeZPCM7UhnChqlVAZ7Di7i+QLXG5OEY/ObiUzTl8f5Wu0dARmkjpf37T3Ng=="
       },
-      {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn6cKNj+7gvV5w9KIWxLHbRWArDfx2xV7PBXz8HHjWdOa5xXBJuKxaas9HbSb86ttGWMXjE8JP7cFWGr1zTJO/j+r7NKqTeD/U6p5cvbc33+g==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXx+qyVZUNtgQ5JETzQKUyFPYKuBM5HHS4M+ecSr5sd90L9UTQO0K+UnPkOW0Pr/6JbNaz2J6ZPcugdTl9TquGwdj6q450PlGWgzJPS6oJAb6DQQgw8ZeSyiJf3DO/dDtA==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "CANELA NOVELAS",
-        "icono": "https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/channel-canela_telenovelas-16x9.jpg",
-        "uri": "eEcyCWd3QU4zo5iWda1Ag/1TZv+N9cnS6C08mMKdlDnF3Pu/A7P8UkPGPE3ANvP6SY+1f4cAOGPslBS9Qi0BMw=="
-      },
-      {
-        "name": "TELEMUNDO",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-        "uri": "ecnRtVoRLuH0J9Bzr+OGA7kL5vD+odrFvg+6Yzmucc2gHKWnzslKPhsjTYeBLx3lGiz7wCz9hZov4u91nTj3pw6+PIaYUUVajRiI031jKrAkIN25qeZ89qF4pifmOFiP"
-      },
+     
       {
         "name": "TELEMUNDO NOVELAS CLÁSICAS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
+        "icono": "https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg",
         "uri": "uNMmg20dvCOhRq06e+KPSHnOijzQI6PZRc2QFN9Ywefji0cMmcDVdz/XKL1gChENIGX0XIbzwF0xR/r2Oq+QOa0s2gL45+zPPOrFlyQlROHfsD+65fBYCaDX0apb3Qt1YjSpWDr3HmjeloykeAfJbDolonzT2xLxfvDL8RBYPj3WvUvWPFWbljLgoBA+lV7wecXr9xFnNFMKDvwk9LMnuUameNCchq6MLW6s93hcu/1DAJLjGP8AFQTWF8N89NXuj0ONishBxKViTsFTQn6ui6h/27jw2nONYEzgI8AiH1CSgxJxswak54JuUHxjfEZ6Kpsn5uquG8C3C4D691agSqTp4ovnLUXn7nXsq/Sf4cccPk28gybtJO7sXwCLobycQgH7XftRBfbYlVzitlR8CZm2si9PMDTCiA/4OKvk6dxyC8+FlllVR5ifb5MZ/A4PGQQKS755+Yk57SdwpwJyXWwTK+kFBO8Qa7lHA1yIf+SyGy6MyVbYhrDlhTdLQCaFagW1eSdZOz1TFVLSk5LhMLQEknBhM/tDf3HrFuzgK2HaWokHZt1xF78EnwTKMLSLycFvSeQbSQWM5Ej3bIosLw=="
       },
       {
