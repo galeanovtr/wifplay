@@ -16,8 +16,15 @@
         "uri": "f76VlCWAKyDLR/WttkdLFFsDQDlXcmMbX/CxY0jevclmCYDdXGUlExdCvOPfNWmF6RFbErN1HanBa73QLaFNQtGWvcz/32khvZc9vfqj2ZFAYCp/gL2DeO0jR2RoM0PJ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWWEyB1Ww7BG038rOwozZekUjDA9TnUN+LJaAej24qpBHsw5ASknENlOYhTuKiJBeyyBzOW8e2vfsDjvnoPACAi130RYJgAW28ELQSn5YESxTjnmoP7o/YwJRpzoIz9Tyg=="
-      },
-                 
+      }
+  
+      
+       ]
+  },
+  {
+    "name": "🇵🇾 PARAGUAY vs. 🇪🇨 ECUADOR",
+    "samples": [
+    
       {
         "name": "GEN TV",
         "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
@@ -34,6 +41,15 @@
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ckzx1rU1NGKebiUY1/WAiZg41XBikUicmVGnrPUDuEMSzDN2t/ReqCCzaMzOS70l7/Htxesks9vWM3FPnQSWu/n",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yW0hkQSHOEACfbvQDnyvOitmbwafvtBOueBO+QoDoft99LWE7EH9oxtNuid0gBOp9IMSflET2TovQEDo9K65/91VzfkME7kLChsEw5Ll3wJr/nR7KTI/lM8yZIweLfneLw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+        {
+        "name": "RPC",
+        "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClCuInZupVN3OYKMYRR7M91LzB+p56gvxbE0W76oa2Oh8e5O2dOgOiSpTckuJGVAn8=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfXzZswH/ztQAYOA8heXwP/F7CdDaDlJL6b9viTrVQU0MSVJlu3jhFm3eOReqLFnVBk0E2lY2CKxrg7D9LZyxyCet8INsEU63U7edCoNQtJj9q/13H2a4pYMHl0V7xdEaQ==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
@@ -55,34 +71,14 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yW0hkQSHOEACfbvQDnyvOitmbwafvtBOueBO+QoDoft99LWE7EH9oxtNuid0gBOp9IMSflET2TovQEDo9K65/91VzfkME7kLChsEw5Ll3wJr/nR7KTI/lM8yZIweLfneLw==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      }
-      
-     
-      
-       ]
-  },
-  {
-    "name": "EVENTOS RALLY",
-    "samples": [
+      },
     
       {
-        "name": "RALLY 1",
-        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg",
-        "uri": "a8Aal6a2004oPhHYYwRRX4FmFE5D5/ZfBMZ2v2kQ2MNvQuU/cg3wu0fIKAvOz482T9D1ojJEPMoXfRzxETSAq05fH+VrtHQEZpI6X9+09zY="
-      },
-
-            
- {
-        "name": "RALLY 2",
-        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg",
-        "uri": "YvGRNrdNtCo4uf4Kz9O0yczsALuRe2f1nLMvoLqr3bvnjctKiCLqmF00UhO5rOGZy3ZMSC5VbrXhEmKrU9WyCjCZzn5Ws6iNqSHHafpy8ITSedTinQi943ufOX6WnYWUqw6P9hKeK2vv/NhPwxE7ehzF/ITf0r/2nZsFH8mBwWMzEJd4nSv1sPfkrGDtG7fB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXg99MLKfPRqH9GPbs/gV6SBfuOpsFCm08f21tFxkTVzVSt3zCJhd0kZCXpJzEK2yKq1JkC8kpcaom8BZrTPKzp4o4PDWg9g63D8ITQBn6CcBilwtvyjWG01LCzKD11ofg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "name": "RPC 2",
+        "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
+        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgiX2Y4kQTAv5GHjb8kfyShw=="
       }
-
-
+      
       
     ]
   },
@@ -1028,7 +1024,28 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySTR1K5Wl1NO3DrIzJ/uKvaOntw2GE14MB6BJFaUAkfS1pNEvcVcbUsWoO2wqY/KVVbqsg6vDKkveLaYHXYBks579hsd4HUD69fMzX3NCIEnPm890XeXULh06LwnPhsPwA=="
       }
-      
+       ]
+  },
+  {
+    "name": "EVENTOS RALLY",
+    "samples": [
+    
+      {
+        "name": "RALLY 1",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg",
+        "uri": "a8Aal6a2004oPhHYYwRRX4FmFE5D5/ZfBMZ2v2kQ2MNvQuU/cg3wu0fIKAvOz482T9D1ojJEPMoXfRzxETSAq05fH+VrtHQEZpI6X9+09zY="
+      },
+
+            
+ {
+        "name": "RALLY 2",
+        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg",
+        "uri": "YvGRNrdNtCo4uf4Kz9O0yczsALuRe2f1nLMvoLqr3bvnjctKiCLqmF00UhO5rOGZy3ZMSC5VbrXhEmKrU9WyCjCZzn5Ws6iNqSHHafpy8ITSedTinQi943ufOX6WnYWUqw6P9hKeK2vv/NhPwxE7ehzF/ITf0r/2nZsFH8mBwWMzEJd4nSv1sPfkrGDtG7fB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXg99MLKfPRqH9GPbs/gV6SBfuOpsFCm08f21tFxkTVzVSt3zCJhd0kZCXpJzEK2yKq1JkC8kpcaom8BZrTPKzp4o4PDWg9g63D8ITQBn6CcBilwtvyjWG01LCzKD11ofg==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      }
 
 
        ]
