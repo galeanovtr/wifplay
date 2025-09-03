@@ -2870,26 +2870,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
 
-      ]
-  },
-  {
-    "name": "JAPON TV EN VIVO",
-    "samples": [
-      {
-        "name": "NHK G",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
-        "uri": "pL/GcR1vxzGcHG5qH4GFwg8W7ILbim/CtBxQOT+PKbf4iQlOlK4IzCNUMY/aiKn9"
-      },
-       {
-        "name": "NHK E",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",
-        "uri": "pL/GcR1vxzGcHG5qH4GFwou4Nbckf1HnTIKFhamC+ML4iQlOlK4IzCNUMY/aiKn9"
-      },
-      {
-        "name": "NTV",
-        "icono": "https://cdn-icons-png.flaticon.com/512/0/49.png",
-        "uri": "pL/GcR1vxzGcHG5qH4GFwseijFP3nlgOXQlzTj2d0Z9CPAKQXxlzhdwbYmBTwcyO"
-      }
+     
     ]
   },
   {
