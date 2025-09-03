@@ -2869,48 +2869,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
-
-     
-    ]
-  },
-  {
-    "name": "SERIES ANIMADAS 24/7",
-    "samples": [
-      {
-        "name": "LOS PITUFOS",
-        "icono": "https://www.justwatch.com/images/poster/303950866/s718/the-smurfs.jpg",
-        "uri": "UDWgYiJuI9n9+dgCHtPYF6zMej88ENXTf1COKd9bP8eHI5VMm1Z3ha/IEbJrPDS0NiQwXPMYXX6jffo/SKmHtcsqgARtOFBGFLgnzuR/qAUsFP/Xp2rVt8YAfShIPoT8bbmgfkCyiCBiqIXON0tAMMpUBeKkTroT6jwhlVlr/5k="
-      },
-      {
-        "name": "Futurama",
-        "icono": "https://es.web.img2.acsta.net/pictures/14/03/19/13/26/032947.jpg",
-        "uri": "3Vw+5JwPpMGuLeFgnaIkNT8DwP1ZLaUvaKls8BH5GcJnQffyXCnPF0QbSn+Bw4F7ZE9hZlgs5fb4jrCiZbn1oPu0bixLkKkx1A8FcAkdgkU="
-      },
-      {
-        "name": "Bob Esponja",
-        "icono": "https://encrypted-tbn1.gstatic.com/imagesq=tbn:ANd9GcT7sPeKteaVXWrhljJH5dAGqIX7pmeheWllWcJKGYAcxgCfIO5d",
-        "uri": "t2DoSbF3aVg0t8h16tKvD9cVQKli7f+kiZYggR9P6j+s4cDh+fxb8SxkRMSBcXQs"
-      },
-      {
-        "name": "La Familia P. Luche",
-        "icono": "https://encrypted-tbn1.gstatic.com/imagesq=tbn:ANd9GcRnX4VS4EmS_dxtYxklOLXxPlApy6_bQhDw-2KqHDPbYVrXITS1",
-        "uri": "KdcE95mh5vIIkJqaCUKuFVIIcfAEL6K32BekpTpQdlqiTq41C+dltNTfj1kpnrjevQVi+QnVlOhDtTRa9ZArFsZkbawCHWABLPcv8rd5zzI="
-      },
-      {
-        "name": "action",
-        "icono": "https://yt3.googleusercontent.com/Sp7VWsuj5StjvAgJaLWlcq48CU6fg9bX2Jr4d255qwHfKcX5WYIiZXbIrUQ8kfEe8DzWRgxU=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "t2DoSbF3aVg0t8h16tKvD5b8LqunPRZbbDOeJSIGCMsfhsKpo9/SVFHhNQb0XIkM"
-      },
-      {
-        "name": "CANAL INFANTIL",
-        "icono": "https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png",
-        "uri": "wjfge3fwWUbi8gwOdn0TArqijmtXbCrcmyVlZ+6x0lVycx11xJYfT7uMgQriOqfvS1kCMZ4hRQKxrTAJG+S3XDMQl3idK/Ww9+SsYO0bt8E="
-      },
-      {
-        "name": "EXTREMA KIDS",
-        "icono": "https://cdn-profiles.tunein.com/s281345/images/logoq.png",
-        "uri": "/pJZ9woYz2GK4dHoaUZSfaKr8p6MPXLOppzZQ07Oz10T+00W1WcMtsET2o6DjwfvPaQ06fA9C9NbHOLVDZBg1/4oXGA63Rhy/vTvgjPBHaE="
-      }
+  
     ]
   },
   {
@@ -3302,7 +3261,46 @@
         "icono": "https://i.ibb.co/Prct1gv/hqdefault.jpg",
         "uri": "y3CmNEMv3EJQfzlcSWn08vYwx2udPch0OeZAQxLdcJQfhsKpo9/SVFHhNQb0XIkM"
       }
-    
+     ]
+  },
+  {
+    "name": "SERIES ANIMADAS 24/7",
+    "samples": [
+      {
+        "name": "LOS PITUFOS",
+        "icono": "https://www.justwatch.com/images/poster/303950866/s718/the-smurfs.jpg",
+        "uri": "UDWgYiJuI9n9+dgCHtPYF6zMej88ENXTf1COKd9bP8eHI5VMm1Z3ha/IEbJrPDS0NiQwXPMYXX6jffo/SKmHtcsqgARtOFBGFLgnzuR/qAUsFP/Xp2rVt8YAfShIPoT8bbmgfkCyiCBiqIXON0tAMMpUBeKkTroT6jwhlVlr/5k="
+      },
+      {
+        "name": "Futurama",
+        "icono": "https://es.web.img2.acsta.net/pictures/14/03/19/13/26/032947.jpg",
+        "uri": "3Vw+5JwPpMGuLeFgnaIkNT8DwP1ZLaUvaKls8BH5GcJnQffyXCnPF0QbSn+Bw4F7ZE9hZlgs5fb4jrCiZbn1oPu0bixLkKkx1A8FcAkdgkU="
+      },
+      {
+        "name": "Bob Esponja",
+        "icono": "https://encrypted-tbn1.gstatic.com/imagesq=tbn:ANd9GcT7sPeKteaVXWrhljJH5dAGqIX7pmeheWllWcJKGYAcxgCfIO5d",
+        "uri": "t2DoSbF3aVg0t8h16tKvD9cVQKli7f+kiZYggR9P6j+s4cDh+fxb8SxkRMSBcXQs"
+      },
+      {
+        "name": "La Familia P. Luche",
+        "icono": "https://encrypted-tbn1.gstatic.com/imagesq=tbn:ANd9GcRnX4VS4EmS_dxtYxklOLXxPlApy6_bQhDw-2KqHDPbYVrXITS1",
+        "uri": "KdcE95mh5vIIkJqaCUKuFVIIcfAEL6K32BekpTpQdlqiTq41C+dltNTfj1kpnrjevQVi+QnVlOhDtTRa9ZArFsZkbawCHWABLPcv8rd5zzI="
+      },
+      {
+        "name": "action",
+        "icono": "https://yt3.googleusercontent.com/Sp7VWsuj5StjvAgJaLWlcq48CU6fg9bX2Jr4d255qwHfKcX5WYIiZXbIrUQ8kfEe8DzWRgxU=s900-c-k-c0x00ffffff-no-rj",
+        "uri": "t2DoSbF3aVg0t8h16tKvD5b8LqunPRZbbDOeJSIGCMsfhsKpo9/SVFHhNQb0XIkM"
+      },
+      {
+        "name": "CANAL INFANTIL",
+        "icono": "https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png",
+        "uri": "wjfge3fwWUbi8gwOdn0TArqijmtXbCrcmyVlZ+6x0lVycx11xJYfT7uMgQriOqfvS1kCMZ4hRQKxrTAJG+S3XDMQl3idK/Ww9+SsYO0bt8E="
+      },
+      {
+        "name": "EXTREMA KIDS",
+        "icono": "https://cdn-profiles.tunein.com/s281345/images/logoq.png",
+        "uri": "/pJZ9woYz2GK4dHoaUZSfaKr8p6MPXLOppzZQ07Oz10T+00W1WcMtsET2o6DjwfvPaQ06fA9C9NbHOLVDZBg1/4oXGA63Rhy/vTvgjPBHaE="
+      }
     ]
   },
   {
