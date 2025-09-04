@@ -25,8 +25,17 @@
     "name": "🇵🇾 PARAGUAY vs. 🇪🇨 ECUADOR",
     "samples": [
     
-      {
+     {
         "name": "GEN TV",
+        "icono": "http://tplatinvip.club:2086/images/mg9e4VnU5MiobcDarwnBsezs5-AaKeevmM-2nF-Q34w.png",
+        "uri": "WnELCRs0O7IvKvYAgeXlSEeDLXqnCrcJPWmBIAHR2Tdp2bCdWE1+B0Nze6lFpY5rwaiDM1XDwWQUCdtbAzBQ46RQlgSLFyqeXPsvi8aBUOE=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd+25ueir98WToVqPJdQPyvi/v7/XwyUlhGHvM5wWL01Si+euaUb0kFoqF2IxxIi/PZJLBITygdx1xgzeSW6fVv0N3kt4wAE/QsT54pysAOphAw41DGRMTNR6NlIcalEdQ==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+      {
+        "name": "GEN TV 2",
         "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn40h+Rui5cp4l9SrDQ7+dQ0DtN18q7WnJCBHuxMvhjEVGMn7R7gYQW69+Kjwrtrpg=",
         "drm_scheme": "clearkey",
@@ -74,20 +83,11 @@
       },
     
       {
-        "name": "RPC 2",
+        "name": "RPC 3",
         "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
         "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgiX2Y4kQTAv5GHjb8kfyShw=="
-      },
-      {
-        "name": "GEN TV OPC 3",
-        "icono": "http://tplatinvip.club:2086/images/mg9e4VnU5MiobcDarwnBsezs5-AaKeevmM-2nF-Q34w.png",
-        "uri": "WnELCRs0O7IvKvYAgeXlSEeDLXqnCrcJPWmBIAHR2Tdp2bCdWE1+B0Nze6lFpY5rwaiDM1XDwWQUCdtbAzBQ46RQlgSLFyqeXPsvi8aBUOE=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd+25ueir98WToVqPJdQPyvi/v7/XwyUlhGHvM5wWL01Si+euaUb0kFoqF2IxxIi/PZJLBITygdx1xgzeSW6fVv0N3kt4wAE/QsT54pysAOphAw41DGRMTNR6NlIcalEdQ==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  }
-      
+      }
+          
       
     ]
   },
