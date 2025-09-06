@@ -2254,15 +2254,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
        },
-      {
-        "name": "TNT HD OPC 2",
-        "icono": "https://i.ibb.co/hV2MwGM/tnthd.jpg",
-        "uri": "UiSYhDkJOY+OkzAOOJ+I4VbKFYkgRZwhU8thprte6Q9p5/kv894C08hXfA2ONNywLPEY6oEvvJtj53RqcaGxbZSa0DwnvFckHccKd0BQ290=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yaetKKVxdXD374rlzCwAY+qCkTfgC5oSeBrwxXHvgbVS5d/+JW2wa5fqxRHxfxen1EoCmLVjzq8sHL+zazMRSbZcLUiuI+tHm5i+6iyBW2P72uRoFmC6B0R4VjlOubKvJA==",
-        "referer": "https://player.sensa.com.ar/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
+      
       {
         "name": "TNT SERIES",
         "icono": "https://i.ibb.co/0Fb9ncz/descarga-7.png",
@@ -2436,80 +2428,23 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "Filmstream",
-        "icono": "https://i.imgur.com/DTRPV6B.png",
-        "uri": "uC7n185d+Q/JQk1v+QIT8TUUGwn98zO6EIZ6yHKBmLnPKUhOREM1XsNWkk+CcpbhpFCWBIsXKp5c+y+LxoFQ4Q=="
+        "name": "FILM & ARTS",
+        "icono": "http://tplatinvip.club:2086/images/Hi_iS6494DTxfWVCgYYo5LszmgezToAb5hBmn-_sLfcftkWQiA1zxObYMsw-YMDqMX3pBqlMqXg3aYMY4AQZjhLfmJnif_VGVHswLsFgW6c.png",
+        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgSIXF4LYIKfiD12c/kRwL7A=="
       },
+    
       {
-        "name": "+Cine",
-        "icono": "https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg",
-        "uri": "3hMQ/Y9jZaXHXt6TvjaLgsAYiMqB7QmrPZOWp9aIcj76R1nwssI/V9jwUE4O5mgf/tk0NI1WYL5xQsASsqdTKA=="
-      },
-      {
-        "name": "NARCO CINE MEXICANO",
-        "icono": "https://i0.wp.com/fandompelicula.com/wp-content/uploads/2021/02/NARCOS-MEX-9.jpgfit=1719%2C2325&ssl=1",
-        "uri": "eEcyCWd3QU4zo5iWda1Ag/1TZv+N9cnS6C08mMKdlDnF3Pu/A7P8UkPGPE3ANvP623ArYNtc9V1lI/7117p2ug=="
-      },
-      {
-        "name": "Terror TV ",
-        "icono": "https://cdn.m3u.cl/logo/1420_Terror_TV.png",
-        "uri": "3hMQ/Y9jZaXHXt6TvjaLgsAYiMqB7QmrPZOWp9aIcj7p2NK+5vae/4U4WiZIkoQi/tk0NI1WYL5xQsASsqdTKA=="
-      },
-      {
-        "name": "Canela Horror",
-        "icono": "https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg",
-        "uri": "eEcyCWd3QU4zo5iWda1Ag/1TZv+N9cnS6C08mMKdlDnF3Pu/A7P8UkPGPE3ANvP6dfQAqtA+TfBTsMsVyFc9/w=="
-      },
-      {
-        "name": "HORRORFY ",
-        "icono": "https://i.ibb.co/YRw9FtR/freetv-horror-1080x1080-02092024.jpg",
-        "uri": "CeQ4d6Udo2WpcNBD9hM94WlVGsmwuFgQnSdNbxk8jURS5Bav/f/tBzQgA1jIjNoy9XZIX+hRD1j66CyDWUwfyrBSmkC5JjO+TPfitt4q5IPGZG2sAh1gASz3L/K3ec8y"
-      },
-      {
-        "name": "Kanal D Drama ",
+        "name": "KANAL DE DRAMA",
         "icono": "https://i.imgur.com/WIeZMKT.png",
         "uri": "fb+DkZzgOr3vVFyK9bmh32lVGsmwuFgQnSdNbxk8jUQN/a5B/xHzmNATt5ikHDAizaeVlWy9dlSajFvaWeqX40/B42UBiJJDqtrQhNykjkDwN8LgsdcOOxuIR7k+L0PO+PwkYaVjhkE0orvY0KX+7Q=="
       },
-      {
-        "name": "RAKUTEN ACCION",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "3FvQ7q2slHasJyshoNGi3a2FjtK4Rxlg8GuQTYSTbVdVEPVlZaSDEbWoLttcX5/VlScwDhbtfRnbbUd4kWcFIA=="
-      },
-      {
-        "name": "RAKUTEN FAMILY",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "3FvQ7q2slHasJyshoNGi3Z03xIee6iI5EqNBCI3ij43PKUhOREM1XsNWkk+CcpbhpFCWBIsXKp5c+y+LxoFQ4Q=="
-      },
-      {
-        "name": "RAKUTEN TOPFREE",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "3FvQ7q2slHasJyshoNGi3Qm8Vl/bUYlDnrTWAnr92qwEUlGyCoExOlcDbF8DXEnvxmRtrAIdYAEs9y/yt3nPMg=="
-      },
+      
       {
         "name": "RAKUTEN MYTIMES",
         "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
         "uri": "3zT0tT3ecXaz478jUHIJrhfLU7hZusr3L4SZORhSa3ToC/gl9yzJ1csTKE251FowDFJbwxZrTdcMVbN0kWioUg=="
       },
-      {
-        "name": "RAKUTEN TVSHOWS",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "3FvQ7q2slHasJyshoNGi3RoqeSmN1a5i72eADDqEeYeFarqvVl4/zcul//f0ssIAewfzWSgzFjkHGCt+BjQcZg=="
-      },
-      {
-        "name": "RAKUTEN ROMANCE",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "HPTjGyKD3uRSYb7lLNBhxBYxxf7UADDNtG3/oiijsWvvosMsGRcmXkS4uC2hr1tWZ7ybfL9XRROKeOk2DnfEcib6jgjbde3O38U7DfLKkRRbvWSaU2Bt0gDxnhXCfsxJ0q7k3RheLIRV4jQYaONqDLnYl1C+USGZjCRRdJr4OCQmHg7UNaf2vkGNxyaF36q9ibl8zF55lQ/8BLtEzsLgY6RQlgSLFyqeXPsvi8aBUOE="
-      },
-      {
-        "name": "CLARO CINEMA",
-        "icono": "https://i.ibb.co/ZxtLpTT/clarocinema.png",
-        "uri": "yzy78EKPKLMlTNmWar4ZXvG41nXlbfGyQ0M28I6wwLigF6DtepX/SdSMo/hIBFG4"
-      },
-      {
-        "name": "AZ CINEMA",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/640px-TV_Azteca_Cinema_logo.svg.png",
-        "uri": "eEcyCWd3QU4zo5iWda1Ag/1TZv+N9cnS6C08mMKdlDnF3Pu/A7P8UkPGPE3ANvP60cwdgiwRqe/puCY94xdWQQ=="
-      },
+    
       {
         "name": "GRJNGO ",
         "icono": "https://i.ibb.co/t2w7vtK/grjngo.png",
@@ -2520,45 +2455,11 @@
         "icono": "https://i.ibb.co/BzKsrjT/cinema.png",
         "uri": "zLTvR1b5kYgo5jXCuUk2wIMt38Tev4gU94JC0XZL7+rdeisqawb1DV4aRiYSO2DPCmHyQxqW7aaXyOYSsanE4Q=="
       },
-      {
-        "name": "TU CINE ",
-        "icono": "https://i.ibb.co/gR2qKN0/freetv-estelar-1080x1080-02092024-0.jpg",
-        "uri": "CeQ4d6Udo2WpcNBD9hM94WlVGsmwuFgQnSdNbxk8jURS5Bav/f/tBzQgA1jIjNoypNA5RHxI5A+uAcSYveSeV7LTYGoCFmxrE5rSiEcKounGZG2sAh1gASz3L/K3ec8y"
-      },
-      {
-        "name": "FAMILIA",
-        "icono": "https://i.ibb.co/RPvh6kh/freetv-familia-1080x1080-02092024.jpg",
-        "uri": "CeQ4d6Udo2WpcNBD9hM94WlVGsmwuFgQnSdNbxk8jURS5Bav/f/tBzQgA1jIjNoyTvy7PvDUb5YLx8pNQRUXH8X28uH51IGdId6JtDMzlObn+Cs5wTo/H1i+d0VZVjLK"
-      },
-      {
-        "name": "TOP CINE ",
-        "icono": "https://i.ibb.co/pv7MN9Q/freetv-accion-1080x1080-02092024-0.jpg",
-        "uri": "CeQ4d6Udo2WpcNBD9hM94WlVGsmwuFgQnSdNbxk8jURS5Bav/f/tBzQgA1jIjNoy8Qm13x+6qEBzOOhKIiniQDtH2t6WqqZ72Atd3kxbn7GkUJYEixcqnlz7L4vGgVDh"
-      },
-      {
-        "name": "CINE CLÁSICO ",
-        "icono": "https://i.ibb.co/R9CMH3V/cine-clasico.jpg",
-        "uri": "fb+DkZzgOr3vVFyK9bmh32lVGsmwuFgQnSdNbxk8jUSDtdkMTL5X7K0yp2puYbmGxZSkxX1NT8FMXdsrnsTpyLUh28UmciwpaSQnJPWok8aa6hKOivYzfBRXT8+CWh2AxmRtrAIdYAEs9y/yt3nPMg=="
-      },
-      {
-        "name": "CINE SUREÑO ",
-        "icono": "https://i.ibb.co/m5kX1M0/freetv-sureno-1080x1080-02092024.jpg",
-        "uri": "CeQ4d6Udo2WpcNBD9hM94WlVGsmwuFgQnSdNbxk8jURS5Bav/f/tBzQgA1jIjNoy6E38YQpPrObaVwYjkcLvtnQZGpJFNl7QsLagKWZNCWIMUlvDFmtN1wxVs3SRaKhS"
-      },
+     
       {
         "name": "ROMANCE CHANNEL ",
         "icono": "https://i.ibb.co/r2QS9D3/romance-channel-latam.png",
         "uri": "Wpxb0tpfryVvRa0hveW0PZJJn1wJo7qwlLf6TP+vHPCHI5VMm1Z3ha/IEbJrPDS0/KRzi+l9GLCCCPRiT+1e6sxErAORwb1xx7I2WsGjnYm49oAddngVM+59sJIMj4tgoAZ1OvgPnXdhywEoCNGiBPj8JGGlY4ZBNKK72NCl/u0="
-      },
-      {
-        "name": "CINE ROMÁNTICO ",
-        "icono": "https://image.xumo.com/v1/channels/channel/99991142/600x337.webptype=channelTile",
-        "uri": "gYSJMmtZURegb2EeopuLYNHV4MDYkU0zzh9FtGbZU3Jf4VwwW1D2sQjVHUxxFExNdaA9dwf++z/YZ1QoC1J90z+AmIjrEaC2iDuYSSpG3RrablajfYcOwX6lw/LLEI7zk+UGgyYr5mMAD8GYaTzOH27dcrFhkw2eqDEhc0QkIz0zEJd4nSv1sPfkrGDtG7fB"
-      },
-      {
-        "name": "FLOU CHANNEL ",
-        "icono": "https://i.ibb.co/RBs5CHg/flou-channel.png",
-        "uri": "fb+DkZzgOr3vVFyK9bmh32lVGsmwuFgQnSdNbxk8jUS7lmsTXIoxC8alw7gfWk4OdMi82l4UAO3fmkh4Zmz/ugp2D2bnHy4VLweVBGpQvHDvr6PIwjmrAhXvKn66/EVb5/grOcE6Px9YvndFWVYyyg=="
       }
     ]
   },
