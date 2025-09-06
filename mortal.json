@@ -2052,14 +2052,10 @@
   {
     "name": "PACK HBO",
     "samples": [
-      {
+    {
         "name": "HBO",
-        "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgmyyx5wxEEvf+iCwaID8BNg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuGQYzHAf+ue/9WNrfxLaxzsN2M34DM7FGHoO70YEJ5lrAcYEQd2ftVyGDSRPLBXJ6pJES7eGttosNKtcFbpp4OiJh0GJmtgJfRNjRSsGGXjCMxCXeJ0r9bD35Kxg7Ru3wQ==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "icono": "https://i.postimg.cc/wTJh8Dqn/images-4.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTASoI7TZD3yRN14aZe0/pIE5fH+VrtHQEZpI6X9+09zY="
       },
       {
         "name": "HBO 2",
