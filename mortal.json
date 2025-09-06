@@ -2482,7 +2482,7 @@
       },
       {
         "name": "CARTOONNETWORK",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",
+        "icono": "https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cke1DP7O5rmTOYhrT7+Uwp6nN6ioU0hMaGENCYVRO0Tlshn8xZi6ZpiWndLosyH93cZkbHAUQRynwCKRtXd7sUg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUdiz0dgS97wS2LyYbKmfVE6Silmv9z8TDprVrQdtH7/nymHSk5BZbsOIfxC7k8wau2pda3GIKoiGC/ZScoOIdDwO1N/aRKbr8GaWL0GU2CmbddmWyqoS2L77JzrME1trw==",
@@ -2563,16 +2563,8 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd5AgC5IsN4CkT1hRcuO60rDzY3m30iJukBYFIvh4xcssp9LbrLv3Esteaqvch9o8ozbI7ULGntUlKwQ/b2RLHMrFU7rHa2nWhqOiMSLr4h9Y9BBuKIm2vSsBqtdt6pINw==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "Boomerang",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cnyg9cMGl1T9+sIqBgju0EHtU/las+1NfGRKjfHgp2LVRjqnSPXmdenHOyU+ose60bGYg9tFyLAvC8EuZUPfHWf",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yb1YHSRvteJawISpyJmqL7WyhuqigBdqRmwaT/ai65r6aJsCQ5vaddw7od/VV6Q/lv6Nf+sfg6xqW3O4mgQVNqh2mUaHoB8gzUFeAieXVYbf7LhdpMuQHY4TE0haZf6LZg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
+      
     
        ]
   },
