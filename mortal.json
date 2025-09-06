@@ -2220,7 +2220,7 @@
       },
       {
         "name": "GOLDEN",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e2/Golden_2010-2016.png/revision/latest?cb=20191215191411&path-prefix=es",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmLcm9+Fpd3REtbQ21fR8pTfW0a01lruszjamG0O7FJmWkleutD4DFuCUhuBaPVaHk=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySDBEMJ5tvGgTftU+JieM+KUaRLLXxTy7t+ztNEQGqX+sIk+vzPXQg2T7TSZ1+LhDumDdpB+sCdL3gJm42ihLLIv5MkDrOZS0646SMEtXdO3C0ZenvcwUExMyHFq9wbcCQ==",
@@ -2228,7 +2228,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-       "name": "Golden Edge",
+       "name": "GOLDEN EDGE",
        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4a9LGBK51LmXbeQLq400Z5hYDo_NVRaYjDS9yD8IWvALyw1Grsb8JQyuSub5yzQEvEoUw7X0KXhyDwPAain_yctxgY9UTL4bkknNWaQHdAASeCY2m6ASy5KRZ5sHU3X6j0nk6wTj80cs0qeg-YgtDwq3lGD3seLmhTDTubMkxxRM8oIj0bMDhJeN/s1600/golde-edge.png",
        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRFjD6tc4p4PhBpIKw5mS3NUzewV92PM+eZl9qLIOpW0RJAyCxJrr6saCNQHrUcnGsk=",
        "drm_scheme": "clearkey",
@@ -2362,38 +2362,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "TNT NOVELAS",
-        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn4mS90q5+9j/HT7RhCnfd1pEmj3liMjEs8WI5ZhM7jpk7VFmMT6p4R2mH92q3EwOo=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yS9kvvqu4tRCoq96U0fLfaEe6j7wsfQxNXYvYd4UHLCN8WHuxRvjjzCD4Vq+tYJvei93Abp+taLF79h0abC/wicZS/m14O1Pl2DTJgZxgC4UX5j3IK5NKRrjepH3cyvpeg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "PASIONES",
-        "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Clu0rxs5/MvYeG+cw/DYfU1FBC0d3WzZnKnAYrzB3t8W9nMtT1pDaaRghyMDjw8GcyUmtA8J7xXJB3HCndAUNvd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7N83hshtn5zjrrQFGwyjY3UfzpGsjoLDMSn/cdp6NO+brkqU0bdmr2L+Y3X21XvXW3FUHKvzMOS4IPam+xGqarK66ht2GBOGpKX1ynbHRSkiaS8IAOqwrcrkx25nMnzxBGOggFjNF0rHl9gIu7+zrY=",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "NOVELAS",
-        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png",
-        "uri": "NXCf7QPLS+0ZWx9o+euLQ000K09gi+b6O2VHdfQTa3MmeMK5/aq6IjnspU3GIu07WOBHzXntywaWcbrshmLdxw=="
-      },
-      {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn6cKNj+7gvV5w9KIWxLHbRWArDfx2xV7PBXz8HHjWdOa5xXBJuKxaas9HbSb86ttGWMXjE8JP7cFWGr1zTJO/j+r7NKqTeD/U6p5cvbc33+g==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXx+qyVZUNtgQ5JETzQKUyFPYKuBM5HHS4M+ecSr5sd90L9UTQO0K+UnPkOW0Pr/6JbNaz2J6ZPcugdTl9TquGwdj6q450PlGWgzJPS6oJAb6DQQgw8ZeSyiJf3DO/dDtA==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
+    
       {
         "name": "WARNER CHANNEL",
         "icono": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg",
@@ -2760,7 +2729,15 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      
+        {
+        "name": "TNT NOVELAS",
+        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn4mS90q5+9j/HT7RhCnfd1pEmj3liMjEs8WI5ZhM7jpk7VFmMT6p4R2mH92q3EwOo=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yS9kvvqu4tRCoq96U0fLfaEe6j7wsfQxNXYvYd4UHLCN8WHuxRvjjzCD4Vq+tYJvei93Abp+taLF79h0abC/wicZS/m14O1Pl2DTJgZxgC4UX5j3IK5NKRrjepH3cyvpeg==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
       {
         "name": "TELEMUNDO",
         "icono": "https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg",
