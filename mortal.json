@@ -2651,7 +2651,7 @@
     "samples": [
       {
         "name": "HISTORY",
-        "icono": "https://yt3.googleusercontent.com/0MpmmKlHqG0BdWXx0TiipcSABbIrPZKkF113gC8o-CPcX58Y2yL8WgnykcVAePa2kh_2p1TaZg=s900-c-k-c0x00ffffff-no-rj",
+        "icono": "https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnWHdYNMd/lln3BNHxgr3sfJpxJM94/6RiKvuIPhBp/sWWauyfGVJJCKhFt+3ibpTDGYg9tFyLAvC8EuZUPfHWf",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yenhAi5LjIcG0RhRKHRA0bi69S3UXBEFiuXAHh5RIWLrgBWonsOpn++xQUaz3CFq0XC0kSAbSSqKMFuG++HKr0riL1RTl8gq5bBi1raKRZWYLqybYqWQ4VLus+kAcOvHfA==",
@@ -2660,16 +2660,25 @@
       },
       {
         "name": "HISTORY 2",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/7/78/H2.png/revision/latest?cb=20190701021604&path-prefix=es",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClVzH8Vh4cQJCz+IdhUALeXmRNPJ1B8FmAAwDrZfr9Hz+DHW5g9FWM2dmAoGSXARAXGYg9tFyLAvC8EuZUPfHWf",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZ1wmwWcv3DcWQcSUsAaWR6hmrI8xj0DOoOTj61AZS3jI9cFGG9trKmI/xoYsJ3DmCv0pFBqB6BQV+vXUHbZf6BPOJvOkIkJciFu/j38W/XM/CFVvZE0P2FemY1/GvQ83w==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
+     {
+        "name": "ANIMAL PLANET",
+        "icono": "https://tye-strapi-assets.s3.amazonaws.com/images-legacy/animalplanet1202.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmIBjog9j5SVZdijnnSnCi88wtcHSD6O7vbkKMXdmKtxkkSqW7bx2WiduLwYSpW2yBqQz8ygVSGFgXf9TF1xIN6",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ya4lZNg3S5y6WIdt53empPmB/VL9fW+Q/eIumppVyLfoJuMYqv8Lk3ysHeVWMCwCeYr9Lg/ucE6lQlydsjjTh88C1AmxpUElz3n1mLDUZCRKynmo11cPt4gNrg/+KLdLZA==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
       {
         "name": "DISCOVERY",
-        "icono": "https://eu1-prod-images.disco-api.com/2023/06/15/58051bc3-9d67-4708-bb5b-5b7958ac60c9.pngbf=0&f=jpg&p=true&q=70&w=1920",
+        "icono": "https://cdn.storage.foromedios.com/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnJB+rEG/kiHLd/3SlMtsG6SSiXIGaJgwKodUJC4GcNmADEMkZARZuKvrZX5AvRHS7x8XBPIFZ4Uw5NWhnSVbfz",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yU7qq5j3orKTWLpWewM0tA4cDsGTJVfwWV/1Q8Mj7J+jzSR31dCs1p45IGDbvT6PjKatAxGKCvrYxmENKNSMmcYrIhbmgfmxI3cQflJ5YpPPzDy2YjuLpyDD2kaRRh3SSg==",
@@ -2678,7 +2687,7 @@
       },
       {
         "name": "DISCOVERY SCIENCE",
-        "icono": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor-1024x512.png",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/7/71/Discovery_Science_Channel_1998.png/revision/latest?cb=20200822042357&path-prefix=es",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClwLLUUYwUtNd/ZmK/QOb2Mj1uVRpmhT8QIDCSNZ7osgSJfUf6v23DK1EsL4EZq+SR6F3AJuPx4PXoalhFhJ4csxmIPbRciwLwvBLmVD3x1nw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYjuH6t6m1ywx7wiPdZV3tyu/U5jsrcYcn0PZ1+Ztqcq5Kmt5tWrdt3oaEhkUhCENMv8bmlPmPkeEdWR+HV8kySP/oV0yIX761O8NrGSCmspgU/R/y1BLjpOZgqtzJCz0A==",
@@ -2687,7 +2696,7 @@
       },
       {
         "name": "DISCOVERY H&H",
-        "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large.207902319_HH.png.46f35ade54b7d3f363748febc08702e8.png",
+        "icono": "https://i.pinimg.com/736x/cb/ee/51/cbee5187a24efc4d11c0bd3d19181f3d.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnJB+rEG/kiHLd/3SlMtsG6bDkcg+U+MSbnRgtwU9NkRwGWASn2z8FnyAyXfeCDJtzlyLNlSgA2HUPYR2PGAo+VmLihrn+zVA8SX8iV1SC1LQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ydjkeg85wiwU8ur+IgOm8LfX2zj5yTuVDD7DJnaGk3Y0DlERZ5kLMX5KQg7h+//3Ey1SzMVwGTiue0k/I3VdJ51lVq+hAewER+LztmqnwHaUoI6nOKP04uPpvyLAUJ7C5w==",
@@ -2696,7 +2705,7 @@
       },
       {
         "name": "DISCOVERY ID",
-        "icono": "https://dl.dropbox.com/scl/fi/brd4qtgk2223gmobtj0ui/DCX.jpgrlkey=e4qy94y6huevaihwyo0rspzn0&dl=0",
+        "icono": "https://mir-s3-cdn-cf.behance.net/projects/404/dc059d190899617.Y3JvcCwxMDc3LDg0MiwwLDA.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnEgeEOMoGDZABIVGb7NOb7Z5WgPy1D9KgBQVWAiXw+he8yrQ+XrW8HTpi0hUCf488=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yQnRvkSMgIPyC/OMTapgEnveJEcFTTRpxXO8i2rKu8gP3GVUESI9B815uN/gqbi4ueCXcgcQH9GvQKIA7jJj61AylpZNzPgOfOYCvtWybX/ACF2LmEZ9+tGdTZy4jv2BRQ==",
@@ -2714,7 +2723,7 @@
       },
       {
         "name": "DISCOVERY TURBO",
-        "icono": "https://yt3.googleusercontent.com/r3tZMRkQnemnrWoG7SSTQZnwkRxbjLcg33aIsImHUqoGJutvM4CGiIyhLGs9CN6eOPnQkoJ1=s900-c-k-c0x00ffffff-no-rj",
+        "icono": "https://eu1-prod-images.disco-api.com/2023/06/15/07a339aa-efad-310c-87bd-b4a982726dc4.png?bf=0&f=jpg&p=true&q=70&w=1920",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ck06vhk8OzgixGgScOwACkePU8Rj5dyl6FFRYuup6gVnFrHQTNlhzue3TX1zzH7JJhSPUMa0lPyLTB3gRLg5nGr",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYZC6Awn2V0y1wIFXwr8XSQYbSs8v2b0pXNYHU0vUuTtsdvjP7APKJNSGauaGwObpnZ+qTKKlXb1Vrj0yobI5RYbEcQtSB4CfIh/6x78nlLBYRgjyqdV3V/QKOBk7Uge4w==",
@@ -2723,7 +2732,7 @@
       },
       {
         "name": "DISCOVERY TEATER",
-        "icono": "https://www.ipuntotv.com/IMAGES/Discovery-HD-Teacher-Logo.png",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/c/c7/HD_Theater.png/revision/latest?cb=20200209133800&path-prefix=es",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClWSvXGUr3BZ4A+LQYfIgr6pcophVHHCJ3KIHDQOkk7n9RIX/sAnWWpOk513RWoLSHf0KA8DFffemLN7zO77Kw6",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybDK4eKzI8u6fHMtIJoZrKxtS1H9QtHC0TyWrpGqKHkyK15NiNuXy4nQ8+12XTBDPFYHfTRBT/+04QifrHcrRtqDY6y3XEDVuUevAtlmqiMft972V5l7l0t61DqI5wwXmA==",
@@ -2741,7 +2750,7 @@
       },
       {
         "name": "DISCOVERY WORL",
-        "icono": "https://cdn.i.haymarketmedia.asia/n=campaign-asia%2Fcontent%2F20110715012655_Discovery.JPG",
+        "icono": "https://www.logotypes101.com/logos/312/97BBF5AE04BB637CECB452EB5C0259CD/discoveryworld.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClwLLUUYwUtNd/ZmK/QOb2MkeQSvWB3T1U4J1zeZQGy32eVoD8tQ/SoAUFVgIl8PoUSYxSR/rU2C4oLsZruKV4f39CgPAxX33pize8zu+ysOg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybCGf1Q/v19foNtdIQSCUmLSPkNvUx5A0F2A3EmJJkxDEH36JVP2xgkVu7XKzJJlGXS92usBVw3afcnF4ODcRLdYjHhxt1c4HNbuAN3MOcTkQ0kYnb5UtMetWFHcLomyWQ==",
@@ -2757,15 +2766,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "ANIMALPLANET",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmIBjog9j5SVZdijnnSnCi88wtcHSD6O7vbkKMXdmKtxkkSqW7bx2WiduLwYSpW2yBqQz8ygVSGFgXf9TF1xIN6",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ya4lZNg3S5y6WIdt53empPmB/VL9fW+Q/eIumppVyLfoJuMYqv8Lk3ysHeVWMCwCeYr9Lg/ucE6lQlydsjjTh88C1AmxpUElz3n1mLDUZCRKynmo11cPt4gNrg/+KLdLZA==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
+  
       {
        "name": "NAT GEOO",
        "icono": "https://i.ibb.co/YL79wkw/natgeo-mundo.png",
@@ -2777,23 +2778,17 @@
       },
       {
         "name": "GOURMET",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/1200px-El_Gourmet_logo.svg.png",
+        "icono": "https://television.com.ar/wp-content/uploads/legacy/2020/El-gourmet-350x240.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ck+J1ZTo/0Wq3swbO2ynqgpXgJAakA12AwXipQvZfEulA8Ck7DJFYHeh/Adyi54SJUzEJd4nSv1sPfkrGDtG7fB",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yU/IBD3ywwrh4s6jwM95Z5yxYB9+SnkHf0O/Xz5Vnmw15RRz1EFTcTqMSOY6ZQ1dQvAGypyqqYYbJUIJZQRxjVQhRg5AxSXApK6wGOdLhKph1V5JgdlxMoIlIzWy46v+tg==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
+  
       {
-        "name": "CANAL COCINA 4K",
-        "icono": "https://canalcocina.es/medias/images/1703canalcocina4k1600x9001.jpg",
-        "uri": "hF/PQcP1IKvY29W8k7thsUDHPA6JrkhVMuF2KUqokcqM6xZqGqJdXvbMkk95xU33EdIW/l3Dqp6tfgW1Yg5Rhxc0c35GR6Atb4dIQwwwg3Q=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXeL1UNnPlvti/Os/AqyGMRHp9UJRrT4bti4UPraNX0mcLKZZi40zL9nTKc6PwjFBD29u3RdBwNiSljjKIQYPAxUHRnXUH/noToP3zxMZpclBilwtvyjWG01LCzKD11ofg=="
-      },
-      {
-        "name": "Food Network",
-        "icono": "https://static.wikia.nocookie.net/youtube/images/6/6b/Food_Network.jpg/revision/latestcb=20220209064632",
+        "name": "FOOD NETWORK",
+        "icono": "https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkleOzhvdI1GcRuhdp0d++wXvdczYD4065eEUftmo2q1nryRtbGpwB6DI9B5H9Vrdbi9TMll+O3Ey0pjoYwB86o",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yToZVJeK22PTQgStKfIjKvvO3PAPHnF7O433tUkSviX7G7Kty5ZpoXJDqs500QRZJesRomDAkdlzyoSrj1EWVz/JXc/m/ez8zABKCeocUXYCbJz8rNOQN5a/79Lhm3132g==",
