@@ -2580,11 +2580,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "TLN opc2",
-        "icono": "https://prensa.televisa.com/wp-content/uploads/2022/03/tlnovelas.jpg",
-        "uri": "yztZXkMztR2ALcEBSEo75eRLUL7R9wbNjkjE7KiR8/mVV0hHGjaI/ByqdP7QjCCu"
-      },
+    
       {
         "name": "PASIONES",
         "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png",
@@ -2622,6 +2618,15 @@
         "icono": "https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg",
         "uri": "ecnRtVoRLuH0J9Bzr+OGA7kL5vD+odrFvg+6Yzmucc2gHKWnzslKPhsjTYeBLx3lGiz7wCz9hZov4u91nTj3pw6+PIaYUUVajRiI031jKrAkIN25qeZ89qF4pifmOFiP"
       },
+      {
+        "name": "telemundo-internacional",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkC0mtF1/S21cpVmj1KF2mXI/CyQyNtts0ZSu5O1un0/EowZ3bQviie2DLEFob1RawaY/ZTyjJyq1EHznUVgcHi",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfeQWkEt5rkYq2GbSqU278GoAwfV2EPm5nh8NN7RqjItOZQWHojf+8pIOs6Kw9CCmdrKnpjElRzIy3sI7aW5pMxU6o2l50uyIpwGdNIoV5Rj9/p5CGXWdzC+rL5w6XSWUQ==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
        {
         "name": "TBS",
         "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg",
@@ -2631,43 +2636,13 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "NOVELISIMA",
-        "icono": "https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB",
-        "uri": "eEcyCWd3QU4zo5iWda1Ag/1TZv+N9cnS6C08mMKdlDnF3Pu/A7P8UkPGPE3ANvP66bgf46SPg4mwrbo6s8HpPA=="
-      },
-      
-      {
-        "name": "RCN NOVELAS",
-        "icono": "https://cdns-images.dzcdn.net/images/artist/a0b00452185e46f1fb541cf9287b9599/1900x1900-000000-80-0-0.jpg",
-        "uri": "E0GqDWwCsmwj5TM02Okle8TCtClHT/J8o2/Fe5ArvFYSaIHsrwzvaYoEjJC3eZAIMxCXeJ0r9bD35Kxg7Ru3wQ=="
-      },
-      {
-        "name": "SONY NOVELAS",
-        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTGW5z_RzPO0yqZXPjOTEEJKe8ccAtkqYcDFA&s",
-        "uri": "/YSmp9KRi4GVYqOvw0yEaNQ60Q+AeZPCM7UhnChqlVAZ7Di7i+QLXG5OEY/ObiUzTl8f5Wu0dARmkjpf37T3Ng=="
-      },
-     
-      {
-        "name": "TELEMUNDO NOVELAS CLÁSICAS",
-        "icono": "https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg",
-        "uri": "uNMmg20dvCOhRq06e+KPSHnOijzQI6PZRc2QFN9Ywefji0cMmcDVdz/XKL1gChENIGX0XIbzwF0xR/r2Oq+QOa0s2gL45+zPPOrFlyQlROHfsD+65fBYCaDX0apb3Qt1YjSpWDr3HmjeloykeAfJbDolonzT2xLxfvDL8RBYPj3WvUvWPFWbljLgoBA+lV7wecXr9xFnNFMKDvwk9LMnuUameNCchq6MLW6s93hcu/1DAJLjGP8AFQTWF8N89NXuj0ONishBxKViTsFTQn6ui6h/27jw2nONYEzgI8AiH1CSgxJxswak54JuUHxjfEZ6Kpsn5uquG8C3C4D691agSqTp4ovnLUXn7nXsq/Sf4cccPk28gybtJO7sXwCLobycQgH7XftRBfbYlVzitlR8CZm2si9PMDTCiA/4OKvk6dxyC8+FlllVR5ifb5MZ/A4PGQQKS755+Yk57SdwpwJyXWwTK+kFBO8Qa7lHA1yIf+SyGy6MyVbYhrDlhTdLQCaFagW1eSdZOz1TFVLSk5LhMLQEknBhM/tDf3HrFuzgK2HaWokHZt1xF78EnwTKMLSLycFvSeQbSQWM5Ej3bIosLw=="
-      },
-      
+
       {
         "name": "ROMANCE CHANNEL ",
         "icono": "https://i.ibb.co/r2QS9D3/romance-channel-latam.png",
         "uri": "Wpxb0tpfryVvRa0hveW0PZJJn1wJo7qwlLf6TP+vHPCHI5VMm1Z3ha/IEbJrPDS0/KRzi+l9GLCCCPRiT+1e6sxErAORwb1xx7I2WsGjnYm49oAddngVM+59sJIMj4tgoAZ1OvgPnXdhywEoCNGiBPj8JGGlY4ZBNKK72NCl/u0="
-      },
-      {
-        "name": "telemundo-internacional",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkC0mtF1/S21cpVmj1KF2mXI/CyQyNtts0ZSu5O1un0/EowZ3bQviie2DLEFob1RawaY/ZTyjJyq1EHznUVgcHi",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfeQWkEt5rkYq2GbSqU278GoAwfV2EPm5nh8NN7RqjItOZQWHojf+8pIOs6Kw9CCmdrKnpjElRzIy3sI7aW5pMxU6o2l50uyIpwGdNIoV5Rj9/p5CGXWdzC+rL5w6XSWUQ==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
+      
   
     ]
   },
