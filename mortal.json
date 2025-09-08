@@ -605,15 +605,7 @@
   {
     "name": "DEPORTES",
     "samples": [
-     
-       {
-        "name": "FOX SPORTS GLOBAL",
-        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTkmi1Xa3bAHnIeETsdI37PU5fH+VrtHQEZpI6X9+09zY="
-      },
-      
-      
-      {
+ {
         "name": "FOX SPORTS 1",
         "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4CoiNCZZoj5Fvd9WFcHwvgeO+dyGgvyluT7ASiLYSdgQDnGYg9tFyLAvC8EuZUPfHWf",
@@ -646,6 +638,11 @@
         "uri": "USwVFT8RfApDfMVxyUe9OhWG+/BT8+VkRnWWHNUqTWE9UKUWYq6QqBQdRAUtCRzBEdOcdUMSYVzyGzfh/vtY/Eo3uRkLYX3LkPOUff2Jsg+HxQo24L4z4CGalFlrUaquAS9uvvegtKE6pJZYE9q+q2fbdHxS84Yjka0bA9T7+U0=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycuusCThtrLuelNIu3e1aaOUz2vAu8VrIVfUkUs3Mze42DPYwW7GSNMcuiEhmw/1GhQpB7mqS2Wo97th+h+ObFpeLbKkRw24pHJVQ4FGgzpxSvERS7VTFRZfmDQ0gpRIlw=="
+      },
+       {
+        "name": "FOX SPORTS GLOBAL",
+        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTkmi1Xa3bAHnIeETsdI37PU5fH+VrtHQEZpI6X9+09zY="
       },
       {
         "name": "ESPN",
