@@ -3074,24 +3074,10 @@
   {
     "name": "CANALES DE PRUEBAS 2",
     "samples": [
-     {
-        "name": "GEN TV",
-        "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
-        "uri": "Nt63q5llfdKK1aglastD3tsHWPXVSB+a02/HeO6e3zQ8t8R5HgHvFlyutzeaEJYZO+aqb8MWlmOpD3Hw31mH8NMZ+xwjax+mUe8MG0m1bnsM393PYAxVSqjP2yw0XTYRgPZK/dtVe16cUOfof6Yy25N1Q0qHUJ+dDQvrzXpxbpNHzW9P7poz/MZ7fltHWvsJYvKAk3iCZdBi4f+4lPGXfqSqYIfvg5sY3iKfFzutf5EW5XeRa6SKRsu5lUfZnDmuGeRhJeCEsVHh1wpVow3MpH/qUGAphAmUCXG9AY1PtJcpkCcbiKBGSv07VCFMfS+Zf1cxoRw1Ol8BrHUrREq7UJ/gpmE7hmZuzDNqyJdunyKhCScppZC0nT/s91Sngu9fxQoYn+z9tPxDbUz1V17Ym7EgRCx+o1o8BO0UoD6Q88dH0dO3U8j9r+HE3P18Ahu/y1ZFwDOrh4S1YT4VqiwC9puR6NCPiy3h/Uz0yw5+lU55YHbukTFOqr4lGGzYi5y8GqFs70bskit1kNenKaN2dTfE3GV+pKAjcKaFRK4q2272hnKdKWKIQuS6/iEtqv7oPcE/YP5mtQ6TwC918C65176HiTjTjw0DjlWv8HN++DywP2jgv/uTkHISLtRFRU481xDJ2LBxoo66qvxdyO6yb1BNfiKmsVN3X2rL8d09zpFYKYtxr0rMbWJpcVFvp60xfUZzRnQmG7bZGoRMho07bSBl2moHGLA7HrIFoKL2C5vZzOkxPR0cZRWy87HBxVCpOXL8ATOqorrdulz/6jscnCzqCISr8obfiCgLatlYTRjulp+r8cOU3B7q5NRoK4W5jCgYCFmJfPoqL4O26zHjGzW9HZZFT2/UnSDwIsdesfT8g9qAeSKqgi6VPWN5h5ZrL31QZdcirwjQQe6imw573KdnYA71YKnDWfvh4cg9IBc=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd+25ueir98WToVqPJdQPyvi/v7/XwyUlhGHvM5wWL01Si+euaUb0kFoqF2IxxIi/PZJLBITygdx1xgzeSW6fVv0N3kt4wAE/QsT54pysAOphAw41DGRMTNR6NlIcalEdQ==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
+    {
         "name": "GEN TV 2",
         "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTE3k4EXShaPsb9NrX53A27cpUBeKkTroT6jwhlVlr/5k="
-      },
-        {
-        "name": "Paraguay vs Peru",
-        "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
-        "uri": "Nt63q5llfdKK1aglastD3q5V2WCZ5XSwsH+pCMj6Fqk8t8R5HgHvFlyutzeaEJYZO+aqb8MWlmOpD3Hw31mH8NMZ+xwjax+mUe8MG0m1bnupPdSiNLB/Uqh8GBgxg1eSLfw6LKoLbepz+g9RfCsCiZN1Q0qHUJ+dDQvrzXpxbpNHzW9P7poz/MZ7fltHWvsJiytowwXxWtlvQfIpxbF3uXb47E1cOPNj2crUxMkOs1JxCzNauqYVTXW/KH94ltqdQ2yOURI0jgM/rT7uOKYvTgfoliX6t/lfpTWCeOYGiC/mL953hsnItqhlhAAWzg6APqwmIgI8NqH9aux3ExocXziXvQYsmQVxULbdilqYAMP7d8d+JtSWjmXh7IjOuw40rFvDjis2S8DnfaRsyFNCuDf4aek8hhPGnklTBWNTdkSwMOxy/CBczUA9CRjZX3FpBrBRrtH064+FuxDmJ9DfPJIjpooeFqUq9fyWbENeD6odss7rMSKn9wuR+tCmf0dXdIU5O54naTk2J4wm4Y3p7nQh6ygmpsPMipvVxysiOuwvw2FRFlku88z1ewWP5YVK9AnLgcPHbY3Eka4GQ/r4a5mRSvTLHnFKrLJfsHnXIowURNQ3rtr49uikUJ9DoH525Asf5/1zQpKcTtpA21Lptfnc/XlxleFllQVpDVYJANj11NeHeNlXVycWyjNPnnAigdtoIAwecANjgoZGC8maxSGtdSDQvQgCBsAiE0C9othFE865GkbHRVGgedhMHrjN4D76332d3KZHNqlpLQTNoKXADyMahq2nKD0w8KbmUqRcuUrKdKjOrqIyvwg8PJ4eqjy6fz/FVFHAJHdZYHs2Midce8jv1NCK64+2aK6SJTU="
       },
         {
         "name": "GEN TV 3 FO",
