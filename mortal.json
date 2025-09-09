@@ -3121,15 +3121,6 @@
         "referer": "https://en-vivo.pro/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
- [
-  {
-    "name": "CANALES DE PRUEBAS",
-    "samples": [
-      {
-        "name": "SNT 2",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBuALrvrzT/+BMXCJiNJ6AsrYme8E5nf7ZNDSNVmC+cULAErKnUyg="
-      }
     ]
   }
 ]
