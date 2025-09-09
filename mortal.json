@@ -3024,6 +3024,22 @@
         "icono": "https://i.ibb.co/Prct1gv/hqdefault.jpg",
         "uri": "y3CmNEMv3EJQfzlcSWn08vYwx2udPch0OeZAQxLdcJQfhsKpo9/SVFHhNQb0XIkM"
       }
+       ]
+  },
+  {
+    "name": "CANALES DE PRUEBAS",
+    "samples": [
+      {
+        "name": "RedADvenir Bolivia",
+        "icono": "https://redadvenir.org/redadvenir/images/logo.png",
+        "uri": "W0rG92kJWcrK73nflsi3JjQRFKUKQcekcNetQHTaM3yEYmePVMPPayTxd87j+ZclknG2a4W653Ahb45I1uZ4KDR1GbKB6tXGrTz53IW6qYA3gBv/72N9CmvW5D4y9jD1"
+      },
+     
+      {
+        "name": "FTV Red Nacional",
+        "icono": "https://i.ibb.co/Prct1gv/hqdefault.jpg",
+        "uri": "y3CmNEMv3EJQfzlcSWn08vYwx2udPch0OeZAQxLdcJQfhsKpo9/SVFHhNQb0XIkM"
+      }
      ]
   },
   {
