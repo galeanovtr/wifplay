@@ -87,6 +87,17 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
+
+
+       {
+        "name": "GEN TV MPD",
+        "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
+        "uri": "vgXeyDnk8p+6eIXrcrjRClgySuyQnwROab7mefrOADaR4FZi7FxKL+xewRKz3XoJvyRXsPuMCLWJEE8/WABISSCDRR5IGugyt8TGga8qg+mK8uPIs9PyFWvGAnV558yOh8HHYvIKaFbiPTRAvjxTFLSEWkgdEBfM+snkOZDVhdcyZD9ec6cHx/Rg4H3YSNtW//XE48kEhlnsQxlVsUUNiwHqQ8BMYJLf0f8eXaz++ssRGQcuyZF7T13nwXjbL5Cmt0xEP4pvu+uX1/fm5bfJ3ZaXNFXZi9axTfGiW7+heZbgBdxCJZ+7+c6vpH6QnszhUxTliVwYMyxjw20LD/ya0xgHNN3RTnjjpWdufmpqHjCS+378dD5qkrctydPTezXNg/TvvMwCBJB1HoYzkOTK4MJI8szPGcv5+1LVXXiurQNqB0+JPSHNi/KLb28HvDRAGAc03dFOeOOlZ25+amoeMMH/01bhTK5Up9Taki8waPtL32lO6hkD+MNV2UegtAumy6Qs8+pLgsxXpj6frAbuc+3nMiJH65Odqhxe7e2LKBHqgUVIv6JZY3s3TLPGuNNCT580xK/VkIMuTzpXHQR0sUsRYYPiuwWOXK0JU41hPLV1Tyo0IhzEkjS1rvmLeIrHokg5Ktr1MUy3xi6d2Z52hxag7sIgcXKmREZulbC61K5/42HkFbeL5BcN2ys4IlxHoE/j/Q2laMk8Xfs5VKEq9oFDr/6MehpZz1i8qOsXRTvDsYuXIsBvGWUUh3tGTkuYwRiBH/dbaZWDhy9TfsaCtTy0k6lVDiiNxqwfWp2Bryi2V/Kly44gQLr4ZzX5B6GBdFyxzxjoiQtNZ8GUj/Ehug==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd+25ueir98WToVqPJdQPyvi/v7/XwyUlhGHvM5wWL01Si+euaUb0kFoqF2IxxIi/PZJLBITygdx1xgzeSW6fVv0N3kt4wAE/QsT54pysAOphAw41DGRMTNR6NlIcalEdQ==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
       {
         "name": "GEN TV 2",
         "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
