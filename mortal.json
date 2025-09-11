@@ -930,54 +930,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
 
-       ]
-  },
-  {
-    "name": "DAZN",
-    "samples": [
-      {
-        "name": "DAZN 1",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgzFFgPmAIe8SoBZkel3Sp5Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZWDg3JGp1oXWVrNVlmMI0nCpXAkdvJqlVCOlxJEfCZRZA+GAoM0hlxtYg75MVw+bf9AA/pN7HM5CFpFCvOHu5LMHlHh4Jeqkls7dokILL0z0VZtXzGJNCDJ7tO2nNWzhg=="
-      },
-      {
-        "name": "DAZN  2",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgSbBDE56DroYwMMTBtO071A==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yf8eNDcX4Lu1FGydZVLkpi0ckZVUOlTFu80lfc4XTpCgpoznnGXkvfawz0zThcifyPpaQ3wgBbxelUeliavGuAtSebvO6ZEPIu0dUgfvzXfuxr9Zzm16MC32I46wgpQdng=="
-      },
-      {
-        "name": "DAZN 3",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgHRcwgggwspu33cyMiHYIWw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yR4PZGkykKpI6TxLKcSkkHlWmREgG+yGrNo5+7tabEDDtIrdnchvrdCRcm5bkvXBR9zNcTGk4DPBtDT3XKKjWOgOuROPtOCfIh157HGz86i0HrqfDcTLCLmuwI3CgIvVCA=="
-      },
-      {
-        "name": "LA LIGA",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgIpqESFtjlwN/evWtIwFJAA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yR4PZGkykKpI6TxLKcSkkHlWmREgG+yGrNo5+7tabEDDtIrdnchvrdCRcm5bkvXBR9zNcTGk4DPBtDT3XKKjWOgOuROPtOCfIh157HGz86i0HrqfDcTLCLmuwI3CgIvVCA=="
-      },
-      {
-        "name": "LA LIGA 2 ",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgIpqESFtjlwN/evWtIwFJAA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yezoTUDpTA6N1yC+Jbc2XNODcS5FVS4fRUcHQrxH7z3b4h8dN8ppCNCG06xlllk/dz763gHCwCSiG0j9Tcjn2o5A3vq+68UUr25wFOSmA7gui+BhxrGiEuLhcNizJSxErw=="
-      },
-      {
-        "name": "DAZN FORMULA 1",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "uri": "jMr+S59URyT+FtLRHEYqD8DQIHEcVrqqW2DpABbjRYZmFImleU64HNRinHBd/XLuEdOcdUMSYVzyGzfh/vtY/N2C6+l0PvfxRRLfHoZmDkQMucrlmeDAQRk2Mmjd7ordgqIQLvRynLAxNgjXaOsm+7TdcN8JUnIRIj8QwTD1npk=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySTR1K5Wl1NO3DrIzJ/uKvaOntw2GE14MB6BJFaUAkfS1pNEvcVcbUsWoO2wqY/KVVbqsg6vDKkveLaYHXYBks579hsd4HUD69fMzX3NCIEnPm890XeXULh06LwnPhsPwA=="
-      }
-   
+      
        ]
   },
   {
