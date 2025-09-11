@@ -543,7 +543,17 @@
                   "name": "El muro negro",
                   "uri": "http://goovdme.967sd1f.homes/vod/02141F7665DF4DA2943AADDB02B85E0C_media.ts"
    }
-
+[
+  
+      {
+        "name": "NUEVAS PELIS 🎥📺",
+        "samples": [
+       
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
+                        "name": "LAZOS DE SANGRE DESTINO FINAL 6",
+                        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8"
+           }
 
           
     ]
