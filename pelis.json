@@ -1,7 +1,109 @@
 [
   
       {
-        "name": "PELICULAS DE ESTRENOS 📺📽",
+        "name": "ACCIÓN 📺📽",
+        "samples": [
+       
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/nJ9qnZLhmj6wD3NgOe6lKoXJQMx.jpg",
+                  "name": "LA FUENTE DE LA ENTERNA JUVENTUD",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/A27EDD9844394E83931919A4FD764CE8_media.mp4"
+           },
+           {
+                  "icono": "https://image.tmdb.org/t/p/original/4SddrMgc4lEagsJOCHZ60bjohSD.jpg",
+                  "name": "LADRONES CON CLASE",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/6A84A59AC6C84B73A74D87A2956BDF6C_media.mp4"
+           },
+           {
+                  "icono": "https://image.tmdb.org/t/p/original/2GxQAMh6CpltOYX4kjPLVO0Xrzz.jpg",
+                  "name": "HARBIN",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/F6137E4AF5AB4EB389C7867AFF6C0CC6_media.mp4"
+           },
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+                  "name": "RESCATE IMPOSIBLE",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/EF363D188ECE40E8B5C037CBE74B8C40_media.mp4"
+           },
+             {
+                  "icono": "https://image.tmdb.org/t/p/original/hSUmtSJOslBLULMtoYK6XlqfWu7.jpg",
+                  "name": "BLINDADO: sin salida",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/70610BDEF4BC40B2A98840DC34FB6BA1_media.mp4"
+           }
+         
+[
+  
+      {
+        "name": "CRIMEN 📺🪓🗡️⚔️ 📽",
+        "samples": [
+       
+       
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
+                  "name": "LAZOS DE SANGRE DESTINO FINAL 6",
+                  "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8"
+           },
+           {
+                  "icono": "https://image.tmdb.org/t/p/original/swQRKmW7RLhncPYHvM0RHz8b7bT.jpg",
+                  "name": "Las guerreras k-pop",
+                  "uri": "http://ptccloud.lsdwedsfsc.site/vod/F1B7EF9E94C54AD89F599E9675D3FDCF_media.mp4"
+           },
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg",
+                  "name": "LEAL",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/B10F8FADAB0E4C7F9F3D12F171E96705_media.mp4"
+           },
+           {
+                  "icono": "https://image.tmdb.org/t/p/original/1UymgOU9dlGdj0xEoi4fDJKJf30.jpg",
+                  "name": "QUIEN ES LUIGI MANGIONE",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/564263F1C19040139476AECA9026E550_media.mp4"
+           },
+           {
+                  "icono": "https://image.tmdb.org/t/p/original/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg",
+                  "name": "CALENDARIO MORTAL",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/2DBD08D6A825401C86B628BBD8EF42CA_media.mp4"
+           },
+           {
+                  "icono": "https://image.tmdb.org/t/p/original/drpv6huMVntREXchPrrwTZcAcmQ.jpg",
+                  "name": "THE ORDER (La hermandad silenciosa)",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/5FC947F0116F413ABFED3B1DEF1ACDD7_media.mp4"
+           },
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/1mMxQuW2b5zL6TlhvufdU1poH9n.jpg",
+                  "name": "EL 47",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/60464FAC403342C1A2A92357F148066B_media.mp4"
+           },
+           {
+                  "icono": "https://image.tmdb.org/t/p/original/9EhRCPYmmTcWVMIwHL1UpKgb0O5.jpg",
+                  "name": "CAOS: Los crímenes de MANSON",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/F4855C669DCA4CCF84DC33E9CC9B5242_media.mp4"
+           },
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/bwLC3uTycVbPnGfhJV8JBR8zJ3f.jpg",
+                  "name": "HIJOS DEL ÉXTASIS",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/BC9FC3199B4D48BCBEE998C8986DEB47_media.mp4"
+           }
+
+         
+  [
+    },
+    {
+        "name": "⭐️⭐️Comedia⭐️⭐️📺📽",
+        "samples": [
+
+             {
+            "icono": "https://image.tmdb.org/t/p/original/z7Gxe0z8fUlWA4hfQ8s99DRC4Fq.jpg",
+            "name": "DÉJATE LLEVAR,
+            "uri": "http://vedo.wvdbozpfc.com/vod/A0302FED21F346E7B1F7AB2C419E4702_media.mp4"
+   },
+          
+ {
+            "icono": "https://image.tmdb.org/t/p/original/hv8lRilstp1JrGaoVXGmUPrvIRh.jpg",
+            "name": "LA LUNGA CORSA",
+            "uri": "http://vedo.wvdbozpfc.com/vod/ED7A07A7288949769F90830924E8B2FC_media.mp4"
+   }
+            
+ {
+        "name": "PELICULAS VARIADAS 📺📽",
         "samples": [
        
           {
@@ -11,7 +113,7 @@
            },
            {
                   "icono": "https://image.tmdb.org/t/p/original/swQRKmW7RLhncPYHvM0RHz8b7bT.jpg",
-                        "name": "Las guerreras k-pop",
+                        "name": "LAS GUERRERAS K-POP",
                         "uri": "http://ptccloud.lsdwedsfsc.site/vod/F1B7EF9E94C54AD89F599E9675D3FDCF_media.mp4"
            },
             {
@@ -543,25 +645,6 @@
                   "name": "El muro negro",
                   "uri": "http://goovdme.967sd1f.homes/vod/02141F7665DF4DA2943AADDB02B85E0C_media.ts"
    }
-
-              ]
-    },
-    {
-        "name": "NUEVAS PELICULAS📺📽",
-        "samples": [
-
-             {
-            "icono": "https://image.tmdb.org/t/p/original/qpqKP6Af16UVNSpCRdkOTrR3cdD.jpg",
-                  "name": "El método Knox",
-                  "uri": "http://vedo.wvdbozpfc.com/vod/D8E04433D8734F1BA7F73D7CBF412558_media.mp4"
-   },
-          
- {
-            "icono": "https://image.tmdb.org/t/p/original/la5B2gNMQeEgBtAM1ClSgknkfQB.jpg",
-                  "name": "La semilla de la higuera sagrada",
-                  "uri": "http://vedo.wvdbozpfc.com/vod/BACB24393398412A8E5BAB38D460D0A8_media.mp4"
-   }
-            
 
 
           
