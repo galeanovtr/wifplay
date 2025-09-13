@@ -124,7 +124,36 @@
             "name": "SUPERPAPÁ",
             "uri": "http://vedo.wvdbozpfc.com/vod/94BB540603394423BE2E65414CFA6B55_media.mp4"
    }
-
+ ]
+   },
+   {
+        "name": "⚡️RECOMENDADOS⚡️📺📽",
+        "samples": [
+{
+            "icono": "https://image.tmdb.org/t/p/original/z4miRBGEqhkIkUr0ausHLfUytgq.jpg",
+            "name": "ELVIS",
+            "uri": "http://vedo.wvdbozpfc.com/vod/76973BBD069F4573BD23D3A8AD1CBBD8_media.mp4"
+   },
+ {
+            "icono": "https://image.tmdb.org/t/p/original/gk6IErM0acV6HJRwKZy8ecBoddc.jpg",
+            "name": "BOHEMIAN RHAPSODY: la historia de Freddie Mercury",
+            "uri": "http://vedo.wvdbozpfc.com/vod/B708BE4DB6F84C37B041BAFF65A51302_media.mp4"
+   },
+  {
+            "icono": "https://image.tmdb.org/t/p/original/ec41AvRBFuWNOYjeBtdSn1aAzRx.jpg",
+            "name": "MARIA MAGDALENA",
+            "uri": "http://vedo.wvdbozpfc.com/vod/5FF38E9C9B7B49AC8830434F3441A5FA_media.mp4"
+   },
+  {
+            "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+            "name": "TROYA",
+            "uri": "http://vedo.wvdbozpfc.com/vod/11023B4F4E0148CBA277A05D2A66490E_media.mp4"
+   },
+   {
+            "icono": "https://image.tmdb.org/t/p/original/6snCuOuKwWnATAOTTumAtRImuoo.jpg",
+            "name": "CORAZON VALIENTE",
+            "uri": "http://vedo.wvdbozpfc.com/vod/44B021E29F914D84BA566CBFA0AB4103_media.mp4"
+   }
         
    ]
    },
