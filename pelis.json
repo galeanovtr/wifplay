@@ -189,6 +189,11 @@
    {
         "name": "⭐️⭐️CINE INFANTIL⭐️⭐️",
         "samples": [
+    {
+            "icono": "https://image.tmdb.org/t/p/original/1b2sEjyhc6kqZD4SazdVlVLuIyh.jpg",
+                  "name": "MOANA 2",
+                  "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/FD6C26C5AEF94EF78651CE614EDCB1DB_media.mp4"
+     },
 {
             "icono": "https://image.tmdb.org/t/p/original/2DYgEfgv1bOmgibE1kyPBmzxaf2.jpg",
             "name": "NORBERT",
@@ -532,11 +537,6 @@
             "icono": "https://photo2.tinhte.vn/data/avatars/l/3196/3196450.jpg",
                   "name": "CULPA TUYA",
                   "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/E39CF770C3AA46DE9442C896EB43D2C1_media.ts"
-           },
-          {
-            "icono": "https://image.tmdb.org/t/p/original/1b2sEjyhc6kqZD4SazdVlVLuIyh.jpg",
-                  "name": "MOANA 2",
-                  "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/FD6C26C5AEF94EF78651CE614EDCB1DB_media.mp4"
            },
           {
             "icono": "https://image.tmdb.org/t/p/w185/ftIJ42zwuFvUFVEWZQbFq1vcV5U.jpg",
