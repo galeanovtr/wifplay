@@ -600,11 +600,6 @@
                   "name": "OBSERVADOS",
                   "uri": "http://vod.tuxchannel.mx/peliculas/720/the%20watchers%202024.mkv"
            },
-           {
-            "icono": "https://detodopeliculas.net/wp-content/uploads/2024/08/incitadores-2024-(POSTER12)-200x300.jpg",
-                  "name": "LOS INCITADORES",
-                  "uri": "http://vod.tuxchannel.mx/peliculas/720/the%20instigators%202024.mkv"
-           },
           {
             "icono": "https://image.tmdb.org/t/p/w185/fHLTsVtN8Xq1DwNqu1YiAAtu9tU.jpg",
                   "name": "BEETLEJUICE BEETLEJUICE",
@@ -634,11 +629,6 @@
             "icono": "https://m.media-amazon.com/images/M/MV5BNGU4YTE2ODQtNDdmNi00YmFkLTlkMjgtNWExYWNkYzM0NTg3XkEyXkFqcGc@._V1_.jpg",
                   "name": "SUS TRES HIJAS",
                   "uri": "http://movies.vodcontetmx.info/movies/dual/his_three_daughters_(1154762)/his_three_daughters_2023_webrip_1080p_hd_dual_latino__ingls.mkv"
-         },
-          {
-            "icono": "https://detodopeliculas.net/wp-content/uploads/2024/09/los-feos-2024-(POSTER38)-200x300.jpg",
-                  "name": "LOS FEOS",
-                  "uri": "http://movies.vodcontetmx.info/movies/dual/uglies_(748167)/uglies_2024_webrip_1080p_hd_dual_latino__ingls.mkv"
          },
           {
             "icono": "https://images.justwatch.com/poster/319800288/s718/hounds-of-war.jpg",
@@ -732,8 +722,8 @@
     },
       {
         "icono": "https://pics.filmaffinity.com/Good_Burger_2-397108565-mmed.jpg",
-              "name": "BUENA HAMBURGUEZA 2",
-              "uri": "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Buena%20hamburguesa%202%20online%20HD%20-%20Cuevana%202.mp4"
+        "name": "BUENA HAMBURGUEZA 2",
+        "uri": "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Buena%20hamburguesa%202%20online%20HD%20-%20Cuevana%202.mp4"
      },
           {
       "icono": "https://i.ibb.co/TYyYtpr/avatar-1.jpg",
@@ -742,8 +732,8 @@
           },
       {
       "icono": "https://pics.filmaffinity.com/The_Equalizer_3-455060562-large.jpg",
-            "name": "EL JUSTICIERO 3",
-            "uri": "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FThe%20Equalizer%203%20The%20chapter%20Final%20-%202023%20HDTS.mp4"
+      "name": "EL JUSTICIERO 3",
+      "uri": "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FThe%20Equalizer%203%20The%20chapter%20Final%20-%202023%20HDTS.mp4"
       },
       
       {
