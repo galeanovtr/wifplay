@@ -283,6 +283,25 @@
             "uri": "http://vedo.wvdbozpfc.com/vod/55FBC0094C494E57B40779E15824D887_media.mp4"
    }
 
+          
+ ]
+   },
+   {
+        "name": "SERIES🎬🎬🎬",
+        "samples": [
+       
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
+                        "name": "EL GRAN GUERRERO: Temporada 1.1",
+                        "uri": "http://goovdme.967sd1f.homes/vod/210527A9278642B9B10FCEBA768C5F86_media.ts"
+           },
+           
+          {
+                 "icono": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
+                        "name": "EL GRAN GUERRERO: Temporada 1.2",
+                        "uri": "http://goovdme.967sd1f.homes/vod/72FD4C69C5BE4B8CAA4940A8985A1C95_media.ts"
+           }
+
    ]
    },
    {
