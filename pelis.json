@@ -291,15 +291,26 @@
         "samples": [
        
           {
-                  "icono": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
+                  "icono": "https://image.tmdb.org/t/p/original/qEcYaWKUUJITpp3hwTIGtgfHeEZ.jpg",
                         "name": "EL GRAN GUERRERO: Temporada 1.1",
                         "uri": "http://goovdme.967sd1f.homes/vod/210527A9278642B9B10FCEBA768C5F86_media.ts"
            },
            
           {
-                 "icono": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
-                        "name": "EL GRAN GUERRERO: Temporada 1.2",
+                 "icono": "https://image.tmdb.org/t/p/original/qEcYaWKUUJITpp3hwTIGtgfHeEZ.jpg",
+                        "name": "EL GRAN GUERRERO: Marea cambiante 1.2",
                         "uri": "http://goovdme.967sd1f.homes/vod/72FD4C69C5BE4B8CAA4940A8985A1C95_media.ts"
+           },
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/lCNNV8vVVqW2XRy1bIouhwUoLai.jpg",
+                        "name": "PECADOS INCONFESABLES: La trampa 1.1",
+                        "uri": "http://goovdme.967sd1f.homes/vod/BE5427ED150241838E2F43E670545CC1_media.ts"
+           },
+           
+          {
+                 "icono": "https://image.tmdb.org/t/p/original/lCNNV8vVVqW2XRy1bIouhwUoLai.jpg",
+                        "name": "PECADOS INCONFESABLES: Reencuentro 1.2",
+                        "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/FCF85BCF48484503BE00D13AF2797A1F_media.ts"
            }
 
    ]
