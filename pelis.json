@@ -330,16 +330,47 @@
            },
            
         {
-                  "icono": "https://image.tmdb.org/t/p/original/lCNNV8vVVqW2XRy1bIouhwUoLai.jpg",
-                        "name": "PECADOS INCONFESABLES: La trampa 1.1",
-                        "uri": "http://goovdme.967sd1f.homes/vod/BE5427ED150241838E2F43E670545CC1_media.ts"
+                  "icono": "https://m.media-amazon.com/images/M/MV5BNDM2ZTA0NjQtMjk4Ni00ODkyLTk3ZjMtYzFjZThjYzQzNWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "name": "MERLINA:Los miércoles son tristes 1.1",
+                        "uri": "http://goovdme.967sd1f.homes/vod/210527A9278642B9B10FCEBA768C5F86_media.ts"
            },
-           
-          {
-                 "icono": "https://image.tmdb.org/t/p/original/lCNNV8vVVqW2XRy1bIouhwUoLai.jpg",
-                        "name": "PECADOS INCONFESABLES: Reencuentro 1.2",
-                        "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/FCF85BCF48484503BE00D13AF2797A1F_media.ts"
+                  {
+                  "icono": "https://m.media-amazon.com/images/M/MV5BNDM2ZTA0NjQtMjk4Ni00ODkyLTk3ZjMtYzFjZThjYzQzNWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "name": "MERLINA:La tristeza es solitaria 1.2",
+                        "uri": "http://goovdme.967sd1f.homes/vod/72FD4C69C5BE4B8CAA4940A8985A1C95_media.ts"
+           },
+                  {
+                  "icono": "https://m.media-amazon.com/images/M/MV5BNDM2ZTA0NjQtMjk4Ni00ODkyLTk3ZjMtYzFjZThjYzQzNWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "name": "MERLINA:Tristemente amiga o enemiga 1.3",
+                        "uri": "http://goovdme.967sd1f.homes/vod/90B2B0A9A910414297AC8C79051C6978_media.ts"
+           },
+                  {
+                  "icono": "https://m.media-amazon.com/images/M/MV5BNDM2ZTA0NjQtMjk4Ni00ODkyLTk3ZjMtYzFjZThjYzQzNWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "name": "MERLINA:Qué noche la de ese día 1.4",
+                        "uri": "http://goovdme.967sd1f.homes/vod/E9BEB65E8AED4CD989DE0C181E25029A_media.ts"
+           },
+                  {
+                  "icono": "https://m.media-amazon.com/images/M/MV5BNDM2ZTA0NjQtMjk4Ni00ODkyLTk3ZjMtYzFjZThjYzQzNWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "name": "MERLINA:Quien siembra vientos recoge tristeza 1.5",
+                        "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/3E45E1D2C7F74C1586241413867D2703_media.ts"
+           },
+                  {
+                  "icono": "https://m.media-amazon.com/images/M/MV5BNDM2ZTA0NjQtMjk4Ni00ODkyLTk3ZjMtYzFjZThjYzQzNWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "name": "MERLINA:Hoy por mí, mañana por mí 1.6",
+                        "uri": "http://goovdme.967sd1f.homes/vod/0D5984E43EA84FDE862F0E13A6AE9A0A_media.ts"
+           },
+                  {
+                  "icono": "https://m.media-amazon.com/images/M/MV5BNDM2ZTA0NjQtMjk4Ni00ODkyLTk3ZjMtYzFjZThjYzQzNWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "name": "MERLINA:Qué triste que todavía no me conozcas 1.7",
+                        "uri": "http://goovdme.967sd1f.homes/vod/7326B49D03B7430DB8942410A7DA28F9_media.ts"
+           },
+                  {
+                  "icono": "https://m.media-amazon.com/images/M/MV5BNDM2ZTA0NjQtMjk4Ni00ODkyLTk3ZjMtYzFjZThjYzQzNWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                        "name": "MERLINA:Una bandada de tristeza 1.8",
+                        "uri": "http://goovdme.967sd1f.homes/vod/C74F95C391854CD3A1FDDCC81D813473_media.ts"
            }
+           
+
 
    ]
    },
