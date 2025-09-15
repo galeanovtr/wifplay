@@ -92,11 +92,7 @@
                   "name": "LA BALA PERDIDA 3",
                   "uri": "http://vedo.wvdbozpfc.com/vod/E7E7D4CC2F6F4622B42029BA0186755D_media.mp4"
            },
-           {
-                  "icono": "https://image.tmdb.org/t/p/original/swQRKmW7RLhncPYHvM0RHz8b7bT.jpg",
-                  "name": "LAS GUERRERAS K-POP",
-                  "uri": "http://ptccloud.lsdwedsfsc.site/vod/F1B7EF9E94C54AD89F599E9675D3FDCF_media.mp4"
-           },
+         
           {
                   "icono": "https://image.tmdb.org/t/p/original/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg",
                   "name": "LEAL",
@@ -228,7 +224,12 @@
             "icono": "https://image.tmdb.org/t/p/original/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg",
             "name": "TOY STORY 4",
             "uri": "http://vedo.wvdbozpfc.com/vod/ABE15F90186842C5806E0AEB4C74EAA8_media.mp4"
-   }
+   },
+  {
+            "icono": "https://image.tmdb.org/t/p/original/swQRKmW7RLhncPYHvM0RHz8b7bT.jpg",
+            "name": "LAS GUERRERAS K-POP",
+            "uri": "http://ptccloud.lsdwedsfsc.site/vod/F1B7EF9E94C54AD89F599E9675D3FDCF_media.mp4"
+    },
         
    ]
    },
@@ -288,11 +289,7 @@
                         "name": "LAZOS DE SANGRE DESTINO FINAL 6",
                         "uri": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430548.mp4"
            },
-           {
-                  "icono": "https://image.tmdb.org/t/p/original/swQRKmW7RLhncPYHvM0RHz8b7bT.jpg",
-                        "name": "LAS GUERRERAS K-POP",
-                        "uri": "http://ptccloud.lsdwedsfsc.site/vod/F1B7EF9E94C54AD89F599E9675D3FDCF_media.mp4"
-           },
+           
             {
                   "icono": "https://image.tmdb.org/t/p/original/rdxdvXQGqCj2Vb7SvTL8gdxlSzI.jpg",
                         "name": "EL CONTADOR 2",
