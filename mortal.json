@@ -17,6 +17,32 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWWEyB1Ww7BG038rOwozZekUjDA9TnUN+LJaAej24qpBHsw5ASknENlOYhTuKiJBeyyBzOW8e2vfsDjvnoPACAi130RYJgAW28ELQSn5YESxTjnmoP7o/YwJRpzoIz9Tyg=="
       }
+
+       ]
+  },
+  {
+    "name": "LIBERTADORES DE HOY",
+    "samples": [
+    {
+        "name": "FOX SPORT",
+        "icono": "https://w7.pngwing.com/pngs/855/273/png-transparent-fox-sports-networks-sportsouth-television-fox-action-movies-logo-television-emblem-text.png",
+        "uri": "7T5/Mp/vYpGA50FiogHBhLpd/PHg5KxEDtsgd3O1b5Jju4OxMIKAwn75MOmGecafiy1wNcjjgzl7va6Lyxfqeg=="
+ },
+       {
+        "name": "FOX SPORTS 1",
+        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4CoiNCZZoj5Fvd9WFcHwvgeO+dyGgvyluT7ASiLYSdgQDnGYg9tFyLAvC8EuZUPfHWf",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTUMn+1YIU82HFRpmCObbR4gHIHvI8lr4O5jxePaDxVboCla2kKw+v+EVGEIQ6ZDL74YDsBRsmBQtAvQCv8XDzWsaaH0F+N/3YyXwmQ1XXlyGRLAeSqGWlA4dFXN1tPGrw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      
+     {
+        "name": "DSport",
+        "icono": "https://www.directvsports.com/__export/1674066777645/sites/dsports/arte/apps/facebook_1200x630.png",
+        "uri": "7T5/Mp/vYpGA50FiogHBhLpd/PHg5KxEDtsgd3O1b5LCZQc6O+m/eFiAgBk1ZPQZyL0sTMKBXTVFpr8WwlssCA=="
+      }
                 
     ]
   },
