@@ -23,15 +23,7 @@
   {
     "name": "🏆LIBERTADORES⚽🏆SUDAMERICANA⚽",
     "samples": [
-    {
-        "name": "ESPN",
-        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClbgEi6w7tiYPTk6lNVYj4WJC6RUQ7Sx902Hr7sunOmivQJO7wTmfCQAqCJtRFcoDIzEJd4nSv1sPfkrGDtG7fB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUTjT+H2SbZI2x+uTpZMduZX1l6EIHGGjDRyIYsq0csadveqethpXs516FcbYt0TEJXvBqgSrHEnOcmu/ttQA/iK2tpAWM55H0NSMaJC2waZRtZhqG+VWmQw4HNqdurbKQ==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
+    
             {
        "name": "EVENTOS 2",
         "icono": "https://canalshowsport.com.ar/wp-content/uploads/2020/10/sudamericana.jpg",
@@ -50,6 +42,12 @@
         "icono": "https://w7.pngwing.com/pngs/855/273/png-transparent-fox-sports-networks-sportsouth-television-fox-action-movies-logo-television-emblem-text.png",
         "uri": "7T5/Mp/vYpGA50FiogHBhLpd/PHg5KxEDtsgd3O1b5Jju4OxMIKAwn75MOmGecafiy1wNcjjgzl7va6Lyxfqeg=="
  },
+      
+       {
+        "name": "FOX SPORTS",
+        "icono": "https://i.postimg.cc/X77MRPJZ/download-20.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTIb6xTmWTcEVAgRbZkBloDMpUBeKkTroT6jwhlVlr/5k="
+      },
        {
         "name": "FOX SPORTS 1",
         "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
@@ -58,11 +56,6 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTUMn+1YIU82HFRpmCObbR4gHIHvI8lr4O5jxePaDxVboCla2kKw+v+EVGEIQ6ZDL74YDsBRsmBQtAvQCv8XDzWsaaH0F+N/3YyXwmQ1XXlyGRLAeSqGWlA4dFXN1tPGrw==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-       {
-        "name": "FOX SPORTS",
-        "icono": "https://i.postimg.cc/X77MRPJZ/download-20.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTIb6xTmWTcEVAgRbZkBloDMpUBeKkTroT6jwhlVlr/5k="
       }
       
                 
