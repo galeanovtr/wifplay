@@ -150,7 +150,17 @@
         "name": "⭐️⭐️COMEDIA⭐️⭐️📺📽",
         "samples": [
 
-             {
+           {
+            "icono": "https://image.tmdb.org/t/p/original/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",
+            "name": "VIDAS DE MATRIMONIO",
+            "uri": "http://vedo.wvdbozpfc.com/vod/F056C0211FF2476DB79CE8C8CEE01543_media.mp4"
+   },   
+          {
+            "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
+            "name": "¡QUÉ HUEVOS, SOFÍA!",
+            "uri": "http://vedo.wvdbozpfc.com/vod/4D6A53AAAA424F6D9633DAC5A89BDA16_media.mp4"
+   },
+          {
             "icono": "https://image.tmdb.org/t/p/original/z7Gxe0z8fUlWA4hfQ8s99DRC4Fq.jpg",
             "name": "DÉJATE LLEVAR",
             "uri": "http://vedo.wvdbozpfc.com/vod/A0302FED21F346E7B1F7AB2C419E4702_media.mp4"
