@@ -4,6 +4,16 @@
         "samples": [
        
           {
+                  "icono": "https://image.tmdb.org/t/p/original/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
+                  "name": "HOMBRE LOBO",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/74364C0FAC0443D9B5BC058E87D10013_media.mp4"
+           },
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
+                  "name": "RESCATE IMPLACABLE",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/26A4DD2F5EF54F1980600CBA1A279F75_media.mp4"
+           },
+          {
                   "icono": "https://image.tmdb.org/t/p/original/y0hjsPyieqxcunEcAxb9mrrE09c.jpg",
                   "name": "MISION IMPOSIBLE: Protocolo fantasma",
                   "uri": "http://vedo.wvdbozpfc.com/vod/E3A4A37203AC4E259252872C1E49FA72_media.mp4"
