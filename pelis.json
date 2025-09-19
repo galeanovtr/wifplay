@@ -4,6 +4,16 @@
         "samples": [
        
           {
+                  "icono": "https://image.tmdb.org/t/p/original/im71UJzBqY03swuGYVR28j0JFM2.jpg",
+                  "name": "CAPITAN AMÉRICA: Un nuevo mundo",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/1444DE4E1A894705BDE65F5C73EB1EEF_media.mp4"
+           },
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/oXeiQAfRK90pxxhP5iKPXQqAIN1.jpg",
+                  "name": "CÓDIGO DE GUERRA",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/5DB7CE977BB84528A05460014F484BE5_media.mp4"
+           },
+          {
                   "icono": "https://image.tmdb.org/t/p/original/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
                   "name": "HOMBRE LOBO",
                   "uri": "http://vedo.wvdbozpfc.com/vod/74364C0FAC0443D9B5BC058E87D10013_media.mp4"
@@ -17,6 +27,11 @@
                   "icono": "https://image.tmdb.org/t/p/original/y0hjsPyieqxcunEcAxb9mrrE09c.jpg",
                   "name": "MISION IMPOSIBLE: Protocolo fantasma",
                   "uri": "http://vedo.wvdbozpfc.com/vod/E3A4A37203AC4E259252872C1E49FA72_media.mp4"
+           },
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg",
+                  "name": "MISION IMPOSIBLE: Sentencia final",
+                  "uri": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430178.mkv"
            },
             {
                   "icono": "https://image.tmdb.org/t/p/original/nJ9qnZLhmj6wD3NgOe6lKoXJQMx.jpg",
