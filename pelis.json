@@ -293,6 +293,16 @@
         "samples": [
 
     {
+            "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
+            "name": "CACERÍA SANGRIENTA",
+            "uri": "http://vedo.wvdbozpfc.com/vod/93458CD9E32040F88F01D79EA754D17D_media.mp4"
+   },
+  {
+            "icono": "https://image.tmdb.org/t/p/original/udAUZyViDFMGN72PYthH83LVBlO.jpg",
+            "name": "LA CALLE DEL TERROR: La reina del baile",
+            "uri": "http://vedo.wvdbozpfc.com/vod/52145E236C7E42D7A778C01E5B174BD6_media.mp4"
+   },
+    {
             "icono": "https://image.tmdb.org/t/p/original/fkohwexP83W1WSY0oomIYMGldfy.jpg",
             "name": "ESPIRITU EN EL BOSQUE",
             "uri": "http://vedo.wvdbozpfc.com/vod/D3A21E35413B44FA83DEDFE17DA59D12_media.mp4"
