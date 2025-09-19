@@ -343,11 +343,15 @@
             "uri": "http://vedo.wvdbozpfc.com/vod/55FBC0094C494E57B40779E15824D887_media.mp4"
    }
 
-          
- ]
+]
    },
    {
-        "name": "SERIES🎬🎬🎬",
+        "name": "SERIES",
+        "samples": [
+           ]
+           },
+           {
+             "name": "TEMPORADA 1",
         "samples": [
        
           {
