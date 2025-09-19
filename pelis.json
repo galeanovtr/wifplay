@@ -351,7 +351,7 @@
            ]
            },
            {
-             "name": "TEMPORADA 1",
+             "name": "Temporada 1",
         "samples": [
        
           {
@@ -432,7 +432,39 @@
                   "icono": "https://m.media-amazon.com/images/M/MV5BNDM2ZTA0NjQtMjk4Ni00ODkyLTk3ZjMtYzFjZThjYzQzNWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
                         "name": "MERLINA:Una bandada de tristeza 1.8",
                         "uri": "http://goovdme.967sd1f.homes/vod/C74F95C391854CD3A1FDDCC81D813473_media.ts"
+           },
+            {
+                  "icono": "https://image.tmdb.org/t/p/original/otaTPqhF2n3klolXubACExsnR9r.jpg",
+                        "name": "ASESINO A SUELDO: EPISODIO 1.1",
+                        "uri": "http://goovdme.967sd1f.homes/vod/66ECB833865F4582ADE10DA63D94C36B_media.ts"
+           },
+                      {
+                  "icono": "https://image.tmdb.org/t/p/original/otaTPqhF2n3klolXubACExsnR9r.jpg",
+                        "name": "ASESINO A SUELDO: EPISODIO 1.2",
+                        "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/68FA5E9DAB054B3F894F146958BE3B38_media.ts"
+           },
+                      {
+                  "icono": "https://image.tmdb.org/t/p/original/otaTPqhF2n3klolXubACExsnR9r.jpg",
+                        "name": "ASESINO A SUELDO: EPISODIO 1.3",
+                        "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/753079AD8DA54F1398621F1F390F9EEB_media.ts"
+           },
+                      {
+                  "icono": "https://image.tmdb.org/t/p/original/otaTPqhF2n3klolXubACExsnR9r.jpg",
+                        "name": "ASESINO A SUELDO: EPISODIO 1.4",
+                        "uri": "http://goovdme.967sd1f.homes/vod/670EFB176D184316BC1873D29CC82975_media.ts"
+           },
+                      {
+                  "icono": "https://image.tmdb.org/t/p/original/otaTPqhF2n3klolXubACExsnR9r.jpg",
+                        "name": "ASESINO A SUELDO: EPISODIO 1.5",
+                        "uri": "http://goovdme.967sd1f.homes/vod/44DDF6A5A12E42479F75D095225AC7C1_media.ts"
+           },
+                      {
+                  "icono": "https://image.tmdb.org/t/p/original/otaTPqhF2n3klolXubACExsnR9r.jpg",
+                        "name": "ASESINO A SUELDO: EPISODIO 1.6",
+                        "uri": "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A2F24D0590D3423DAF109C683F4CCD14_media.ts"
            }
+
+          
            
    ]
    },
