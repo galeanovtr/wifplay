@@ -4,6 +4,11 @@
         "samples": [
        
           {
+                  "icono": "https://image.tmdb.org/t/p/original/3ecBMVWe2xRhHKcTcRkuqLk85jq.jpg",
+                  "name": "GLADIATORS",
+                  "uri": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168124.mkv"
+           },
+                    {
                   "icono": "https://image.tmdb.org/t/p/original/im71UJzBqY03swuGYVR28j0JFM2.jpg",
                   "name": "CAPITAN AMÉRICA: Un nuevo mundo",
                   "uri": "http://vedo.wvdbozpfc.com/vod/1444DE4E1A894705BDE65F5C73EB1EEF_media.mp4"
