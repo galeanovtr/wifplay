@@ -431,6 +431,22 @@
            }
            
 
+           ]
+   },
+   {
+        "name": "PRUEBA",
+        "samples": [
+           ]
+           },
+           {
+             "name": "TEMPORADA 1",
+        "samples": [
+       
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
+                        "name": "LAZOS DE SANGRE DESTINO FINAL 6",
+                        "uri": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430548.mp4"
+           }
 
    ]
    },
