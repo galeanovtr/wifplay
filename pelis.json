@@ -351,7 +351,7 @@
            ]
            },
            {
-             "name": "Temporada 1",
+             "name": "🎬🎞️🎬🎞️🎬🎞️Temporada 1",
         "samples": [
        
           {
@@ -501,6 +501,36 @@
                   "icono": "https://image.tmdb.org/t/p/original/t7NakS7qZekeXSocv6jcyd5on7A.jpg",
                         "name": "EL PACIFICADOR:Esto se avaca 1.8",
                         "uri": "http://goovdme.967sd1f.homes/vod/10B4E93569C2431194AEF0FD6275507E_media.ts"
+           },
+                    {
+                  "icono": "https://image.tmdb.org/t/p/original/kFx0FD0Cgns9OThcSkAmWYcnYzu.jpg",
+                        "name": "KARMA: El hombre con deudas 1.1",
+                        "uri": "http://goovdme.967sd1f.homes/vod/10B4E93569C2431194AEF0FD6275507E_media.ts"
+           },
+                  {
+                  "icono": "https://image.tmdb.org/t/p/original/kFx0FD0Cgns9OThcSkAmWYcnYzu.jpg",
+                        "name": "KARMA: El hombre que se deshizo de un cadáver 1.2",
+                        "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/E79C36028E804688A19AB3C4C695475E_media.mp4"
+           },
+                   {
+                  "icono": "https://image.tmdb.org/t/p/original/kFx0FD0Cgns9OThcSkAmWYcnYzu.jpg",
+                        "name": "KARMA:Los perversos 1.3",
+                        "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/C30C01E5391C42DFBB38CBEAD83A5E7A_media.mp4"
+           },
+                  {
+                  "icono": "https://image.tmdb.org/t/p/original/kFx0FD0Cgns9OThcSkAmWYcnYzu.jpg",
+                        "name": "KARMA:La mujer atrapada en su pasado 1.4",
+                        "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/C622C9EBC9814B91866E303BDC708E3A_media.mp4"
+           },
+                  {
+                  "icono": "https://image.tmdb.org/t/p/original/kFx0FD0Cgns9OThcSkAmWYcnYzu.jpg",
+                        "name": "KARMA:Un tiempo atrás 1.5",
+                        "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/A73A1F7E95CF4C4D99AF364462E13A9A_media.mp4"
+           },
+                  {
+                  "icono": "https://image.tmdb.org/t/p/original/kFx0FD0Cgns9OThcSkAmWYcnYzu.jpg",
+                        "name": "KARMA 1.6",
+                        "uri": "http://vddgcoud02.gd34fdldh.xyz/vod/FDB7585B489547078EB7A8D5F2769489_media.mp4"
            }
 
 
