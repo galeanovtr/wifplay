@@ -113,6 +113,11 @@
        
        
           {
+                  "icono": "https://image.tmdb.org/t/p/original/o410zKXtZYy2vVBcQJPxzOc9KYc.jpg",
+                  "name": "LA HUELLA DEL MAL",
+                  "uri": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171071.ts"
+           },
+           {
                   "icono": "https://image.tmdb.org/t/p/original/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
                   "name": "JURADO Nº 2",
                   "uri": "http://vedo.wvdbozpfc.com/vod/608293B955984B8EBE4C35CECDF22BD3_media.mp4"
