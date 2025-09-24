@@ -4,6 +4,21 @@
         "samples": [
        
           {
+                  "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
+                  "name": "FREAKY TALES",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/4F1D39C907DC4844B5CF08DD9B88C8BB_media.mp4"
+           },
+                     {
+                  "icono": "https://image.tmdb.org/t/p/original/26D1gPCZkDB94NHcIzK7vXJeXca.jpg",
+                  "name": "VENGADOR IMPLACABLE",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/1AE4EDA2BEF4421FA9CE1D870D599962_media.mp4"
+           },
+           {
+                  "icono": "https://image.tmdb.org/t/p/original/4o4fh62VZewnBotiVT33d0dvPsX.jpg",
+                  "name": "EL EJECUTOR",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/894ABAEB93354B62902ED4011C94AB92_media.mp4"
+           },
+           {
                   "icono": "https://image.tmdb.org/t/p/original/81PSS5l5Yr3gfdYKts9I3z2aPkG.jpg",
                   "name": "EL JUEGO DEL ASESINO",
                   "uri": "http://vedo.wvdbozpfc.com/vod/71E1A12DB2CE4C6C97A869DDDC8499AD_media.mp4"
