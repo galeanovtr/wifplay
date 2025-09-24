@@ -312,11 +312,22 @@
         "name": "👽💀TERROOOOR📺📽",
         "samples": [
 
+     {
+            "icono": "https://image.tmdb.org/t/p/original/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+            "name": "LA SUSTANCIA",
+            "uri": "http://vedo.wvdbozpfc.com/vod/90861034C05F4CF58B87A2590ED345EC_media.mp4"
+   },
     {
+            "icono": "https://image.tmdb.org/t/p/original/mpdSrcuGctWLdHsuil27x58VAWI.jpg",
+            "name": "EL HOMBRE DEL SACO",
+            "uri": "http://vedo.wvdbozpfc.com/vod/BF289E70C4704B59B8C2C80D773DFA85_media.mp4"
+   },
+          {
             "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
             "name": "CACERÍA SANGRIENTA",
             "uri": "http://vedo.wvdbozpfc.com/vod/93458CD9E32040F88F01D79EA754D17D_media.mp4"
    },
+
   {
             "icono": "https://image.tmdb.org/t/p/original/udAUZyViDFMGN72PYthH83LVBlO.jpg",
             "name": "LA CALLE DEL TERROR: La reina del baile",
