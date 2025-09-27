@@ -2686,17 +2686,12 @@
     "samples": [
       {
         "name": "VTV",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ck8UT3b08eJRLdJV/opUhpT7YyCugsLnRC6n21WDTIHvPOkDVxwol5U74uBr2eTs2Y=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySNyX4ukIO6asbAuO4jLnPF2lBe1bhD2RhbBJ4Bo1C/3om+U9uc9OD1sweeVQGWvlvbFF3TIPShL77hWlkPK03+RkGTACAiJaqzTz+mqBVSftoAoLJWB7+ISg7ztIhgeog==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "VTV PLUS internacional",
-        "icono": "https://elcascotenews.com/wp-content/uploads/2020/10/IMG-20201023-WA0080.jpg",
-        "uri": "dEq0J7LPd9sf8J6UNydSxPoGM/Pui6l0YUonNsF/LJ/2hgsROPBSijwTr+Z3Yk1Y4+EjD9oDBjdV5jimJxhcZv7ZNDSNVmC+cULAErKnUyg="
       },
       {
         "name": "VTV PLUS",
@@ -2709,7 +2704,7 @@
       },
       {
         "name": "CANAL 10",
-        "icono": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CltXpm/QZGKOUCFKhTG+h1c/+DLYEXMZUNEW+xUzgYN8krWSckRAaZrFkvvHThWeuJwoUYyA6ye3Bx5U121I2Xr",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yb6eEBdpSCrQ9nPQY0CuIRiBGx6HxqVS6iY0IO7x4KWP3c7JPkscEDbN5lvae6sy+v5TFZDbNDGqvrqqcoTTv+hUclQnm76w6VcLvVIPIahSBnr9h/RRSLVhUNfjED7nzg==",
@@ -2718,7 +2713,7 @@
       },
       {
         "name": "TELEDOCE",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CltXpm/QZGKOUCFKhTG+h1chPJdMDn90fHEIJrridRXUmn+FzLvVfySqvO0COGAc1YuNLdRzqt4WRCDp9AE0RN5",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZVxe/C50UeRgxo6LDzrcQCkmrPUoqj8ZQ6/MQrJnzPplDDHwF0nJcsnMq/HFhudXgTe6TAGK6XiMByiWC1tS6EcyGYCuLtjL5VU5upqt+mDB8O/zguICmkMk64onDsSaQ==",
@@ -2736,7 +2731,7 @@
       },
       {
         "name": "CANAL 5",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_de_Canal_5_-_desde_2025.webp",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cks23+BoPswHxzPVzt2tRhPy16dY7uT7iEUK2gkYTHqT4+inSnpz6qBIdj/PLhz0cMhBvtOQBjw5IpSi88mVaxF",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTmYc0B97abo1kNpilFKM3jbJWi62sRNZXptTL4UFPfAu8axh/ObBtZ6Rh6IEd5ojqwah8yY6wH1I6bItEeNPAHFREuVgSb7P9xcDH12ogHNoI6nOKP04uPpvyLAUJ7C5w==",
@@ -2745,7 +2740,7 @@
       },
       {
         "name": "TV CIUDAD",
-        "icono": "https://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.pngitok=jUiNrl5Q",
+        "icono": "https://yt3.googleusercontent.com/XgPlhMep_CDq_2_WU_tw5eexvzwKG169P_E9qF0rjz4ACkZKJIwJu7W68OUeC47Fbx9pIPWk=s900-c-k-c0x00ffffff-no-rj",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkbaWdgJs7Es/NyA7lQ8wr84drupFJQ9xeIscu/Rfgs1FwiPd7WcCxryiMKvn2wUbnTABhbJG4WNQWyI4GX362I",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYHfc3QlNV8fIdD1b83SU/AD1klt/JIPRDfsmh6oI66onuyEOnlItxTH0drBVYvSRpTnaXtEmS23r4mSpxGW9upoIZ6wn3J4TUyeVcnOq/xXpGKyXQX4a5otvoJykSn8cA==",
