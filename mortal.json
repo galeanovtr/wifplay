@@ -1796,11 +1796,6 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "TV Azteca",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuqCHTcShu54PLMVH-7GzGwWT0IMRu9baDyg&s",
-        "uri": "vNz3864caJo8nYD4XB5kAVD2+fbAohf8PPrlZqApuPj9XrViv9DEoNOh/aOwQIr4"
-      },
-      {
         "name": "ANTENA 3",
         "icono": "https://static.epg.best/es/Antena3.es.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnlIdyJJRxwRgr76aWG4n4rfEQc4pOT2cbwvQJVT0AydDoIIhcmlmJnhCjuYQYt2nOUmtA8J7xXJB3HCndAUNvd",
@@ -1814,21 +1809,7 @@
         "icono": "https://www.infobae.com/new-resizer/_oR7hsVt9U6Qe8eVIHFocJ_iznQ=/992x992/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LPNB3QLSPVE7JGHYNDXJBD4GAE.jpg",
         "uri": "S87iBzqutt8hYFItZ+vWRn+EpWz/3tMcc4LABR+SAM5AjzuQnri47mv1M0/eHNBZrCyXnxEuTk54YLXrLnrcgCP8ykvl9qA836DuwFLeun9kXvvufiIjqYUzZEV/42n6"
       },
-      {
-        "name": "telemadrid",
-        "icono": "https://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png",
-        "uri": "buejd7pNFlYSoDx9XSwalPguIhnut9AQ7EuphL3+DfnjokCgRp+DpR10jDl6bEwbSsL5otTnW4CuC1UjLXUb2Q=="
-      },
-      {
-        "name": "EURONEW",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20210623155431&path-prefix=es",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmpbgigiXe9sgd9tizJOPx0czqlzL2XEmlIJ026ohQj8Zze849c8j4a/LHQnRLSa8OUmtA8J7xXJB3HCndAUNvd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7EwTUi0cfl2blzxEklz2/0qAellKMAz59LCgy3ltXkymeJSuflCRxHFGWWlDEt+Q6kcMV7dc51XKquKCy/zZdVxMGr61A9cJIHPqFf7wQ2VnnJinx+zDg6jFf/KsKvelQ==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
+   {
         "name": "DNEWS",
         "icono": "https://images.produ.com/noticias/1022/big-LogoDNewsONDirectv.jpg",
         "uri": "S87iBzqutt8hYFItZ+vWRn+EpWz/3tMcc4LABR+SAM5AjzuQnri47mv1M0/eHNBZrCyXnxEuTk54YLXrLnrcgKvevdlu3j4HCCjsKl74IsI="
@@ -1843,16 +1824,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "TV PUBLICA opc 2",
-        "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9wREozQPILk0iulZ2j0BPXRmit7ooK9gCiziKHxXTgrYMUP5ELE32te4vuLvb4HHU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTWWGQLebRWEQeFrGE3Vk4/SzrcRFZL1PgnibbDLNkmVoDGmQBSra2xpPDGUMP6CDzaN1qj7sAn3GW43OKsJPRqUrpDPfO4IZWzncO6W+uYFAAufLwpHSglgSXOQqUG92g==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-       {
+     {
         "name": "A24",
         "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Clt2rispU223Sfhu/4LW2j0b8K+Bd1baIj52KgOpiy6W47Fwjs8NheAdpjN+IsgTBDGYg9tFyLAvC8EuZUPfHWf",
@@ -1877,26 +1849,12 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "CANAL 26 OPC 2",
-        "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg",
-        "uri": "jb9IVxSwSXcTodMgk9X+Yg3XgrMoF8C1p5XjcGR1pXA50ujxKe1YOE4hh0IY+EORMxCXeJ0r9bD35Kxg7Ru3wQ=="
-      },
-      {
+     {
         "name": "C5N",
         "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm3QqQ5yPP84tr2GEun8O7bpEmj3liMjEs8WI5ZhM7jphAS6p8vHl85m6NTaOSH4sg=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ye+xUTuoFr19zyytqgC7LEmJB0S2i+gzU1xykS3hGLhL2f1M4eE57yt56VZrHe4/9ykA20Pv7qcBVPcqR9mNOYcCJVEB49NRlWgeTR3b8Bro522pakJFZoDy1b44wbk/jA==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "C5N OPC 2",
-        "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS/GHIRatJm71jLqMKDyp7ArIP87CYq8UoARsCLz121k9A==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYhcaHl6K6MXybFeLQPfC+lzBlmjG/ngFNDuuNDaXKXNh2b5Tx5FpjDy6BjPizUwid13JrnK5xXbTqNDkk6Up5pXftE7lWLh9vauunXxPnQWPm890XeXULh06LwnPhsPwA==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
@@ -1910,13 +1868,6 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "TN NOTICIAS OPC 2",
-        "icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9O+JMPq8yi8XwV/2shjwNG3P8gER6ckakPxq/0K5n19w==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yW+YOsUUN8WjEmuUys4Duf7Z9Ea/agGbEQYnpIVX9kNIO+5srERSJsdv+5BtyUlGV68qbd2tUfh3JHLTkxgaO3Lnj+Foon3lHv8ivCbgsuPbdwuOhSp93JbElg3F5xITIw=="
-      },
-      {
         "name": "LN+ - LA NACION",
         "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm2yN/4MjPbAs8qgReqlthxJzr4SZB3fwTqnN+wzC/uC8zNGd58BzU2QfrJEQSUn3nGYg9tFyLAvC8EuZUPfHWf",
@@ -1924,18 +1875,6 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVi9sk9fSQhX8KPiCrtKYeLcyZ/bf0mLaRIP9X0ns7XpNQhbv74zVRMfxt2g3+totiBA7ITSsqN1nypd6EVw/pkn4Q1119uFun+K419vWfKn6gD5AQ84v/G/m/c8lCKmoQ==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "LN+ - LA NACION OPC 2",
-        "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS+cxLdLIsY744l5G/pNJmkT71M2Iv0aG0rQdkc5Hh6FCcZiD20XIsC8LwS5lQ98dZ8=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybmnEMEDNjpvdiFUt3gm3aHYbEJsoQXn3GDq0jo5IXWsjwkSTJ/sc8i2cLm8qOsZCp0w4TQPXgDkKa6rL0dsc5S4USa6M2+B18hu964YnIh3o2oFrlp1VDUI8CizfnEzqA=="
-      },
-       {
-        "name": "Chilevision Contigo",
-        "icono": "https://www.chilevision.cl/chilevision/site/artic/20240424/imag/foto_0000000220240424143502_imagen_2023-01-06_161610132.png",
-        "uri": "gUcYHE3bE3vr92Yzy9g5UyT+UgReVNNXOpswo32/bPE6ef7iPfB+NpOAnmV9GYir4QR45mtODrytaKiVquBrqaDwqmbaPPlj2WGbVwXif0k8XA6ec8H2MIyaCoi4i0LQK61EaTohm9HNzs18wAEQ98YaRa0rBbr3DNCx4JeM6bRvB+9sg0SaadCLpGnsALeb7A8qlutFPBXzaDDH0NgrZT4O5M1lpeQin2UJNPtT62jBwj1uAyoZqZAm0u6hFGSkvh9dQeVeaz7Y2GdilvaeQks4ZMkZenRAkjs+u64s7rwHYo8N5PRknmP6DwG+gYHt3j/SZZhcCXzPXL1yPb0iJNL1sVlpEM7IzyDrzM/ObV5E28TWlROytZChmZ1XY0CmsBzcOHr0cuzS41oPhDe4rvSGZQSfkK0/xQ9S5fDrFFu965LdeAUv8YFybDSxcf602/6btvEU6LEYQYGtFBP3GfMf2nVkuaEAI94XxVkgnCLtcs4GSXRz64O+fDP3YgDUiLy3ov2PEQgTUFyfRTsAIMWV4ObsxEyTlhymqS+klDzMYL8vxpBQcxE8k6zR2ZJTmx7kObRGxq0ITXMpSuvrNw=="
       },
       {
         "name": "TV CHILE",
@@ -1956,14 +1895,6 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "CRONICA TV OPC 2",
-        "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgQc0jBj3RkvCztEVIsVxQzA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySDOiTqwCoc5cj683PyeRKhWJdGjf33Kc7ABDRxPEH8IvwbrF3g5i8NynI80NCNLa+tonwiV3kczbpBcf0kNwuHqIKgcSahLslOMAHJOLT0R1K55velL/Lr0nwmDpITJ/A=="
-      },
-         
-      {
         "name": "BRAVO TV",
         "icono": "https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl7jpmzrZX3yFybxr6wMs9fGdNJgaXe2CfS90sQ115nHH0ulxNNaCjN5P6GCKTC2MozEJd4nSv1sPfkrGDtG7fB",
@@ -1980,13 +1911,6 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yeEtk/Oxo9v9Qjq0Txh8FgbQAZFW57eZrMJi/+jJOrIBMbJehd/av87x+REyj6/xkqyfagyU1aEDLDV25sd7zVwK9/SpL3dpoSSxlXbzlPsFrqG9IMwAGCNJr7c9S3yQhw==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "CANAL IP OPC 2",
-        "icono": "https://i.ibb.co/GQ6LCnV/share.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS/liZjnv1R0N4QMEVckRZ2m9zdnP2VGEFFID/VnCJvEfg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfXzZswH/ztQAYOA8heXwP9xyBOt7TAqkGLWalPaIb8TY7YlSufJamsb3D4GrkZIOlVynk3IUp3FGItv/jyOwhLlHrqqr1ex+1s60ym8cLFxB5ZjmRXr19RY7F62VgM4oA=="
       }
        
     
