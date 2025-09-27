@@ -2659,38 +2659,13 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-       
       {
-        "name": "Santa María TV OPC 2",
-        "icono": "https://pbs.twimg.com/profile_images/445976084186554368/Ch4aqZPR_400x400.jpeg",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9AQIKgfdLeCoR8Qr+lMK51ftHgA2i3rb8G6N10FWYoyh0gvRsAKFchi3j6GvAmvE8="
-      },
-      {
-        "name": "EWTN",
-        "icono": "https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkL4YxBxOS9ZBU8wZ8hya4qYE0SbSf/b2E6dtWkKz0rXaGhB5j04zwEHLdPxqpW8qo=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRBUa17UudPz4pxxWTIYskYsZ13iWHq3NBuRbJca0ujt4JPTb8b0aJKXzTvSSZJ9Ja8/ZQUMf7RPSFbX/Mdbjpxi/ycVcYFwenJCangPwGWrRut70WtdZ1j77lygvmitqQ==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "Nuevo Tiempo Argentina",
-        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcStuy-k9lWdOAzYD-lwRiba82ahFBzh5W4Mkg&s",
+        "name": "NUEVO TIEMPO",
+        "icono": "https://s3.amazonaws.com/cdn.radionewproject.com/5a514992cb442cf11d09288bbbf7dcc4.jpg",
         "uri": "IEvt8Uy1E/t7L2aMUiEMwYJVdGoOr7g5nSFR3yt0gEu6v3nr8Mm+xJzTW91TXWQfa5A6MZ2RbkxtaIQQAzlZm5M0s/1E0tL63V8anwoAnrf//U/q6ROL8BtVx3o7gVa0"
       },
       {
-        "name": "MovieFE",
-        "icono": "https://cdn.m3u.cl/logo/928_MovieFE.png",
-        "uri": "/vNlBjqqO3bKC7dAI58TfqPr87+McV7HfwitNEVWpA7hdypyRzgwUFFfreAZSNb2+PwkYaVjhkE0orvY0KX+7Q=="
-      },
-      {
-        "name": "LOGO TV",
-        "icono": "https://static.vecteezy.com/system/resources/previews/008/349/469/non_2x/tv-logo-design-flat-icon-vector.jpg",
-        "uri": "W0rG92kJWcrK73nflsi3JjQRFKUKQcekcNetQHTaM3wxV9zbNCKwcrHCIX/I8LAFyWM58NPKWqfyuuNzAjCU9f7ZNDSNVmC+cULAErKnUyg="
-      },
-      {
-        "name": " CanalLuz ",
+        "name": " CANAL LUZ ",
         "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm+4h3DDkV25EuYCC8ryXlyX56Cbd75Y25oGPQwjyl24cZAXsUkOtguCry8uDj3/ALGYg9tFyLAvC8EuZUPfHWf",
         "drm_scheme": "clearkey",
@@ -2699,26 +2674,9 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": " Canal Luz OPC 2",
-        "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg",
-        "uri": "BsPv5e8RzEu9uIf9uh4cEw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "DX5G1U6VK7KpcGvXrJDpWR1gTUY2cT5qJInuNGBLumYGMz99PGiVQGvvIT5CLD67FM+Qq7kZWn8LG5AceoLAYt0bYWJ7OvEP8ml/62Cg/DDBfjaLoSJeZTl4+0xwu4ilIuchd772zjOu5BmYnGQVc7M4SXiiiK+rJ2nJrWinWptRmMI3fVgwC8Jekz3vBG4RuzV3dgo9lhW6Ve7hLJAPpA=="
-      },
-      {
-        "name": "Eperanza tv",
-        "icono": "https://images.squarespace-cdn.com/content/v1/556da91de4b010ed6e0bddff/1442361594280-58B1XRFMF2CIL5843DQY/image-asset.png",
-        "uri": "KM4sPhGXJqtowvFgxG6TjCKhFmWdHmqBCV/RboyBFUD5rjJifR6gZfuEcPt7qyEtoAgqMChqVY0csptYjpUgpvJUxaMHLzFC10KXnOSKAg8="
-      },
-      {
-        "name": "Faro de Santidad",
+        "name": "FARO DE SANIDAD",
         "icono": "https://static-media.streema.com/media/cache/92/a6/92a62f1ddf5d1f1f7f34b299faa15bc0.jpg",
         "uri": "FDl6LLuB10WtO+dslW5YOUZdJmv98DoDJ5D0q+sBoS6qeFiunrfMcFTUAGO0rkLzFucozqE4QEGLHYRQWv7fAS4AEEHH1Q29ONXKlQ3JuqDFgVhyiZkNhkwBNg71ffkRTl8f5Wu0dARmkjpf37T3Ng=="
-      },
-      {
-        "name": "Misión Vida TV",
-        "icono": "https://pbs.twimg.com/profile_images/634219937016467456/BEUuY5T2_400x400.png",
-        "uri": "HL2wQwJj3G8j+72ic9vZTYGNBtLpuHb+3jRqwESMxI0NMKWGNSVmHBE2jEaCIuHU"
       }
   
     ]
