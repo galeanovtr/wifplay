@@ -23,6 +23,15 @@
   {
     "name": "🏆🌐:COPA DEL MUNDO SUB 20",
     "samples": [
+    {
+       "name": "TYC SPORTS OPC 2",
+       "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
+       "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRFCEupUOzf+CQd6CCVScfdRfqlRzcyiPdBr575uqpjL5oaYVMdsmwyA/f4XZwAollI=",
+       "drm_scheme": "clearkey",
+       "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfeQWkEt5rkYq2GbSqU278GGl2Wm3PTb6eZp722MHLT1nl0nZlttix7NlFq4UNk7cJ7T4cAEI0wDB13kP40gP5oq/IWVFimGWgjvVPLQahlaQ2KHZebC67UYBJyO9udUhQ==",
+       "referer": "https://player.sensa.com.ar/",
+       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
 
     {
         "name": "DIRECTV SPORTS",
@@ -46,15 +55,6 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd+25ueir98WToVqPJdQPyvi/v7/XwyUlhGHvM5wWL01Si+euaUb0kFoqF2IxxIi/PZJLBITygdx1xgzeSW6fVv0N3kt4wAE/QsT54pysAOphAw41DGRMTNR6NlIcalEdQ==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-    {
-       "name": "TYC SPORTS OPC 2",
-       "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
-       "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRFCEupUOzf+CQd6CCVScfdRfqlRzcyiPdBr575uqpjL5oaYVMdsmwyA/f4XZwAollI=",
-       "drm_scheme": "clearkey",
-       "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfeQWkEt5rkYq2GbSqU278GGl2Wm3PTb6eZp722MHLT1nl0nZlttix7NlFq4UNk7cJ7T4cAEI0wDB13kP40gP5oq/IWVFimGWgjvVPLQahlaQ2KHZebC67UYBJyO9udUhQ==",
-       "referer": "https://player.sensa.com.ar/",
-       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
         {
         "name": "GEN TV 2",
