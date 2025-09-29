@@ -1817,6 +1817,11 @@
   {
     "name": "NOTICIAS",
     "samples": [
+         {
+        "name": "CGTN ESPAÑA",
+        "icono": "https://news.cgtn.com/news/2022-03-03/Live-CGTN-on-Live-186JX8LMSLm/img/be311c3e25724c389c12fcc465d7817a/be311c3e25724c389c12fcc465d7817a.jpeg",
+        "uri": "epTUfdr5s7VmeyT7EW5CXc+cl3WbR7Buw3wnIbWSgAuV3ubmGqUhKILHOHetGV8EawaksbjPyZKUBnlg6zqz5UKJlG8dD3oHZQkcHoKH11h08KwdbNlJgjHM38i86CCMJP4hRMEsHzJ655TNWSzO4jMQl3idK/Ww9+SsYO0bt8E="
+      },
       {
         "name": "ETB Basque",
         "icono": "https://i.ytimg.com/vi/cvRTMFIjG5A/maxresdefault.jpg",
