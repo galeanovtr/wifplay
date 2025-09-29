@@ -3010,6 +3010,11 @@
     "name": "MUSICA & RADIOS",
     "samples": [
       {
+        "name": "SUCESO TV",
+        "icono": "https://radiosuceso.com/wp-content/themes/digitalfm/assets/images/logo-digital-fm.png",
+        "uri": "fgUXksvg06s/dw05K1NyjhEjjJ4/0t+44XKzM8JItda+vkkVjJEU0NEf9+vmQiIZ"
+      },
+            {
         "name": "Un Poco de Ruido",
         "icono": "https://fbi.cults3d.com/uploaders/26619154/illustration-file/65b99d89-950b-4fd0-887d-cf5511055ab3/un-poco-de-ruido.png",
         "uri": "caGy+5MJvevBQ6UcSeKlAbKHNQobGlBBOgA7kl8z2FDxL1ii80GLyXW1Wc/qsi/mZ6Hy5Lr9mlWSDIJqjA8iwE5fH+VrtHQEZpI6X9+09zY="
