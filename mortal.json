@@ -98,7 +98,22 @@
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzT/+BMXCJiNJ6AsrYme8E5nf7ZNDSNVmC+cULAErKnUyg="
       },
-     {
+           {
+        "name": "C9N",
+        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
+        "uri": "jvAmKQ8XVyQEhW72FHH0vODinwIuD/6ObaYCiwy5L7oatxtPclZiNSciOfQGSELEtnEkK3/KqnGpQKONG5zizN3dDB01s9C5AN8D0jMag0NswQo4Bvm6To2ezm0SwF2H"
+      },
+        {
+        "name": "C9N 2",
+        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTyMT0AFTysdXG48Sp74KHF8pUBeKkTroT6jwhlVlr/5k="
+      }, 
+       {
+        "name": "GEN TV 2",
+        "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTE3k4EXShaPsb9NrX53A27cpUBeKkTroT6jwhlVlr/5k="
+      },
+      {
         "name": "GEN TV",
         "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn40h+Rui5cp4l9SrDQ7+dQ0DtN18q7WnJCBHuxMvhjEVGMn7R7gYQW69+Kjwrtrpg=",
@@ -106,11 +121,6 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd+25ueir98WToVqPJdQPyvi/v7/XwyUlhGHvM5wWL01Si+euaUb0kFoqF2IxxIi/PZJLBITygdx1xgzeSW6fVv0N3kt4wAE/QsT54pysAOphAw41DGRMTNR6NlIcalEdQ==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-       {
-        "name": "GEN TV 2",
-        "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTE3k4EXShaPsb9NrX53A27cpUBeKkTroT6jwhlVlr/5k="
       },
       {
         "name": "RPC",
@@ -131,8 +141,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-          
-      {
+     {
         "name": "MEGA",
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg",
         "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPSnQ/SD+z6TGvup2yt+CbVIBmj0sk52dgDOgdItJ2a43jyX/RfUa/r4SXSmZqE2V7w=",
@@ -150,8 +159,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-   
-      
+         
       {
         "name": "canalpropy",
         "icono": "https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg",
@@ -189,16 +197,6 @@
         "icono": "https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTHgpdEQsFgQPcWyUnJjRz5spUBeKkTroT6jwhlVlr/5k="
       },
-     {
-        "name": "C9N",
-        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
-        "uri": "jvAmKQ8XVyQEhW72FHH0vODinwIuD/6ObaYCiwy5L7oatxtPclZiNSciOfQGSELEtnEkK3/KqnGpQKONG5zizN3dDB01s9C5AN8D0jMag0NswQo4Bvm6To2ezm0SwF2H"
-      },
-        {
-        "name": "C9N 2",
-        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTyMT0AFTysdXG48Sp74KHF8pUBeKkTroT6jwhlVlr/5k="
-      }, 
       {
         "name": "ABC",
         "icono": "https://i.ibb.co/dGqjksf/descarga.png",
