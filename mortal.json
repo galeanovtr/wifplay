@@ -80,34 +80,32 @@
       {
         "name": "TELEFUTURO",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
-        "uri": "hZ5LSEPjjRwgad3H1OP8PhILreSrwMa4C4QWHP9UPVypKDi3aRFSrItD/QmV4b47w46mB2ysdrlgM7ekrkt2osUznEzsS56pTsTVRTw9Z3GdxIhHPUg7MMRlk7WCF/3X"
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cmo5DmL8jL1RpnT3+1QbwRT+Ylo9Kk/p8AZL2OmMWftC92CJHCQ0ZQJPGIT+F5hT9Gkg4267jESCkyNdeh3t16E",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yeXp8BsLS0Q5w8nk6z/Fa1/kdJ8706aTr2IRl1qV3wVokO63CqlzThIwXEtGVQhLVaR/yDJsUjX2vUpEVLWmCTjWgefjDQnLZcbCSlqC80CcrqG9IMwAGCNJr7c9S3yQhw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-           {
+      {
         "name": "TELEFUTURO 2",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTxIgYAElJDat4OIianjtVoU5fH+VrtHQEZpI6X9+09zY="
       },
-      {
+        {
         "name": "SNT",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
-        "uri": "bSUvKBmeD6GwCY/brRU+Fek249H9n/ANnivNLlyE9X3btQF/56DDeyY1lHGK8Ce4Hp+uYQ2le1FtSUB0CAatNQ=="
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClUosSE1ogpr+XASGHrFRGuLzB+p56gvxbE0W76oa2Oh6uzEC6cUhbBKJLVF4nEQe4=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yQn2GEIerHM4mvyw/kWMAZaE/pQ80gQy5XVRktY5qjpKgreVTGGHhQOMa9r6eu/sFuDG2Mk7kAJhNdoEWCcMhlxzafFM50fYT1AAH69fSr31oiPhvVvYMxBeQLK3bjPnlA==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-           
        {
         "name": "SNT 2",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzT/+BMXCJiNJ6AsrYme8E5nf7ZNDSNVmC+cULAErKnUyg="
       },
-           {
-        "name": "C9N",
-        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
-        "uri": "jvAmKQ8XVyQEhW72FHH0vODinwIuD/6ObaYCiwy5L7oatxtPclZiNSciOfQGSELEtnEkK3/KqnGpQKONG5zizN3dDB01s9C5AN8D0jMag0NswQo4Bvm6To2ezm0SwF2H"
-      },
-        {
-        "name": "C9N 2",
-        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTyMT0AFTysdXG48Sp74KHF8pUBeKkTroT6jwhlVlr/5k="
-      }, 
+   
        {
         "name": "GEN TV 2",
         "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
@@ -119,6 +117,20 @@
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn40h+Rui5cp4l9SrDQ7+dQ0DtN18q7WnJCBHuxMvhjEVGMn7R7gYQW69+Kjwrtrpg=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXDDqQVbERRMfnta/zu4iAHqqfvTDjCjRg6jhbtJAgtGcoVCY+iU9mkLgEg4d+JCb+auH0FHQUsXhwqWhCNn6SP1o6d/eNPb+7e+Zi/+1FFeGRLAeSqGWlA4dFXN1tPGrw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "C9N 2",
+        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTyMT0AFTysdXG48Sp74KHF8pUBeKkTroT6jwhlVlr/5k="
+      },
+      {
+        "name": "C9N",
+        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm1I4Auq1SxJEELb0f0F5ZrLzB+p56gvxbE0W76oa2Oh2+6r0uLUtfviZV64n1o1pU=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWBu+psXRPWP8y0zYYPwaAyIjlBryjA/PJaIlS2in7IzLxaoxkCj6NN9K28LZz5tXYyotpb9aVCCJ5QtB7nKPuH5R9Ghax/ze57pvlh50V7pVK8ApSJZJ3PExbDziwpHvA==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
@@ -235,15 +247,6 @@
         "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPSpbIup47eOZfnOYzrtHHXRLzB+p56gvxbE0W76oa2Oh9lk/HwwXo7uwtVYvmGhFF5A3u1w5tZubqSNNOsOPI1D",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQXgSurICcjsCGmEvCVcQk4r+CgDdnkN9YNKUKA1B0u200koQHHlJWKuLUut6zk/TjBPHLKeIHSPKy6Qo0REnqqhLdEGuYR2ZlCOA/JEC9sRTOSOmq5Gdejz750nBQhBQnpXaKUpSkJ6QeZJUaVZ7Ws38np1OEmQ9jfaRjmA8Obceipy4GSw7omXiYBulWK1+A==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "C9N",
-        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm1I4Auq1SxJEELb0f0F5ZrLzB+p56gvxbE0W76oa2Oh2+6r0uLUtfviZV64n1o1pU=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWBu+psXRPWP8y0zYYPwaAyIjlBryjA/PJaIlS2in7IzLxaoxkCj6NN9K28LZz5tXYyotpb9aVCCJ5QtB7nKPuH5R9Ghax/ze57pvlh50V7pVK8ApSJZJ3PExbDziwpHvA==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
