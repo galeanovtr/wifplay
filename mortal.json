@@ -75,7 +75,7 @@
     ]
   },
   {
-    "name": "PARAGUAY",
+    "name": "🇵🇾PARAGUAY",
     "samples": [
       {
         "name": "TELEFUTURO",
@@ -290,9 +290,13 @@
  ]
   },
   {
-    "name": "BRASIL",
+    "name": "🇧🇷BRASIL",
     "samples": [
-      
+     {
+        "name": "GLOBO TV",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTmWFWkzSbIdGHSFn5iDQmkE5fH+VrtHQEZpI6X9+09zY="
+      },
       {
         "name": "BANB",
         "icono": "https://i.postimg.cc/WzkPwCzX/download-43.jpg",
@@ -314,9 +318,9 @@
         "uri": "be8VW8QZdDmZ7aFY1AKv9PQ0uzqJjGydcbQW4yEfmTezbgVVDN5dbNGkuuoZTHgFWSehDysy56ZA31rnK/9Kcuf4KznBOj8fWL53RVlWMso="
       },
       {
-        "name": "GLOBO TV",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTmWFWkzSbIdGHSFn5iDQmkE5fH+VrtHQEZpI6X9+09zY="
+        "name": "RECORDTV",
+        "icono": "https://i.postimg.cc/GhCx32Wk/download-14.jpg",
+        "uri": "CiDW69lZ049xB6T4Ro1pqyS0rHpuTx2hASzeo8/SHoM67qcH/0CMk0jjeucZxJof"
       },
       {
         "name": "ABERTO TV SIM Colatina",
@@ -328,7 +332,7 @@
       ]
   },
   {
-    "name": "ARGENTINA",
+    "name": "🇦🇷ARGENTINA",
     "samples": [
         {
         "name": "TV PUBLICA",
