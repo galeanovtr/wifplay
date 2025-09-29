@@ -1886,8 +1886,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfF/RHuNvLBHlzzFIiojsgX2q2MYSYt0Rc3BdWUeB8f3Zm5axngQQKmU7jaDCpAK2O08p/aIY/uG0UzQAkKence+BjTa3DRMQZcqKJ1/Xse8OTg8Pi9KPbRjnCkDuiAvqQ=="
       },
-      {
+         {
         "name": "CANAL 26",
+        "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg",
+        "uri": "qpytf4gKvncpOnKepPUR3cpEPvrwXpSHuMIAFBuMueLr4D9/2n7Zi+zZ3xTDr8ODKAe0WTXYL+vfviUcWBxAycpUBeKkTroT6jwhlVlr/5k="
+      },
+      {
+        "name": "CANAL 26 -2",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl7iswTahd8zF+s8ofdMlSbdlcYhRQImxt6KHVfwYFa3c3rZKIL33YVlTezDbbMkUOUmtA8J7xXJB3HCndAUNvd",
         "drm_scheme": "clearkey",
