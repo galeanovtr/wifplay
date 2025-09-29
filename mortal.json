@@ -77,36 +77,28 @@
   {
     "name": "PARAGUAY",
     "samples": [
-           
+      {
+        "name": "TELEFUTURO",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+        "uri": "hZ5LSEPjjRwgad3H1OP8PhILreSrwMa4C4QWHP9UPVypKDi3aRFSrItD/QmV4b47w46mB2ysdrlgM7ekrkt2osUznEzsS56pTsTVRTw9Z3GdxIhHPUg7MMRlk7WCF/3X"
+      },
+           {
+        "name": "TELEFUTURO 2",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTxIgYAElJDat4OIianjtVoU5fH+VrtHQEZpI6X9+09zY="
+      },
       {
         "name": "SNT",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClUosSE1ogpr+XASGHrFRGuLzB+p56gvxbE0W76oa2Oh6uzEC6cUhbBKJLVF4nEQe4=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yQn2GEIerHM4mvyw/kWMAZaE/pQ80gQy5XVRktY5qjpKgreVTGGHhQOMa9r6eu/sFuDG2Mk7kAJhNdoEWCcMhlxzafFM50fYT1AAH69fSr31oiPhvVvYMxBeQLK3bjPnlA==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "uri": "bSUvKBmeD6GwCY/brRU+Fek249H9n/ANnivNLlyE9X3btQF/56DDeyY1lHGK8Ce4Hp+uYQ2le1FtSUB0CAatNQ=="
       },
+           
        {
         "name": "SNT 2",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzT/+BMXCJiNJ6AsrYme8E5nf7ZNDSNVmC+cULAErKnUyg="
       },
-      {
-        "name": "TELEFUTURO",
-        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cmo5DmL8jL1RpnT3+1QbwRT+Ylo9Kk/p8AZL2OmMWftC92CJHCQ0ZQJPGIT+F5hT9Gkg4267jESCkyNdeh3t16E",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yeXp8BsLS0Q5w8nk6z/Fa1/kdJ8706aTr2IRl1qV3wVokO63CqlzThIwXEtGVQhLVaR/yDJsUjX2vUpEVLWmCTjWgefjDQnLZcbCSlqC80CcrqG9IMwAGCNJr7c9S3yQhw==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
      {
-        "name": "TELEFUTURO 2",
-        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTxIgYAElJDat4OIianjtVoU5fH+VrtHQEZpI6X9+09zY="
-      },
-       {
         "name": "GEN TV",
         "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn40h+Rui5cp4l9SrDQ7+dQ0DtN18q7WnJCBHuxMvhjEVGMn7R7gYQW69+Kjwrtrpg=",
