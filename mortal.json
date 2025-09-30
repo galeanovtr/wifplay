@@ -23,7 +23,20 @@
   {
     "name": "🏆🌐:COPA DEL MUNDO SUB 20",
     "samples": [
-  
+     {
+        "name": "GEN TV",
+        "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn40h+Rui5cp4l9SrDQ7+dQ0DtN18q7WnJCBHuxMvhjEVGMn7R7gYQW69+Kjwrtrpg=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd+25ueir98WToVqPJdQPyvi/v7/XwyUlhGHvM5wWL01Si+euaUb0kFoqF2IxxIi/PZJLBITygdx1xgzeSW6fVv0N3kt4wAE/QsT54pysAOphAw41DGRMTNR6NlIcalEdQ==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "GEN TV 2",
+        "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTE3k4EXShaPsb9NrX53A27cpUBeKkTroT6jwhlVlr/5k="
+      },
       {
         "name": "TUND",
         "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
@@ -48,11 +61,6 @@
        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
      {
-        "name": "GEN TV 2",
-        "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTE3k4EXShaPsb9NrX53A27cpUBeKkTroT6jwhlVlr/5k="
-      },
-     {
         "name": "TYC SPORTS",
         "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmsCrL+eIsmKqvLL+kZB1ySJ3R+5U4kFNPVp8NoFUPFsDVMLp9yOSdXAXARhY+qCtKUmtA8J7xXJB3HCndAUNvd",
@@ -60,16 +68,8 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybxD3PYaMc9Z85b3RuDp5ozwjDlEoR1yDP1giq1HSWkSyMGFmrgP/ofLkIuAVH8GjU0jMuWAfiFkcYgZsNrUDzg8aKnwk3t/TdM2gD5Z51GPqxikNbRWCcY4u7HyVcj9Sw==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-       {
-        "name": "GEN TV",
-        "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn40h+Rui5cp4l9SrDQ7+dQ0DtN18q7WnJCBHuxMvhjEVGMn7R7gYQW69+Kjwrtrpg=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd+25ueir98WToVqPJdQPyvi/v7/XwyUlhGHvM5wWL01Si+euaUb0kFoqF2IxxIi/PZJLBITygdx1xgzeSW6fVv0N3kt4wAE/QsT54pysAOphAw41DGRMTNR6NlIcalEdQ==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
+
 
        
     ]
