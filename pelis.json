@@ -2,6 +2,22 @@
   {
         "name": "ACCIÓN 📺📽",
         "samples": [
+            
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/weCzRfUhHPJpQ0uEYAdeommg0gM.jpg",
+                  "name": "ESTRAGOS",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/BF65AFA5D1CC4E988FF2D1D4137146C7_media.mp4"
+           },
+                 {
+                  "icono": "https://image.tmdb.org/t/p/original/9e7ZPLbyVV1JvIVu7yNECXnTwXR.jpg",
+                  "name": "EL LADRÓN DE JOYAS",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/C1F392B7E53B45F78500467583411B4D_media.mp4"
+           },
+           {
+                  "icono": "https://image.tmdb.org/t/p/original/bSGXolaGLJZxueTXxEE2WsgEoNh.jpg",
+                  "name": "LA BALA PERDIDA 3",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/E7E7D4CC2F6F4622B42029BA0186755D_media.mp4"
+           },
        
           {
                   "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
@@ -189,7 +205,16 @@
    {
         "name": "⭐️⭐️COMEDIA⭐️⭐️📺📽",
         "samples": [
-
+          {
+            "icono": "https://image.tmdb.org/t/p/original/aBGsAVaeFhcKmLLvf6JGgjXKtz5.jpg",
+            "name": "LA MÁS FAN",
+            "uri": "http://vedo.wvdbozpfc.com/vod/5E36603C996647CB9D517C133B618505_media.mp4"
+   },
+          {
+            "icono": "https://image.tmdb.org/t/p/original/fzRxNqxyzarEcZv4k8Qd4JpbVU1.jpg",
+            "name": "EL NOVATO DEL AÑO",
+            "uri": "http://vedo.wvdbozpfc.com/vod/7E7BD9ED2C1B4C5891A64EB281C86BCD_media.mp4"
+   },
            {
             "icono": "https://m.media-amazon.com/images/M/MV5BNzhmMzk2ZDMtMGRkOS00MzY5LTk5MzUtOTM5N2Y3NTE1ZGY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
             "name": "LA CRUDA VERDAD",
