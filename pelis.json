@@ -18,6 +18,11 @@
                   "name": "LA BALA PERDIDA 3",
                   "uri": "http://vedo.wvdbozpfc.com/vod/E7E7D4CC2F6F4622B42029BA0186755D_media.mp4"
            },
+           {
+                  "icono": "https://image.tmdb.org/t/p/original/56hPHYFZMafbPw6ORxrUWG7Qxad.jpg",
+                  "name": "BASTION 36",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/DEC695813EE94112A6D2345B328277C1_media.mp4"
+           },
        
           {
                   "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
@@ -146,8 +151,22 @@
    {
         "name": "CRIMEN 📺🪓🗡️⚔️ 📽",
         "samples": [
-       
-       
+             {
+                  "icono": "https://image.tmdb.org/t/p/original/5NPSFsKbv6zB3tgC5mm6kNmxlFK.jpg",
+                  "name": "SOBRE LA LEY DEL CRIMEN",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/4E7F2FD774E745D5AC0EE3D2EB008464_media.mp4"
+           },
+             {
+                  "icono": "https://image.tmdb.org/t/p/original/dfxVkV5vFZmgnR2zzoj6virotwB.jpg",
+                  "name": "UNA MUERTE SILENCIOSA",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/BF5C35E549BC45A3AE7AEAC6CD74E880_media.mp4"
+           },
+
+             {
+                  "icono": "https://image.tmdb.org/t/p/original/pS5ch16PlJe8lhRx1o2U4EaM5Eg.jpg",
+                  "name": "REBEL RIDGE",
+                  "uri": "http://vedo.wvdbozpfc.com/vod/3AC473D003784BDE9CEEFF3A6DFE502B_media.mp4"
+           },      
           {
                   "icono": "https://image.tmdb.org/t/p/original/yulevI6A7GHGzkmtVgioStOq9cK.jpg",
                   "name": "MARIA",
