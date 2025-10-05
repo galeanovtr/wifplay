@@ -17,7 +17,21 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWWEyB1Ww7BG038rOwozZekUjDA9TnUN+LJaAej24qpBHsw5ASknENlOYhTuKiJBeyyBzOW8e2vfsDjvnoPACAi130RYJgAW28ELQSn5YESxTjnmoP7o/YwJRpzoIz9Tyg=="
       }
-
+   ]
+  },
+  {
+    "name": "FORMULA 1",
+    "samples": [
+          {
+        "name": "DANZ 1",
+        "icono": "https://i.postimg.cc/mg41tGJg/DAZNF1.png",
+        "uri": "s0Qx3YVoHTGY9gyPhCoL6mPyNeIdwC0EwnX+KOCa+DQopE/JuLhiiDcxnne7/41FPoTYWcME4fvRX5bLdh/ieg=="
+      },
+                {
+        "name": "DANZ 2",
+        "icono": "https://i.postimg.cc/mg41tGJg/DAZNF1.png",
+        "uri": "wcriov/fGLiu7Tsb1n+WixgssNGlO9QX+TV5wvVel14lLn43r+82NQ5+5SheZCnzWeWbZcZofZuY652U/aNN+9JcSqR0h0RtZNFd3cMZYY1yJfqBe2JIqeYW246co2md"
+      }
    ]
   },
   {
