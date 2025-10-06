@@ -17,21 +17,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWWEyB1Ww7BG038rOwozZekUjDA9TnUN+LJaAej24qpBHsw5ASknENlOYhTuKiJBeyyBzOW8e2vfsDjvnoPACAi130RYJgAW28ELQSn5YESxTjnmoP7o/YwJRpzoIz9Tyg=="
       }
-   ]
-  },
-  {
-    "name": "FORMULA 1",
-    "samples": [
-          {
-        "name": "DANZ 1",
-        "icono": "https://i.postimg.cc/mg41tGJg/DAZNF1.png",
-        "uri": "s0Qx3YVoHTGY9gyPhCoL6mPyNeIdwC0EwnX+KOCa+DQopE/JuLhiiDcxnne7/41FPoTYWcME4fvRX5bLdh/ieg=="
-      },
-                {
-        "name": "DANZ 2",
-        "icono": "https://i.postimg.cc/mg41tGJg/DAZNF1.png",
-        "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWUPpK3a3kuztpEXDXaY3ysSyL0sTMKBXTVFpr8WwlssCA=="
-      }
+
    ]
   },
   {
@@ -915,6 +901,11 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWoK24yROwGx42PtrzJH7foYxuBhSrMHrSdNht4D/mq/qTKGssZoRaox4Y2CYRN+ehrQBb2A83ZTyRZ6FPPp8zyTgN4NwaBpq4K0YI/kAPUNB8O/zguICmkMk64onDsSaQ==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "DANZ 2",
+        "icono": "https://i.postimg.cc/mg41tGJg/DAZNF1.png",
+        "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWUPpK3a3kuztpEXDXaY3ysSyL0sTMKBXTVFpr8WwlssCA=="
       },
        {
         "name": "MOTOR SUR",
