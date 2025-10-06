@@ -902,9 +902,30 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
+        "name": "DEPORTV",
+        "icono": "https://i.ibb.co/CvhtCWJ/descarga-5.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cmvmtr1XWez63ti977Bts8eVAxfzWYQrG+eJ4dcOu/0V0WqQy39bnjdfkSqA4DTtnXGYg9tFyLAvC8EuZUPfHWf",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yR+AXyYvB9jSrCOeQN4UaXQW69qHLmoCW+lp4Ycd8J5FOQp4Z9Swk1TUQzl+3/tza1C2dsKrUAs2V2AhQB7qmAknArAVU4wraj/qvEeldvd+55Iz/OklR7dKczWkyvPWCw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      }
+      
+              ]
+  },
+  {
+    "name": "🏁🛣️DEPORTES MOTOR",
+    "samples": [
+      
+     {
         "name": "DANZ F1",
         "icono": "https://i.postimg.cc/mg41tGJg/DAZNF1.png",
         "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWUPpK3a3kuztpEXDXaY3ysSyL0sTMKBXTVFpr8WwlssCA=="
+      },
+      {
+        "name": "🏁|DANZ 2",
+        "icono": "https://i.postimg.cc/mg41tGJg/DAZNF1.png",
+        "uri": "IUEHEpxb4mU7wEelTA98qA22pkGdh0ct+LIp1dJytzgHnJeZIwSQ9roTAj+Gn7hqjXrZhkFhbUnDlIBvifwIGTMQl3idK/Ww9+SsYO0bt8E="
       },
        {
         "name": "MOTOR SUR",
@@ -919,16 +940,8 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXg99MLKfPRqH9GPbs/gV6SBfuOpsFCm08f21tFxkTVzVSt3zCJhd0kZCXpJzEK2yKq1JkC8kpcaom8BZrTPKzp4o4PDWg9g63D8ITQBn6CcBilwtvyjWG01LCzKD11ofg==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "DEPORTV",
-        "icono": "https://i.ibb.co/CvhtCWJ/descarga-5.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cmvmtr1XWez63ti977Bts8eVAxfzWYQrG+eJ4dcOu/0V0WqQy39bnjdfkSqA4DTtnXGYg9tFyLAvC8EuZUPfHWf",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yR+AXyYvB9jSrCOeQN4UaXQW69qHLmoCW+lp4Ycd8J5FOQp4Z9Swk1TUQzl+3/tza1C2dsKrUAs2V2AhQB7qmAknArAVU4wraj/qvEeldvd+55Iz/OklR7dKczWkyvPWCw==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
+      
 
       ]
   },
@@ -3027,11 +3040,6 @@
         "name": "EL TRECE",
         "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
         "uri": "RkW5IO9jQpkZSwBYDHqlqiQK20n2SCkaH1V5nYIGii44yXMmwZn70ZJYBlCiKxpkGiuPgTzzr7hEvALiR846LaQdBgGZvtaXhJs1tnSgM7xc7iXd+VzbRoNZuIJ2WxredtdBnVP08z/c2lXO7bSSbn2FTae1ztMAfDMXNka469UnpmY2VAoHAbZFEF2yXOCXl3ugtyHtMiuG6gly7Y7+uzMlC6TmT9DUp8b09JLeMjsgN5vnMBFoi4dYi+DTaMUGQzZfEzA1ys8FilBWn+4dDA=="
-      },
-      {
-        "name": "🏁|DANZ 2",
-        "icono": "https://i.postimg.cc/mg41tGJg/DAZNF1.png",
-        "uri": "IUEHEpxb4mU7wEelTA98qA22pkGdh0ct+LIp1dJytzgHnJeZIwSQ9roTAj+Gn7hqjXrZhkFhbUnDlIBvifwIGTMQl3idK/Ww9+SsYO0bt8E="
       },
       {
         "name": "RPC",
