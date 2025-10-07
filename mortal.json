@@ -24,15 +24,20 @@
   {
     "name": "🏆🌐:COPA DEL MUNDO SUB 20",
     "samples": [
+     {
+        "name": "DSports",
+        "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
+        "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWXnI715l/oqxIo6rNsF7WhZyL0sTMKBXTVFpr8WwlssCA=="
+      },
+            {
+        "name": "TUND",
+        "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
+        "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWUFKSHubdeH7zcwvwE5y6qqyL0sTMKBXTVFpr8WwlssCA=="
+      },
        {
         "name": "TELEDEPORTE",
         "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
         "uri": "KKdkxcQ+GqDDOZgc8cvbE1Lz4SyZ+lNXOthKPET9lkaHI5VMm1Z3ha/IEbJrPDS0NiQwXPMYXX6jffo/SKmHtcsqgARtOFBGFLgnzuR/qAVl9m2dxyhoQec0HytQRttFZs1CyHcfbjcktc5RL0gZ0Gsrr0GGLdTKoP+l4nAQMJA="
-      },
-      {
-        "name": "TUND",
-        "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
-        "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWUFKSHubdeH7zcwvwE5y6qqyL0sTMKBXTVFpr8WwlssCA=="
       },
       {
         "name": "SPORTV 1",
