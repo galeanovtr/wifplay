@@ -90,6 +90,20 @@
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzT/+BMXCJiNJ6AsrYme8E5nf7ZNDSNVmC+cULAErKnUyg="
       },
+      {
+        "name": "NPY",
+        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmhoioWCnAUGGsccNkrMMUD8PCxhKsKDGgwBd1IH3yVyBoiUx7kvhu7f7SN/Ix87I17yXz+q3HF+f7EUEezX4yo",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVdOAhY0yEuxj4JJkl7Pak2gw9fsZrPF8nmE4sgajnsnb9ub1agZ32ISSt6kLTp7HkV7PAs3nsAG+/pY5l4DNzrNwNmfmrEM8vwvJyKDAhdS0VZtXzGJNCDJ7tO2nNWzhg==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "NPY 2",
+        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
+        "uri": "cK3tnfz7LixRAmMK2KRTHhn+TYTk3kT2tgLMhk49gEU/SKE7dmodlboiYE+R0RpZg4ZeGt8IHzoLeeGExNp+rA=="
+      },
        {
         "name": "GEN TV",
         "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
@@ -128,8 +142,17 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "RPC 2",
-        "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
+        "name": "LA TELE",
+        "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkjfDjqnpBtojZXF5jkChfrzPRRo6Hx/O5MCjd5mzDOU/iDGoGiYszMlLy/wuho/B2p74sZYdKgRz9CPHZOYBHx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRQuQowOCu9re1mJU++dtoTU+682hwRRvxBiVMr71nko6JtnSm42pLYNs2dpguV7NT2WfliC4A/xVxRVsBQKD6gedsBpZyg1TXA75WxajqCvg1D6WgPsbyWZae9cMYlSzw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "LA TELE 2",
+        "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTt3LejOvElRrUnRFLbOs+lf7ZNDSNVmC+cULAErKnUyg="
       },
       {
@@ -212,15 +235,6 @@
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzToqm28x6B/w6DPIiZPDqtlTeAG//vY30Ka9bkPjL2MPU="
       },
       {
-        "name": "NPY",
-        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmhoioWCnAUGGsccNkrMMUD8PCxhKsKDGgwBd1IH3yVyBoiUx7kvhu7f7SN/Ix87I17yXz+q3HF+f7EUEezX4yo",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVdOAhY0yEuxj4JJkl7Pak2gw9fsZrPF8nmE4sgajnsnb9ub1agZ32ISSt6kLTp7HkV7PAs3nsAG+/pY5l4DNzrNwNmfmrEM8vwvJyKDAhdS0VZtXzGJNCDJ7tO2nNWzhg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
         "name": "TV CAMARA",
         "icono": "https://pbs.twimg.com/profile_images/1879899270410596352/1x6CJPDD_400x400.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnhSfDRYPGs0IZGYxZ5ZK+YX2SBldDG6Zh4XWA9EIpVM5GET7iEjWYOJCvFyWuAcS7GYg9tFyLAvC8EuZUPfHWf",
@@ -238,16 +252,6 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      {
-        "name": "LA TELE",
-        "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkjfDjqnpBtojZXF5jkChfrzPRRo6Hx/O5MCjd5mzDOU/iDGoGiYszMlLy/wuho/B2p74sZYdKgRz9CPHZOYBHx",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRQuQowOCu9re1mJU++dtoTU+682hwRRvxBiVMr71nko6JtnSm42pLYNs2dpguV7NT2WfliC4A/xVxRVsBQKD6gedsBpZyg1TXA75WxajqCvg1D6WgPsbyWZae9cMYlSzw==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-  
       {
         "name": "Unión Tv",
         "icono": "https://i.ibb.co/9hqVmzy/descarga.png",
