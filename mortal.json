@@ -931,6 +931,11 @@
         "uri": "FEmSGoTDqvvEnwx1LpVvDUY1OipsNkZqygBya4SVFoGQhLV5pfYaDopJjows/ixoa4SN8RGYYzFJtA5svRa+O6g5MQst8HukE82YdtUMEIoOHfh2wFoCWfxafs84SBVMuQDcGbV/7k5KIrSBoCEi/P7ZNDSNVmC+cULAErKnUyg="
       },
        {
+        "name": "PLUS + TV",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurFf_9P_V83xyrlFFGGlIcAG5YUpmQFYRbxH0OihTRjAS8JE0oMigzUXAbdpQuoZkGJY&usqp=CAU",
+        "uri": "EvsnxFWRQdWRYpkQexyXf9/+TlRx5OpHKRGqHkRby98X9ggMky6FHKKuIMc6MRTZMnf9YBKhDrk/hQV0bYqsGLmpouJ+WLWC3ZQhe2o6NG1zWpwdbEZmdNYJneTsDBSN+PwkYaVjhkE0orvY0KX+7Q=="
+      },
+       {
         "name": "MOTOR SUR",
         "icono": "https://i.postimg.cc/q761GQm6/motor-sur-media.png",
         "uri": "fgUXksvg06s/dw05K1Nyjt/u3L+mo+EI1Cuxr22ce5Ji6zR/AfrvftPLxsuxISzO"
@@ -2739,6 +2744,11 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZsd2WbkCt41JSI5LIiJviLHG3rPe+ooh9dRXrJUDu8geCSgUlEJtIOjK2dhLreOg+elA6+hPcaJ9ie1l4F78e7lvdVIM6fNXp/ly4VLFtmHYRgjyqdV3V/QKOBk7Uge4w==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+       {
+        "name": "3ABN LATINO",
+        "icono": "https://cdn-radiotime-logos.tunein.com/s166325g.png",
+        "uri": "IvrcsfpgnPxghgZ4MJPQVo09l/KI9xo+NxsQzmT4pdXtnbXKjuHyl+Gt4yJV2rUN4lbmsb1JtjPlWMmlbn7NOAGEtSpJ29RXbwTu3y7e3Rs="
       },
       {
         "name": "FARO DE SANIDAD",
