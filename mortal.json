@@ -2920,6 +2920,11 @@
   {
     "name": "MUSICA & RADIOS",
     "samples": [
+        {
+        "name": "FARRA_101.3",
+        "icono": "https://farra.com.py/wp-content/uploads/2025/04/LOGO-DE-FARRA_2-1.png",
+        "uri": "Amy+yOaA+HoTmdB/5c2DZCxfnhZqh+/jItrlj2AuUoBBtumdFhefyeHXIHqH4Bd9"
+      },
        {
         "name": "MONUMENTAL",
         "icono": "https://yt3.googleusercontent.com/fuZZ0_IzHAokfyLIobibJctOUDvyVatE0Vtp5O4hBlVlBa0i-18EC3NVUfGjKETQphx7_QO0_H8=s900-c-k-c0x00ffffff-no-rj",
