@@ -2920,6 +2920,16 @@
   {
     "name": "MUSICA & RADIOS",
     "samples": [
+       {
+        "name": "MONUMENTAL",
+        "icono": "https://yt3.googleusercontent.com/fuZZ0_IzHAokfyLIobibJctOUDvyVatE0Vtp5O4hBlVlBa0i-18EC3NVUfGjKETQphx7_QO0_H8=s900-c-k-c0x00ffffff-no-rj",
+        "uri": "2gRfshppW36OuRF7LpI/cfSNJnaCpjzjmFbeC5TloKJAi0BmUM6TjNKmX6Z8Fv8CLARRK1RlIGNs8Sr6Q1aWpw=="
+      },
+      {
+        "name": "VENUS",
+        "icono": "https://www.venus.com.py/player/playlist/img/venus.png",
+        "uri": "cK3tnfz7LixRAmMK2KRTHhn+TYTk3kT2tgLMhk49gEWKYrrvGH7qOCyvWrmhcH3+APXrtNcU3xXOUEmuqM7wXsNgGsO8FJbWiN2cIothd9QzEJd4nSv1sPfkrGDtG7fB"
+      },
       {
         "name": "SUCESO TV",
         "icono": "https://radiosuceso.com/wp-content/themes/digitalfm/assets/images/logo-digital-fm.png",
