@@ -620,6 +620,30 @@
     "name": "DEPORTES",
     "samples": [
       {
+        "name": "DSPORTS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png",
+        "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWXnI715l/oqxIo6rNsF7WhZyL0sTMKBXTVFpr8WwlssCA=="
+      },
+       {
+        "name": "TUND",
+        "icono": "https://deportesymarcadores.com/wp-content/uploads/2025/08/Copa-Mundial-Sub-20-de-la-FIFA-2025.jpg",
+        "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWUFKSHubdeH7zcwvwE5y6qqyL0sTMKBXTVFpr8WwlssCA=="
+      },
+       {
+        "name": "TELEDEPORTE",
+        "icono": "https://www.triatlonnoticias.com/wp-content/uploads/2019/11/image001-21.jpg",
+        "uri": "KKdkxcQ+GqDDOZgc8cvbE1Lz4SyZ+lNXOthKPET9lkaHI5VMm1Z3ha/IEbJrPDS0NiQwXPMYXX6jffo/SKmHtcsqgARtOFBGFLgnzuR/qAVl9m2dxyhoQec0HytQRttFZs1CyHcfbjcktc5RL0gZ0Gsrr0GGLdTKoP+l4nAQMJA="
+      },
+      {
+        "name": "SPORTV 1",
+        "icono": "https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Sportv-nova-logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20211110213641&path-prefix=pt-br",
+        "uri": "MDp1jAqJj1yXCX+7kklzmVAB90V8s7i5CgaZwlgy+ldLQGbD/g/pVc0OHT125alTDQqca3784MAra0fJGQdIC05fH+VrtHQEZpI6X9+09zY=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYAgpEjlniS2rMg2Ux+TYttHUc80dlp2uiCH0dnSJNpklhbDXUy8sMD1qPsXwo1w4GkKSqO4/K+KmAM9e0sz/vYiQ64xW9sTqajedRu6kuqGIFWTNSMlWUl0dF02ArzRg==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "FOX SPORTS 1",
         "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4CoiNCZZoj5Fvd9WFcHwvgeO+dyGgvyluT7ASiLYSdgQDnGYg9tFyLAvC8EuZUPfHWf",
