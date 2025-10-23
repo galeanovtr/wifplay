@@ -620,6 +620,11 @@
     "name": "DEPORTES",
     "samples": [
       {
+        "name": "FOX SPORTS",
+        "icono": "https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTQUTdhUaGmN+be98PZixSyP7ZNDSNVmC+cULAErKnUyg="
+      },
+      {
         "name": "DSPORTS",
         "icono": "https://futbollibre-tv.com/img/logo-canal/dsports.webp",
         "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWXnI715l/oqxIo6rNsF7WhZyL0sTMKBXTVFpr8WwlssCA=="
