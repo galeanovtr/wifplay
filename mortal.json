@@ -620,6 +620,11 @@
     "name": "DEPORTES",
     "samples": [
       {
+        "name": "FOX SPORTS 3",
+        "icono": "https://i.postimg.cc/X77MRPJZ/download-20.jpg",
+        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTQUTdhUaGmN+be98PZixSyP7ZNDSNVmC+cULAErKnUyg="
+      },
+      {
         "name": "FOX SPORTS",
         "icono": "https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTQUTdhUaGmN+be98PZixSyP7ZNDSNVmC+cULAErKnUyg="
@@ -1163,7 +1168,7 @@
       },
 {
         "name": "FOX SPORTS 3",
-        "icono": "https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg",
+        "icono": "https://i.postimg.cc/X77MRPJZ/download-20.jpg",
         "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTQUTdhUaGmN+be98PZixSyP7ZNDSNVmC+cULAErKnUyg="
       },
 
