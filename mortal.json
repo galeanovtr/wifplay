@@ -3023,10 +3023,12 @@
   {
     "name": "CANALES DE PRUEBA",
     "samples": [
-    {
-        "name": "ESPN PREMIUN",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
-        "uri": "tXC1Ww8NOABAGDJmdZPfN6Zk5Ft7eo1g/FsM4CZKjKofRrhSzHxtBFCLdo+3Tg8BeTQtaqLohN2VLHH1DOIzToZXLEMhBKmjsaEQEnvpe78TZON3jGE7bCEmyxqDtjyOMELlY8wG18IRjhrmAvsuoIXKC40LYNS2KxWtOfekJmlaI8XufqQPuv5bqaVij7rtl2Ou8vRHv2tz1CkwvLyR8pRe0p9pt3TZQJLAyo4DgKsjMs3CEKqsXhR+VY72T1z7As/cIYYNMy3gXlRtWbrqRGoMUpAL4HIscoX1rYVyR2fNTu4SKOtmEjx/NTUZXuuE/p0WzBQOimrIumB5bk00LYaLPgtM568c/pJc6jDnnTKNDP+1FdH3v3dRT1RIFt7gUpR+getA2hoekHnURG1vNmSVVTKdlR8l8svjDLyJY8oaZ6iBRrnp8mWFwqz3ObeFeK6AHWObhxeaU2RcQZwxJAKIP6BMJGSgGVL/zcaal9CK7+nQUTr0rQ4gk9Rkm++009p+yDuobtNuoqSHBZ+Gw8ezaIpooJW6w6wAe8wL+COjgtWqN5WSCuktUmCSSx8NZeMwvukfXngRmM21rVPIPDTj7YCoCTPU0fG18aB/wykVQkRadcxz+L1KzdKd+k6jOTS+7jqOAozTIygxOZ6W/0rq+trkvHwd464tJ9J/H3jOOi3KQapyW2Jm1mWVhl3yW7AgqqHMAqcFx+aB5lspgMluF9GEHEfDlsHqEEs9ujRTnIaMMgVPygmCu7SDYqJlz0SN1bOCp356blT1DILyfdkOHXTpRpiNmkyJMJE5erLmK3tuqseHLRKif4qJguDOkoqXoATNeTo="
+      {
+        "name": "FOX SPORTS PREMIUM MX",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB1u3-4ngo1qfaujbtapbDdV3nexMx1AaNhNOcOV14Z6GoPuG5uB79_zDIREFVkPN4RokXkf6AwRMuhLyw3gC5qLBFn7pjVYe0JYZN3EaFX9BopSnVFagnLkgkwA8MIaZlLdnfJdBRPriEsjhq8x28SwoPHTRXrpOoOIUlLsy17L2oDUPVR52sWJWs/w640-h360-rw/foxsportspremiumtvlaint.jpg",
+        "uri": "USwVFT8RfApDfMVxyUe9OhWG+/BT8+VkRnWWHNUqTWE9UKUWYq6QqBQdRAUtCRzBEdOcdUMSYVzyGzfh/vtY/Eo3uRkLYX3LkPOUff2Jsg+HxQo24L4z4CGalFlrUaquAS9uvvegtKE6pJZYE9q+q2fbdHxS84Yjka0bA9T7+U0=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycuusCThtrLuelNIu3e1aaOUz2vAu8VrIVfUkUs3Mze42DPYwW7GSNMcuiEhmw/1GhQpB7mqS2Wo97th+h+ObFpeLbKkRw24pHJVQ4FGgzpxSvERS7VTFRZfmDQ0gpRIlw=="
       },
       {
         "name": "TyC Sports",
