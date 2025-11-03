@@ -3036,10 +3036,10 @@
   {
     "name": "CANALES DE PRUEBA",
     "samples": [
-      {
-        "name": "TRECE",
+       {
+        "name": "trece",
         "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2017/08/LOGO-TRECE-scaled.jpg?fit=2560%2C1376&ssl=1",
-        "uri": "9q4HY1ZiASERWq/hIMDCt69YMDhKPcOdFVJnIpChpqALPGJaIzlKCUsmxBs8P5K5Ouv6taMA8bTnzUMln1Md9A==",
+        "uri": "9q4HY1ZiASERWq/hIMDCt69YMDhKPcOdFVJnIpChpqALPGJaIzlKCUsmxBs8P5K5Ouv6taMA8bTnzUMln1Md9A=="
       },
       {
         "name": "FOX SPORTS",
