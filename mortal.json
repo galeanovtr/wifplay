@@ -3036,6 +3036,15 @@
   {
     "name": "CANALES DE PRUEBA",
     "samples": [
+            {
+        "name": "TRECE 2",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2017/08/LOGO-TRECE-scaled.jpg?fit=2560%2C1376&ssl=1",
+        "uri": "9q4HY1ZiASERWq/hIMDCt69YMDhKPcOdFVJnIpChpqALPGJaIzlKCUsmxBs8P5K5Ouv6taMA8bTnzUMln1Md9A==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVdOAhY0yEuxj4JJkl7Pak2gw9fsZrPF8nmE4sgajnsnb9ub1agZ32ISSt6kLTp7HkV7PAs3nsAG+/pY5l4DNzrNwNmfmrEM8vwvJyKDAhdS0VZtXzGJNCDJ7tO2nNWzhg==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
       {
         "name": "FOX SPORTS",
         "icono": "https://i.postimg.cc/X77MRPJZ/download-20.jpg",
