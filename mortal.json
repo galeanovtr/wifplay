@@ -3036,14 +3036,6 @@
   {
     "name": "CANALES DE PRUEBA",
     "samples": [
-     {
-       "name": "LANCE",
-        "icono": "https://i.ibb.co/YVVrpkw/lance-II.png",
-        "uri": "rMCtar/F0JlaDrUY4oLoTEWR//992f5NSywpFc7J0iNgc3lugfBLbqbtvvbjTMdwyXOlGoQ7Oev8u1N3Ey4yS/ZtKdUpHZAOyBU7v8b5JPc=",
-        "drm_scheme": "inputstream.adaptive.license_type=clearkey",
-        "drm_license_uri": "EzHegf5x66UqOdZh/a+JH4JJzxRKerewCWYzFx3VVmhVZml/uwVrKxUiZ9raBKgm10XxftMZOFK/kgw5Qx0fjG4dWkzJkRjMZP3mASEoOiBZJhnatOSU6FhliiPim0zGRzc8ZvG270KmYcIY8pNf3Q=="
-        "origin": "https://www.open-epg.com/files/mexico2.xml.gz",
-      },
       {
         "name": "FOX SPORTS",
         "icono": "https://i.postimg.cc/X77MRPJZ/download-20.jpg",
