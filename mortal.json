@@ -3037,7 +3037,7 @@
     "name": "CANALES DE PRUEBA",
     "samples": [
      {
-       "name": "LANCE II",
+       "name": "LANCE",
         "icono": "https://i.ibb.co/YVVrpkw/lance-II.png",
         "uri": "rMCtar/F0JlaDrUY4oLoTEWR//992f5NSywpFc7J0iNgc3lugfBLbqbtvvbjTMdwyXOlGoQ7Oev8u1N3Ey4yS/ZtKdUpHZAOyBU7v8b5JPc=",
         "drm_scheme": "inputstream.adaptive.license_type=clearkey",
