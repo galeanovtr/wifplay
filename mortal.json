@@ -3052,15 +3052,8 @@
   {
     "name": "CANALES DE PRUEBA",
     "samples": [
-{
-        "nombre" : " EVENTOS 3 " ,
-        "url" : " https://sam-py-edge01.tigo.com.py/ccur-session/66a24e370c90423e9ea3c6c4f92c729c1754246401272b87d2b1934dc4e158a55a1a3a839e7b5Th52ggZXbcLIV4gCdTHqeN6R/out/v1/925422874f0d4d2ebd4cda12b751a484/index.mpd " ,
-        "tipo" : " CLEARKEY " ,
-        "drm_license_uri" : " https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3104af5254534d43a98319238dcb6f00&key=8f4af52cf6c144a6499244e542d92680 " ,
-        "icono" : " https://i.ibb.co/fGF5bwB8/unnamed.png "
-    },
     {
-       "name": "LANCE II",
+       "name": "LANCE III",
         "icono": "https://i.ibb.co/YVVrpkw/lance-II.png",
         "uri": "f76VlCWAKyDLR/WttkdLFFsDQDlXcmMbX/CxY0jevclmCYDdXGUlExdCvOPfNWmF6RFbErN1HanBa73QLaFNQtGWvcz/32khvZc9vfqj2ZFAYCp/gL2DeO0jR2RoM0PJ",
         "drm_scheme": "clearkey",
