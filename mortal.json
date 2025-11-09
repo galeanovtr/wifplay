@@ -3059,6 +3059,13 @@
         "drm_license_uri" : " https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3104af5254534d43a98319238dcb6f00&key=8f4af52cf6c144a6499244e542d92680 " ,
         "icono" : " https://i.ibb.co/fGF5bwB8/unnamed.png "
     },
+    {
+       "name": "LANCE II",
+        "icono": "https://i.ibb.co/YVVrpkw/lance-II.png",
+        "uri": "f76VlCWAKyDLR/WttkdLFFsDQDlXcmMbX/CxY0jevclmCYDdXGUlExdCvOPfNWmF6RFbErN1HanBa73QLaFNQtGWvcz/32khvZc9vfqj2ZFAYCp/gL2DeO0jR2RoM0PJ",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWWEyB1Ww7BG038rOwozZekUjDA9TnUN+LJaAej24qpBHsw5ASknENlOYhTuKiJBeyyBzOW8e2vfsDjvnoPACAi130RYJgAW28ELQSn5YESxTjnmoP7o/YwJRpzoIz9Tyg=="
+      },
       {
         "name": "BOCARIVER",
         "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
