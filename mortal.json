@@ -3052,17 +3052,10 @@
   {
     "name": "CANALES DE PRUEBA",
     "samples": [
-    {
-       "name": "LANCE III",
-        "icono": "https://i.ibb.co/YVVrpkw/lance-II.png",
-        "uri": "ARwtNmPl2AzeQHH1o25/Yzu0AXKUapTnnq1YNAm2mSUQS7lYRqop6WWgCtbww3E1o4QlnF+UfyjGJK3p/PXgQoftwHT7BVGoh5buG2k1VZmL3nUO4gckBO4JieSOnTahxYnOXnw6fO4Y+fH5jtJ/UOf+bVwbQaK2N05lPwzWj1NQX45oWguXCQQItpefV6Da4UZE0dQiN6gXdkb6Qc5/YEPbH4JaYrCxbPeIjBn+nShwPkpdot5749kbHA68riTNBF6piK9NRXFjgFxm9Uui0Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWWEyB1Ww7BG038rOwozZekUjDA9TnUN+LJaAej24qpBHsw5ASknENlOYhTuKiJBeyyBzOW8e2vfsDjvnoPACAi130RYJgAW28ELQSn5YESxTjnmoP7o/YwJRpzoIz9Tyg=="
-      },
-          {
+     {
        "name": "LANCE",
         "icono": "https://i.ibb.co/YVVrpkw/lance-II.png",
-        "uri": "f7jF/mGHFkwiZdg4WQk+P/crAdy57WCjXf7MZqRoE3a19bH2ELmENsNdEYI3zrJb",
+        "uri": "Hx7d54uSwb/qyGDnmMnepuyaHrARKHadz6lmNuJ5C5hslrJZ0A8eIgKMeoxMJB8W9iEqvZZokF8Nh8L92FY5oV4uB2YV8fBSbuaiR9GaOIBAYCp/gL2DeO0jR2RoM0PJ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWWEyB1Ww7BG038rOwozZekUjDA9TnUN+LJaAej24qpBHsw5ASknENlOYhTuKiJBeyyBzOW8e2vfsDjvnoPACAi130RYJgAW28ELQSn5YESxTjnmoP7o/YwJRpzoIz9Tyg=="
       },
