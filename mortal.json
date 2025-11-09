@@ -17,6 +17,26 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWWEyB1Ww7BG038rOwozZekUjDA9TnUN+LJaAej24qpBHsw5ASknENlOYhTuKiJBeyyBzOW8e2vfsDjvnoPACAi130RYJgAW28ELQSn5YESxTjnmoP7o/YwJRpzoIz9Tyg=="
       }
+       ]
+  },
+  {
+    "name": "BOCA vs RIVER",
+    "samples": [
+      {
+        "name": "BOCA vs RIVER",
+        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
+        "uri": "XDO05cz0uabTpMurJ1Gsk+Y1/YJZm5SA69+myYpm9vnFXvzKPN2Bc4IE6/pyrm0L"
+      },
+      {
+        "name": "FOX SPORTS",
+        "icono": "https://i.postimg.cc/X77MRPJZ/download-20.jpg",
+        "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWXFYmWaTl6eNArU/6rDC+ekyL0sTMKBXTVFpr8WwlssCA=="
+      },
+      {
+        "name": "ESPN 1",
+        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
+        "uri": "kHCG6sKQhpKLVC6hcmXpk8OzQhC+h0oSfVmO3p5r4nl7B/NZKDMWOQcYK34GNBxm"
+      }
      ]
   },
   {
