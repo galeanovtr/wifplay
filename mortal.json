@@ -3052,20 +3052,13 @@
   {
     "name": "CANALES DE PRUEBA",
     "samples": [
-            {
-       "name": "LANCE",
-        "icono": "https://i.ibb.co/YVVrpkw/lance-II.png",
-        "uri": "ARwtNmPl2AzeQHH1o25/Yzu0AXKUapTnnq1YNAm2mSUQS7lYRqop6WWgCtbww3E1o4QlnF+UfyjGJK3p/PXgQoftwHT7BVGoh5buG2k1VZmL3nUO4gckBO4JieSOnTahxYnOXnw6fO4Y+fH5jtJ/UOf+bVwbQaK2N05lPwzWj1NQX45oWguXCQQItpefV6Da4UZE0dQiN6gXdkb6Qc5/YEPbH4JaYrCxbPeIjBn+nShwPkpdot5749kbHA68riTNBF6piK9NRXFjgFxm9Uui0Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6QyQPJdPXbRu+dlqwj3TCMmN91GcxwO8pw5Bx+w1Cj6X6pMQwO5J+n47YX2IiQFHTgxbdSW24PfbtEngDWuCQHEUsyOjZ2DhJezwN2oIYqw9/0YHz7A+u+zl3FyD2GhS17w=="
-      },
-      {
-       "name": "LANCE I",
-        "icono": "https://i.ibb.co/YVVrpkw/lance-II.png",
-        "uri": "YOhN6SaFzURu0OC51/r6QyQPJdPXbRu+dlqwj3TCMmN91GcxwO8pw5Bx+w1Cj6X6pMQwO5J+n47YX2IiQFHTgxbdSW24PfbtEngDWuCQHEUsyOjZ2DhJezwN2oIYqw9/0YHz7A+u+zl3FyD2GhS17w==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6QyQPJdPXbRu+dlqwj3TCMmN91GcxwO8pw5Bx+w1Cj6X6pMQwO5J+n47YX2IiQFHTgxbdSW24PfbtEngDWuCQHEUsyOjZ2DhJezwN2oIYqw9/0YHz7A+u+zl3FyD2GhS17w=="
-      },
+{
+        "nombre" : " EVENTOS 3 " ,
+        "url" : " https://sam-py-edge01.tigo.com.py/ccur-session/66a24e370c90423e9ea3c6c4f92c729c1754246401272b87d2b1934dc4e158a55a1a3a839e7b5Th52ggZXbcLIV4gCdTHqeN6R/out/v1/925422874f0d4d2ebd4cda12b751a484/index.mpd " ,
+        "tipo" : " CLEARKEY " ,
+        "drm_license_uri" : " https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3104af5254534d43a98319238dcb6f00&key=8f4af52cf6c144a6499244e542d92680 " ,
+        "icono" : " https://i.ibb.co/fGF5bwB8/unnamed.png "
+    },
       {
         "name": "BOCARIVER",
         "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
