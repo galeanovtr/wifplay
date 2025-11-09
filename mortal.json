@@ -3052,24 +3052,15 @@
   {
     "name": "CANALES DE PRUEBA",
     "samples": [
-       {
-        "name": "ESPN",
-        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
-        "uri": "ZeB0NqhmsnyIdDMIhUPXwruhNleIrPoa6BqmsRfH1QKGBYofKI020yMl93626eM//CH85pNEERMR70GFmcR1mnsH81koMxY5BxgrfgY0HGY=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "T9yGAG7/LsOA8yxmdiyVcNkX6YLV4Nq+NLk1Xnlm5MU=",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
       {
         "name": "BOCA vs RIVER",
         "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
         "uri": "XDO05cz0uabTpMurJ1Gsk+Y1/YJZm5SA69+myYpm9vnFXvzKPN2Bc4IE6/pyrm0L"
       },
       {
-        "name": "FOX SPORTS",
-        "icono": "https://i.postimg.cc/X77MRPJZ/download-20.jpg",
-        "uri": "Ei2izA73wK7Fl+dyq+4dnIvzxc3gFfjpYKhTzJtahWXFYmWaTl6eNArU/6rDC+ekyL0sTMKBXTVFpr8WwlssCA=="
+        "name": "CLASICO 1",
+        "icono": "https://i.postimg.cc/JnqJS06B/download-14.png",
+        "uri": "AIMSYdWtbSMKmcfbOfpNYVAMH0Ufc6/uqQ7uDj1o5agOTG/uFJGro9TLqKVZtuDK+amXoWnOq86zZfnxSsM1Xg=="
       },
       {
         "name": "CLASICO",
