@@ -3039,6 +3039,33 @@
       },
       {
         "name": "SNT",
+        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClUosSE1ogpr+XASGHrFRGuLzB+p56gvxbE0W76oa2Oh6uzEC6cUhbBKJLVF4nEQe4=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yQn2GEIerHM4mvyw/kWMAZaE/pQ80gQy5XVRktY5qjpKgreVTGGHhQOMa9r6eu/sFuDG2Mk7kAJhNdoEWCcMhlxzafFM50fYT1AAH69fSr31oiPhvVvYMxBeQLK3bjPnlA==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TELEFUTURO",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cmo5DmL8jL1RpnT3+1QbwRT+Ylo9Kk/p8AZL2OmMWftC92CJHCQ0ZQJPGIT+F5hT9Gkg4267jESCkyNdeh3t16E",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yeXp8BsLS0Q5w8nk6z/Fa1/kdJ8706aTr2IRl1qV3wVokO63CqlzThIwXEtGVQhLVaR/yDJsUjX2vUpEVLWmCTjWgefjDQnLZcbCSlqC80CcrqG9IMwAGCNJr7c9S3yQhw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "RPC",
+        "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClCuInZupVN3OYKMYRR7M91LzB+p56gvxbE0W76oa2Oh8e5O2dOgOiSpTckuJGVAn8=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfXzZswH/ztQAYOA8heXwP/F7CdDaDlJL6b9viTrVQU0MSVJlu3jhFm3eOReqLFnVBk0E2lY2CKxrg7D9LZyxyCet8INsEU63U7edCoNQtJj9q/13H2a4pYMHl0V7xdEaQ==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "SNT",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClUosSE1ogpr+XASGHrFRGuLzB+p56gvxbE0W76oa2Ohy0cKopNcPreLynG/zlfF1gzEJd4nSv1sPfkrGDtG7fB",
         "drm_scheme": "clearkey",
