@@ -633,7 +633,7 @@
 {
         "name": "FOX SPORTS 2",
         "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4Cow3wMr3eHoS2HJhDziBQfHLKi+TR3LeO3TNpJ1+MbUVTkbL4P4zuk3UXF9IegDepv",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4Cow3wMr3eHoS2HJhDziBQfHOI1VUBSs0Uepj+gczOt5jVcEveO1sgbzB8wPRwQ0/J4",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZSI6M/XwkuKc2PRUM2gUIkj+CjEm34RQYRHICFhl4Zl5DGH64KoZ268K8mGxW2cm/LH18yvJ0CBMZk+vO7FP7D7fdmN7u7+0dd4+VZT/gL/04obIZ5ZVLXLaru5h934NA==",
         "origin": "https://web.app.flow.com.py",
@@ -642,7 +642,7 @@
       {
         "name": "FOX SPORTS 3 ",
         "icono": "https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4Co/g3fa+sSu6OCqw6S8NTgPbKi+TR3LeO3TNpJ1+MbUVTFD+m5GddwPSk9qPwzjgdl",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4Co/g3fa+sSu6OCqw6S8NTgPeI1VUBSs0Uepj+gczOt5jWTd/pCVfHudbFcRzILPOhS",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXDDqQVbERRMfnta/zu4iAHqqfvTDjCjRg6jhbtJAgtGcoVCY+iU9mkLgEg4d+JCb+auH0FHQUsXhwqWhCNn6SP1o6d/eNPb+7e+Zi/+1FFeGRLAeSqGWlA4dFXN1tPGrw==",
         "origin": "https://web.app.flow.com.py",
@@ -689,10 +689,10 @@
       },
      {
         "name": "ESPN 4",
-        "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg",
+        "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClbgEi6w7tiYPTk6lNVYj4W7YyCugsLnRC6n21WDTIHvIG8EyvLgwDYgbIJFW5dlMw=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yS1eTiRpegtCMyeSWioNZqc8lngojrMBhpiQVfhJJYocvSPJ0AWlPiztKKWiQQxkn4aAG9YBYaB0iqVjSPaDHrflUHbfHLRwceJ2yM/QL/RcaRR99UT4B36PpS/TxtrRdA==",
+        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q9vEc03uKvPkbSPdJ/pJlYNfwFlt76t67d3JfNtfdfI2t6gwDjpUkEEeO53bWG13AbW1pikr7fmfF3ijJeyW/t+tFCih0Yyejo6B7l9TLTD+M5+IZTU8jnqlWlAO3hTcSg==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
