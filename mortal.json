@@ -339,11 +339,6 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "EL TRECE OPC 3",
-        "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
-        "uri": "TIbQkzgvHLYB9wYOKylj3jTiCvWQDm5XLXl/tIfr0ESQ1reswfJ74nSB3vhXT2Zu+IkJTpSuCMwjVDGP2oip/Q=="
-      },
-      {
         "name": "CANAL 9 ",
         "icono": "https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16014-1639_import.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkO2tKSyHkbOLe3/G+PyLrBzenmy+r83RCQQD4qaQCW3udNpmnpk/EFVwzBy8ZfcPwzEJd4nSv1sPfkrGDtG7fB",
@@ -677,7 +672,7 @@
       {
         "name": "ESPN 2 ",
         "icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ckn46OojAVZPo13szE61BgbhT/ldDDAFEawPovpz0urVVE2HQjbKJZ6ph45j26cy5vGYg9tFyLAvC8EuZUPfHWf",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ckn46OojAVZPo13szE61BgbhT/ldDDAFEawPovpz0urVYQDkliv18C2ZQpkKhHeHmADI+BYguQ2ovbtukhOyu9s",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUIxp/syi32GJqeAdhogCIL8I9m4u53W6z1a1wMmCG8C7ZqCnLdiTUXjItdrkvyabMjxGYMeoEgWZV5qv134MXdbsLUQdiJXURXEk/ih1kKvaNuTsPB0dAgztivac97RQQ==",
         "origin": "https://web.app.flow.com.py",
@@ -686,18 +681,21 @@
       {
         "name": "ESPN 3",
         "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClbgEi6w7tiYPTk6lNVYj4WWXu+w56EAj/Z7VBkoKCPjv4yeTi04RfYASR0vb2rvi8=",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClbgEi6w7tiYPTk6lNVYj4WWXu+w56EAj/Z7VBkoKCPjmpLrBmqnVOWnheAqe0vVGs=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yS1eTiRpegtCMyeSWioNZqc8lngojrMBhpiQVfhJJYocvSPJ0AWlPiztKKWiQQxkn4aAG9YBYaB0iqVjSPaDHrflUHbfHLRwceJ2yM/QL/RcaRR99UT4B36PpS/TxtrRdA==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-       {
+     {
         "name": "ESPN 4",
-        "icono": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png",
-        "uri": "yGSfq2T3616zG4mnV3KxrDN8+Aw+Anwk3Jin2g4iz0sVQ8A1IiMsyECOW2LbOhdgCf1gHPwur95o11TPyWh3Xg=="
+        "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClbgEi6w7tiYPTk6lNVYj4W7YyCugsLnRC6n21WDTIHvIG8EyvLgwDYgbIJFW5dlMw=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yS1eTiRpegtCMyeSWioNZqc8lngojrMBhpiQVfhJJYocvSPJ0AWlPiztKKWiQQxkn4aAG9YBYaB0iqVjSPaDHrflUHbfHLRwceJ2yM/QL/RcaRR99UT4B36PpS/TxtrRdA==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-      
      {
         "name": "ESPN 5",
         "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png",
@@ -728,7 +726,7 @@
       {
         "name": "ESPN PREMIUM",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ck2hC+1a4lMr2gx1SUF/LaM/LgNOcrkRiymHXsvfgKANAGWASn2z8FnyAyXfeCDJtwKKxQcc7NEjc23wnWc+fDPEJEDJua//w24vdhcKzVrRw==",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ck2hC+1a4lMr2gx1SUF/LaM/LgNOcrkRiymHXsvfgKANAGWASn2z8FnyAyXfeCDJtyzH4kOe9n9teVUwQw8c9uIYAi0wG+oLe6v/JFPD1jQZw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXg99MLKfPRqH9GPbs/gV6SBfuOpsFCm08f21tFxkTVzVSt3zCJhd0kZCXpJzEK2yKq1JkC8kpcaom8BZrTPKzp4o4PDWg9g63D8ITQBn6CcBilwtvyjWG01LCzKD11ofg==",
         "origin": "https://web.app.flow.com.py",
