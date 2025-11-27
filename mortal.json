@@ -2073,21 +2073,6 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-    
-      {
-        "name": "NOVELAS TURCAS",
-        "icono": "https://i.ibb.co/TVFBq72/turcas-logo-3203466-C6-C-seeklogo-com.png",
-        "uri": "eEcyCWd3QU4zo5iWda1Ag/1TZv+N9cnS6C08mMKdlDn6diicSL7hD4cRuSowZtnSl2TxfdD9/yohoubs9OwhBg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTbOERMT/jrwAn8603G4HUjEEiRFhGYfrTPRIpt6TQDJJr9AhPfPQcgBmcRE2vm/MpTukM4qvsNcwXYyAbXbZJbi4IBNE8Kxsvnwjl2kHT7PljpXWuhXDESxjtIBVcGLKg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png",
-        "uri": "2fvaWsRC0HXcQGZvjvDA5ygzpOvI5ElR7dH3/sCDnClsD+Rfu9bpBZ4S69XXc90MjgDWvENMhOWMkJI5oYFbgZAAQKnA2/yY54q/4w2zHYbt/L3rs9ExHYcUcUf0hKWf"
-      },
       {
         "name": "NOVELAS",
         "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png",
@@ -2099,6 +2084,15 @@
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn4mS90q5+9j/HT7RhCnfd1pEmj3liMjEs8WI5ZhM7jpk7VFmMT6p4R2mH92q3EwOo=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yS9kvvqu4tRCoq96U0fLfaEe6j7wsfQxNXYvYd4UHLCN8WHuxRvjjzCD4Vq+tYJvei93Abp+taLF79h0abC/wicZS/m14O1Pl2DTJgZxgC4UX5j3IK5NKRrjepH3cyvpeg==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+       {
+        "name": "CANAL DE LAS ESTRELLAS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
+        "uri": "2fvaWsRC0HXcQGZvjvDA5ygzpOvI5ElR7dH3/sCDnClsD+Rfu9bpBZ4S69XXc90MjgDWvENMhOWMkJI5oYFbgZAAQKnA2/yY54q/4w2zHYbt/L3rs9ExHYcUcUf0hKWf",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXx+qyVZUNtgQ5JETzQKUyFPYKuBM5HHS4M+ecSr5sd90L9UTQO0K+UnPkOW0Pr/6JbNaz2J6ZPcugdTl9TquGwdj6q450PlGWgzJPS6oJAb6DQQgw8ZeSyiJf3DO/dDtA==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
