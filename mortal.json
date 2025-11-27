@@ -329,18 +329,8 @@
        "referer": "https://player.sensa.com.ar/",
        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-     
       {
-        "name": "EL TRECE ",
-        "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ck9aB1BwyY4ISuIpLcbCppG3OCi2zMCsl6GhddqwwP+V0k/BieuhEQOse+G/vxRM6uUmtA8J7xXJB3HCndAUNvd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycC8LdNhe3Dz407FhRjdWWe+es+pTD91ajZEojReuf2ZXLgrCtXq8SygGyJZztSOp34OQy1rHwkPo+m/J5kvLqv6xSgiZ+DLuYabp7fpt3YzRzc8ZvG270KmYcIY8pNf3Q==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "EL TRECE OPC 2",
+        "name": "EL TRECE",
         "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
         "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRHlx1NvSf/hvuU/67BKeHg+uxqdFBNO3j4ojOn841A0lGspqj5u0IywD6lMapjizRM=",
         "drm_scheme": "clearkey",
