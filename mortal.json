@@ -2084,18 +2084,14 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
+        "name": "CANAL DE LAS ESTRELLAS",
+        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png",
+        "uri": "2fvaWsRC0HXcQGZvjvDA5ygzpOvI5ElR7dH3/sCDnClsD+Rfu9bpBZ4S69XXc90MjgDWvENMhOWMkJI5oYFbgZAAQKnA2/yY54q/4w2zHYbt/L3rs9ExHYcUcUf0hKWf"
+      },
+      {
         "name": "NOVELAS",
         "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png",
         "uri": "NXCf7QPLS+0ZWx9o+euLQ000K09gi+b6O2VHdfQTa3MmeMK5/aq6IjnspU3GIu07WOBHzXntywaWcbrshmLdxw=="
-      },
-       {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "icono": "https://cdn.mitvstatic.com/channels/las-estrellas-m.png",
-        "uri": "2fvaWsRC0HXcQGZvjvDA5ygzpOvI5ElR7dH3/sCDnClsD+Rfu9bpBZ4S69XXc90MjgDWvENMhOWMkJI5oYFbgZAAQKnA2/yY54q/4w2zHYbt/L3rs9ExHYcUcUf0hKWf",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXx+qyVZUNtgQ5JETzQKUyFPYKuBM5HHS4M+ecSr5sd90L9UTQO0K+UnPkOW0Pr/6JbNaz2J6ZPcugdTl9TquGwdj6q450PlGWgzJPS6oJAb6DQQgw8ZeSyiJf3DO/dDtA==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
         {
         "name": "TNT NOVELAS",
