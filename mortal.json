@@ -139,7 +139,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "PARAGUAYTV",
+        "name": "PARAGUAY TV",
         "icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkgnPTFPRouzVO+lLiPM6yryjAkQHKu88V8ovca67+uQDUeZh1c/FOfISzzLDHdRUZRhU5sBxTxpX/oPZy8k8Tp",
         "drm_scheme": "clearkey",
@@ -174,7 +174,7 @@
       {
         "name": "SURTV",
         "icono": "https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn4TweTcKjod5VGs+y6iQ/4lGGpb1gbB5ibhJTMCNsodvUJjnOqZwNtCy5NdQAlQdLGYg9tFyLAvC8EuZUPfHWf",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn4TweTcKjod5VGs+y6iQ/4lGGpb1gbB5ibhJTMCNsodsG1dkdWtCgHSle0J9UstqSp74sZYdKgRz9CPHZOYBHx",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTfcqXzr5RmXBAynkwO64WCNHYlVK6d0Nm6IRgUcm2khd0+5aUbJgGXXF5eteIkV8EHijrAXLolq02oXgbBGF1eNFqnLOJuyfdgyua/5tOKhpuvFuMNLIgxRy5qzDyOELA==",
         "origin": "https://web.app.flow.com.py",
@@ -188,7 +188,7 @@
       {
         "name": "ABC",
         "icono": "https://i.ibb.co/dGqjksf/descarga.png",
-        "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPTV24faEstVZdrMBgzDyDijZ5WgPy1D9KgBQVWAiXw+hXI6UR/P0MqaO1qOxdiGmpo=",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnyNZj0RTt2sbyzNAAESzbNlGGpb1gbB5ibhJTMCNsodofYgszS2xrbTp4dlFbSWJ+p74sZYdKgRz9CPHZOYBHx",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuIp1uDjbB5Vme6xtgL1qpUCDo21txHIoqd6oymKJKUTbRjHHuYNQFZeRxJ50tx0ToN1GcxI68Kjxpujtwu77QvgDlFLAKCU3GdpTT3y+dq1JMxCXeJ0r9bD35Kxg7Ru3wQ==",
         "origin": "https://web.app.flow.com.py",
@@ -202,16 +202,16 @@
       {
         "name": "TV CAMARA",
         "icono": "https://pbs.twimg.com/profile_images/1879899270410596352/1x6CJPDD_400x400.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnhSfDRYPGs0IZGYxZ5ZK+YX2SBldDG6Zh4XWA9EIpVM5GET7iEjWYOJCvFyWuAcS7GYg9tFyLAvC8EuZUPfHWf",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnhSfDRYPGs0IZGYxZ5ZK+YX2SBldDG6Zh4XWA9EIpVM3eKFutBst/wBHyMIaAVFCTQEZ/uy3TF/4Skog+jF89O",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTgwV07TuW5DEYYdDX+MKu4kNKHdQIqim0DibzZQVh89Qe8Gg6wjOE5BLr/zZhxo9QKNKrsAo4Wywb2qNi5tA4Pc4E77BR5FM4cBmX251dRMRjARV/V6hlpoQTvlAuhDHA==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "PARAVISION1",
+        "name": "PARAVISION",
         "icono": "https://i.ibb.co/6w67s6W/descarga.jpg",
-        "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPSpbIup47eOZfnOYzrtHHXRLzB+p56gvxbE0W76oa2Oh9lk/HwwXo7uwtVYvmGhFF5A3u1w5tZubqSNNOsOPI1D",
+        "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPSpbIup47eOZfnOYzrtHHXRLzB+p56gvxbE0W76oa2Oh0aGtD+8f0Tk/WcTc+t7ek8DcFcxBd4d1ltQ0+3d8ilp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQXgSurICcjsCGmEvCVcQk4r+CgDdnkN9YNKUKA1B0u200koQHHlJWKuLUut6zk/TjBPHLKeIHSPKy6Qo0REnqqhLdEGuYR2ZlCOA/JEC9sRTOSOmq5Gdejz750nBQhBQnpXaKUpSkJ6QeZJUaVZ7Ws38np1OEmQ9jfaRjmA8Obceipy4GSw7omXiYBulWK1+A==",
         "origin": "https://web.app.flow.com.py",
