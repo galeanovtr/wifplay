@@ -399,7 +399,7 @@
       {
         "name": "TN NOTICIAS",
         "icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClriZjcsuVkZGR3+gHbzGCI1L/TvfUYpB4Y3x1xaUJTy9v2BX98kT7zRtLgXNYnw5sLv51gNrr1+LlS4yZ63geR",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClriZjcsuVkZGR3+gHbzGCI1L/TvfUYpB4Y3x1xaUJTyxGm/TRb6nx9bB0NvJ2hYcFwNZRVLxXdnPWk8tUoYtD5",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yed8kOVacLNONSHVlBy8ZvkJaxe1akghl2oz9+KgG3Pis2I0eRheSz8JSHqW/ugRBFvsttYJeEUPvAtUPX/e6fjgxVr8/iLKD4jyMbPXImn9C0Su13Bks29nAh8tCG3vDw==",
         "origin": "https://web.app.flow.com.py",
@@ -408,7 +408,7 @@
       {
         "name": "LN+ - LA NACION",
         "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm2yN/4MjPbAs8qgReqlthxJzr4SZB3fwTqnN+wzC/uC8zNGd58BzU2QfrJEQSUn3nGYg9tFyLAvC8EuZUPfHWf",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm2yN/4MjPbAs8qgReqlthxJzr4SZB3fwTqnN+wzC/uC/CPnoj1VL8NOu0yEJYV5jphYlxSMpuS4xtS/75x0olY",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVi9sk9fSQhX8KPiCrtKYeLcyZ/bf0mLaRIP9X0ns7XpNQhbv74zVRMfxt2g3+totiBA7ITSsqN1nypd6EVw/pkn4Q1119uFun+K419vWfKn6gD5AQ84v/G/m/c8lCKmoQ==",
         "origin": "https://web.app.flow.com.py",
@@ -426,7 +426,7 @@
       {
         "name": "CRONICA TV",
         "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm0QhOvSGc6CwvyjvgOeUbiiwOnOkk42DS/lqB8pE1gjrWBbGL8nVy3PnqzJEOXKQjGYg9tFyLAvC8EuZUPfHWf",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm0QhOvSGc6CwvyjvgOeUbiiwOnOkk42DS/lqB8pE1gjigNBxevu0aC6Z44+4fADmnIor8rK+z9FZgzX/jQcswk",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yX22vAXDCQSsrWrIUBU5slEsAwATscpaTU2TTbqF02UxdKLXofsnl9aLZdyOudHWKv3oZVtjawmgAlZ6o/DoKv3zpVf+++yE83fvxYGLM1M3NYlyCFgMSWxDOADGc1EapQ==",
         "origin": "https://web.app.flow.com.py",
@@ -440,14 +440,9 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySDOiTqwCoc5cj683PyeRKhWJdGjf33Kc7ABDRxPEH8IvwbrF3g5i8NynI80NCNLa+tonwiV3kczbpBcf0kNwuHqIKgcSahLslOMAHJOLT0R1K55velL/Lr0nwmDpITJ/A=="
       },
       {
-        "name": "CRONICA TV OPC 3",
-        "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg",
-        "uri": "jb9IVxSwSXcTodMgk9X+Yg3XgrMoF8C1p5XjcGR1pXDYaEzWVnPN7XHFEpWNSYBSMxCXeJ0r9bD35Kxg7Ru3wQ=="
-      },
-      {
         "name": "A24",
         "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Clt2rispU223Sfhu/4LW2j0b8K+Bd1baIj52KgOpiy6W47Fwjs8NheAdpjN+IsgTBDGYg9tFyLAvC8EuZUPfHWf",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Clt2rispU223Sfhu/4LW2j0b8K+Bd1baIj52KgOpiy6W2jZGdnisaGTD3xAM0GhTyCYGPYSNioc04qFYBB7RqEI",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ya65IfjI9f/xZexdUGAS/QNuUSkWGglth9SWOnTp0ylUBJN3zE43U5cBeWR9nnQcHkjFkcK7jMdPTA5myQMzfFt3SyMJDTANUnazg4vzcmtG1DVNObIrCNe+H5TtOHbcxw==",
         "origin": "https://web.app.flow.com.py",
@@ -463,7 +458,7 @@
       {
         "name": "CANAL 26",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl7iswTahd8zF+s8ofdMlSbdlcYhRQImxt6KHVfwYFa3c3rZKIL33YVlTezDbbMkUOUmtA8J7xXJB3HCndAUNvd",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl7iswTahd8zF+s8ofdMlSbdlcYhRQImxt6KHVfwYFa3d/A61+pZgq+mtKYf3C7WFzGYg9tFyLAvC8EuZUPfHWf",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUMjvEIzUxrO3Bi35ESmD2f9jMw1h8uZtWLk9RKV8zTkUMb6AK6hJCipehqIKqkGedC6cANznGHt74mFogbwl3bW/+QAP38m8HpZ1lEeX2v6mwDgkFdAJehdqGwcEimMJw==",
         "origin": "https://web.app.flow.com.py",
