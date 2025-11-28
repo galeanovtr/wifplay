@@ -2160,7 +2160,7 @@
         "icono": "https://tye-strapi-assets.s3.amazonaws.com/images-legacy/animalplanet1202.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmIBjog9j5SVZdijnnSnCi88wtcHSD6O7vbkKMXdmKtxtqRV8yejVhYoobydOA/ju9DwlU39U6I3jbdOsYdaCyc",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ya4lZNg3S5y6WIdt53empPmB/VL9fW+Q/eIumppVyLfoJuMYqv8Lk3ysHeVWMCwCeYr9Lg/ucE6lQlydsjjTh88C1AmxpUElz3n1mLDUZCRKynmo11cPt4gNrg/+KLdLZA==iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ya4lZNg3S5y6WIdt53empPmB/VL9fW+Q/eIumppVyLfoJuMYqv8Lk3ysHeVWMCwCeYr9Lg/ucE6lQlydsjjTh88C1AmxpUElz3n1mLDUZCRKynmo11cPt4gNrg/+KLdLZA==",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZ1wmwWcv3DcWQcSUsAaWR6hmrI8xj0DOoOTj61AZS3jI9cFGG9trKmI/xoYsJ3DmCv0pFBqB6BQV+vXUHbZf6BPOJvOkIkJciFu/j38W/XM/CFVvZE0P2FemY1/GvQ83w==",
         "origin": "https://portal.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
@@ -2176,7 +2176,7 @@
       {
         "name": "DISCOVERY SCIENCE",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/7/71/Discovery_Science_Channel_1998.png/revision/latest?cb=20200822042357&path-prefix=es",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClwLLUUYwUtNd/ZmK/QOb2Mj1uVRpmhT8QIDCSNZ7osgSJfUf6v23DK1EsL4EZq+SR6F3AJuPx4PXoalhFhJ4csxmIPbRciwLwvBLmVD3x1nw==",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClwLLUUYwUtNd/ZmK/QOb2Mj1uVRpmhT8QIDCSNZ7osgQixgGp0097IVFxyno6Syvz//s9kckmpckSW7DQMGXVMaa8xenZRXREDawX1AJBQdQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYjuH6t6m1ywx7wiPdZV3tyu/U5jsrcYcn0PZ1+Ztqcq5Kmt5tWrdt3oaEhkUhCENMv8bmlPmPkeEdWR+HV8kySP/oV0yIX761O8NrGSCmspgU/R/y1BLjpOZgqtzJCz0A==",
         "origin": "https://web.app.flow.com.py",
@@ -2194,7 +2194,7 @@
       {
         "name": "DISCOVERY ID",
         "icono": "https://mir-s3-cdn-cf.behance.net/projects/404/dc059d190899617.Y3JvcCwxMDc3LDg0MiwwLDA.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnEgeEOMoGDZABIVGb7NOb7Z5WgPy1D9KgBQVWAiXw+he8yrQ+XrW8HTpi0hUCf488=",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnEgeEOMoGDZABIVGb7NOb7L31QZdcirwjQQe6imw573CFkGhxMba8wwBfUupUwT90=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yQnRvkSMgIPyC/OMTapgEnveJEcFTTRpxXO8i2rKu8gP3GVUESI9B815uN/gqbi4ueCXcgcQH9GvQKIA7jJj61AylpZNzPgOfOYCvtWybX/ACF2LmEZ9+tGdTZy4jv2BRQ==",
         "origin": "https://web.app.flow.com.py",
@@ -2212,7 +2212,7 @@
       {
         "name": "DISCOVERY TURBO",
         "icono": "https://eu1-prod-images.disco-api.com/2023/06/15/07a339aa-efad-310c-87bd-b4a982726dc4.png?bf=0&f=jpg&p=true&q=70&w=1920",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ck06vhk8OzgixGgScOwACkePU8Rj5dyl6FFRYuup6gVnFrHQTNlhzue3TX1zzH7JJhSPUMa0lPyLTB3gRLg5nGr",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ck06vhk8OzgixGgScOwACkePU8Rj5dyl6FFRYuup6gVnNrGJx5+k84GIeSEtV3XtqUe5RrdNuOQ8tSj1enpU/PLMxCXeJ0r9bD35Kxg7Ru3wQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYZC6Awn2V0y1wIFXwr8XSQYbSs8v2b0pXNYHU0vUuTtsdvjP7APKJNSGauaGwObpnZ+qTKKlXb1Vrj0yobI5RYbEcQtSB4CfIh/6x78nlLBYRgjyqdV3V/QKOBk7Uge4w==",
         "origin": "https://web.app.flow.com.py",
@@ -2221,7 +2221,7 @@
       {
         "name": "DISCOVERY TEATER",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/c/c7/HD_Theater.png/revision/latest?cb=20200209133800&path-prefix=es",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClWSvXGUr3BZ4A+LQYfIgr6pcophVHHCJ3KIHDQOkk7n9RIX/sAnWWpOk513RWoLSHf0KA8DFffemLN7zO77Kw6",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClWSvXGUr3BZ4A+LQYfIgr6pcophVHHCJ3KIHDQOkk7nzNvtRv7ATdChpd/eTAgAdeS6GKO7OfHXRKBFjh0owJI",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybDK4eKzI8u6fHMtIJoZrKxtS1H9QtHC0TyWrpGqKHkyK15NiNuXy4nQ8+12XTBDPFYHfTRBT/+04QifrHcrRtqDY6y3XEDVuUevAtlmqiMft972V5l7l0t61DqI5wwXmA==",
         "origin": "https://web.app.flow.com.py",
@@ -2230,7 +2230,7 @@
       {
         "name": "DISCOVERY TLC",
         "icono": "https://pbs.twimg.com/profile_images/1372582266568904709/0OvSVtae_400x400.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnMEEQmehG3T0gy1DCEg3YdpEmj3liMjEs8WI5ZhM7jpqq/sk3hkeouNie9sSjLC6Q=",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnMEEQmehG3T0gy1DCEg3YdpEmj3liMjEs8WI5ZhM7jpgfOzhy7BGN4+Ur782g8oR4=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yY37dWpPiugGM6LEJNYXiJ93eHgVrzBquUW18E/3q23SxO4++7QFb3WXitBjFB2EH7BUAmc2R7c8wDilNDKuJ0RLwv0vkiCh4N9u05SQ4vvkpGKyXQX4a5otvoJykSn8cA==",
         "origin": "https://web.app.flow.com.py",
@@ -2239,7 +2239,7 @@
       {
         "name": "DISCOVERY WORL",
         "icono": "https://www.logotypes101.com/logos/312/97BBF5AE04BB637CECB452EB5C0259CD/discoveryworld.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClwLLUUYwUtNd/ZmK/QOb2MkeQSvWB3T1U4J1zeZQGy32eVoD8tQ/SoAUFVgIl8PoUSYxSR/rU2C4oLsZruKV4f39CgPAxX33pize8zu+ysOg==",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClwLLUUYwUtNd/ZmK/QOb2MkeQSvWB3T1U4J1zeZQGy3y99UGXXIq8I0EHuopsOe9zQyvLfVaiXc6gSMucAzsBhy/9p2ZyScL/b50vzqfD+WA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybCGf1Q/v19foNtdIQSCUmLSPkNvUx5A0F2A3EmJJkxDEH36JVP2xgkVu7XKzJJlGXS92usBVw3afcnF4ODcRLdYjHhxt1c4HNbuAN3MOcTkQ0kYnb5UtMetWFHcLomyWQ==",
         "origin": "https://web.app.flow.com.py",
