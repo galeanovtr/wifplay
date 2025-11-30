@@ -17,26 +17,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWWEyB1Ww7BG038rOwozZekUjDA9TnUN+LJaAej24qpBHsw5ASknENlOYhTuKiJBeyyBzOW8e2vfsDjvnoPACAi130RYJgAW28ELQSn5YESxTjnmoP7o/YwJRpzoIz9Tyg=="
       }
-      ]
-  },
-  {
-    "name": "FINAL COPA LIBERTADORES",
-    "samples": [
-            {
-       "name": "TELEFE OPC 2",
-       "icono": "https://www.vhv.rs/dpng/d/605-6050402_telefe-canal-11-de-salta-hd-png-download.png",
-       "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRFzdBReVNCTT2xn2egI02eyN2yXRVUBN0q2ADgRrG5CH3j0JnJdbD06rMD/jp92oTA=",
-       "drm_scheme": "clearkey",
-       "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfcTRTnao9FVmrHWmvbitKtfUFjeQvxUgH79TE++osnxqiyI+InPEZjSxF+A+jtc0WInhem9DdwcMogkOyqqNjiZ5fr4dFO2Er0OnexWjGP+B5ZjmRXr19RY7F62VgM4oA==",
-       "referer": "https://player.sensa.com.ar/",
-       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-     {
-        "name": "GLOBO TV",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg",
-        "uri": "MDp1jAqJj1yXCX+7kklzmfLxVDk8kfxpa4fkLs7KPGhi4MNcmOxYXhrKMgMPuPzrpazdU8CkP8Mj+JikkWNtDg=="
-      }
-      ]
+     ]
   },
   {
     "name": "🇵🇾PARAGUAY",
