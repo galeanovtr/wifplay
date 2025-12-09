@@ -251,8 +251,13 @@
   {
     "name": "🇧🇷BRASIL",
     "samples": [
-     {
+      {
         "name": "GLOBO TV",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg",
+        "uri": "s5gkE2oLMf3l0lz/r5wrlkuH6Y2Z6A7MPRiXEshIUkI="
+      },
+     {
+        "name": "GLOBO_TV_2",
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg",
         "uri": "MDp1jAqJj1yXCX+7kklzmfLxVDk8kfxpa4fkLs7KPGhi4MNcmOxYXhrKMgMPuPzrpazdU8CkP8Mj+JikkWNtDg=="
       },
