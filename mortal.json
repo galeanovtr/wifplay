@@ -2595,6 +2595,15 @@
     "name": "CANALES DE PRUEBA",
     "samples": [
        {
+        "name": "TYC SPORTS",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmsCrL+eIsmKqvLL+kZB1ySJ3R+5U4kFNPVp8NoFUPFsIBhyZk82Lt6fUPkaH6pJbTGYg9tFyLAvC8EuZUPfHWf",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "YOhN6SaFzURu0OC51/r6QwJhQGaVtSsI46zfefN2ctYknbkM/cTFiCvEg0k/vf5bRrpst34UEYNOmLH4fbXMpaGTH2u78pJe25jHpwOQUPt0QbygGbl7SeKeChPkQpsV+7kGYhxlxaAaVcCdSo/vlb/yCUxCbpiSmvjOPb3TE3M=",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+       {
        "name": "GLOBO TV",
        "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es",
        "uri": "s5gkE2oLMf3l0lz/r5wrlkuH6Y2Z6A7MPRiXEshIUkI=",
