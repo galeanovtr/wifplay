@@ -1,9 +1,24 @@
 [
         {
+        "name": "ESPECIAL NAVIDAD 🎄",
+        "samples": [
+         {
+                  "icono": "https://image.tmdb.org/t/p/original/nXTu3UF99ntKpxPhAvxIdA70fC3.jpg",
+                  "name": "SANTA CLAUSULA 2",
+                  "uri": "http://goovdme.967sd1f.homes/vod/1CD3E3FD78694C3DAFDFD2CA29323242_media.ts"
+           },
+          {
+                  "icono": "https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
+                  "name": "LOS SINPSONS: Santa Homero",
+                  "uri": "http://goovdme.967sd1f.homes/vod/BD2E8A3455664B458AE221FA909BD4D6_media.ts"
+           }
+         
+   ]
+   },  
+          {
         "name": "ACCIÓN 📺📽",
         "samples": [
-            
-          {
+ {
                   "icono": "https://image.tmdb.org/t/p/original/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
                   "name": "GTmax",
                   "uri": "http://vedo.wvdbozpfc.com/vod/1D6DAADC32674D15B4613578FDAF9310_media.mp4"
@@ -148,21 +163,6 @@
                   "icono": "https://image.tmdb.org/t/p/original/r7QB75hlCqB8iKBfeO5TnpajQGn.jpg",
                   "name": "PRÓFUGO POR ACCIDENTE",
                   "uri": "http://vedo.wvdbozpfc.com/vod/96150B3DFFE542ACBD7C85171C33764D_media.mp4"
-           }
-   ]
-   },  
-          {
-        "name": "ESPECIAL NAVIDAD 🎄",
-        "samples": [
-           {
-                  "icono": "https://image.tmdb.org/t/p/original/nXTu3UF99ntKpxPhAvxIdA70fC3.jpg",
-                  "name": "SANTA CLAUSULA 2",
-                  "uri": "http://goovdme.967sd1f.homes/vod/1CD3E3FD78694C3DAFDFD2CA29323242_media.ts"
-           },
-          {
-                  "icono": "https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
-                  "name": "LOS SINPSONS: Santa Homero",
-                  "uri": "http://goovdme.967sd1f.homes/vod/BD2E8A3455664B458AE221FA909BD4D6_media.ts"
            }
    ]
    },
