@@ -10,13 +10,7 @@
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q/pBguXt9xowWk7RvAH4Bf5SIteWIFbi+iyAmUEVI1BfhktQF8aVmMe7iW0rFIW6oqNUH3ZOeklXKWbZ3f2KvM3d07YOvDER5fShRdJV+pNZk2/1PMyGV46RZI/v8gQNxhGOggFjNF0rHl9gIu7+zrY=",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TELEFUTURO 2",
-        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTxIgYAElJDat4OIianjtVoU5fH+VrtHQEZpI6X9+09zY="
-      },
-      
+      },    
       {
         "name": "SNT",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
@@ -26,26 +20,12 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-       {
-        "name": "SNT 2",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzT/+BMXCJiNJ6AsrYme8E5nf7ZNDSNVmC+cULAErKnUyg="
-      },
       {
         "name": "NPY",
         "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmhoioWCnAUGGsccNkrMMUD8PCxhKsKDGgwBd1IH3yVyHhCtXaRy1gjjosc6faBSpjEdEJaZD6dCAaulWj35ckAMxCXeJ0r9bD35Kxg7Ru3wQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7uy5Ts9aPizPHqhRHFJUsp9mvNN5Nwh4WlqaMgSnXm0n/nD5V9E2loibqH0/ShQkFMifSYRriMint36YqAiodyXOunoKAbe23vV5wrxuR/7SY5VWekJqm22h+MvNyrXkw==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "NPY 2",
-        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTe9QofOr7/tWDgJRWV5UNYU5fH+VrtHQEZpI6X9+09zY=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVdOAhY0yEuxj4JJkl7Pak2gw9fsZrPF8nmE4sgajnsnb9ub1agZ32ISSt6kLTp7HkV7PAs3nsAG+/pY5l4DNzrNwNmfmrEM8vwvJyKDAhdS0VZtXzGJNCDJ7tO2nNWzhg==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
@@ -59,11 +39,6 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "GEN TV 2",
-        "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTE3k4EXShaPsb9NrX53A27cpUBeKkTroT6jwhlVlr/5k="
-      },
-      {
         "name": "C9N",
         "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
         "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPSE6kIXNaiL8AxV5OUe1qNgs6XMJATdR15iA+/IaWH65lFlSGQHrbCxiwpzqnX8K2A=",
@@ -71,11 +46,6 @@
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q0wpKUTUfpfkVKXzgrDctza+QeYQGwSU86mdefSoNI68Hj34UntvWYQcZn7nx9D5bGDYMN73P+mlczEvBt5nz8tcV2LmuEGL+cJRA0g0A0QtkJvOWPieuXBXLMJltjdNmg==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "C9N 2",
-        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTyMT0AFTysdXG48Sp74KHF8pUBeKkTroT6jwhlVlr/5k="
       },
       {
         "name": "TRECE",
@@ -94,11 +64,6 @@
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q5X+IeZiZvvFlT7n7HdMl+5FdTbP76kF6KZkAacmaJBeOtRpho6Yc2A+UklmHwnyki4Y8nyeFArz8aUOAVVz9iiY4xOHN3rK9CczyMNTIy3O7brNzyUSzrKIrPE/S2KQyzMQl3idK/Ww9+SsYO0bt8E=",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "LA TELE 2",
-        "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzTt3LejOvElRrUnRFLbOs+lf7ZNDSNVmC+cULAErKnUyg="
       },
       {
         "name": "UNICANAL",
@@ -145,11 +110,6 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yShUxuoO3I333aMuSMgIjgFAaT5+BHEEglc0IZ10AlK68DrUmCF+knKJ0bDs580g1P4QIWNNpKKEMz/jkYXkvaawqtmXkB7WHMzwX5WTj9dZe81HBujGP5e4Z+QrkV+CsQ==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-       {
-        "name": "5 DIAS PY 2",
-        "icono": "https://i.ibb.co/Pg6v5zn/images.png",
-        "uri": "d83VmCfHDmtD8UEQ3cOJf1LkbbkJbqvvqi6miUEE4Ac8MpeHO9lZxxIBqALrvrzToM2AQhgwbewmiVGvZvlJdU5fH+VrtHQEZpI6X9+09zY="
       },
       {
         "name": "SURTV",
@@ -216,16 +176,7 @@
         "name": "MOTOR SUR",
         "icono": "https://i.postimg.cc/q761GQm6/motor-sur-media.png",
         "uri": "fgUXksvg06s/dw05K1Nyjt/u3L+mo+EI1Cuxr22ce5Ji6zR/AfrvftPLxsuxISzO"
-      },
-      {
-        "name": "RALLY",
-        "icono": "https://i.postimg.cc/85c4pnNM/06ae247a-ea2c-4868-8aaa-2f1a2b0c9ccb.jpg",
-        "uri": "YvGRNrdNtCo4uf4Kz9O0yczsALuRe2f1nLMvoLqr3bvnjctKiCLqmF00UhO5rOGZy3ZMSC5VbrXhEmKrU9WyCjCZzn5Ws6iNqSHHafpy8ITSedTinQi943ufOX6WnYWUqw6P9hKeK2vv/NhPwxE7ehzF/ITf0r/2nZsFH8mBwWMzEJd4nSv1sPfkrGDtG7fB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXg99MLKfPRqH9GPbs/gV6SBfuOpsFCm08f21tFxkTVzVSt3zCJhd0kZCXpJzEK2yKq1JkC8kpcaom8BZrTPKzp4o4PDWg9g63D8ITQBn6CcBilwtvyjWG01LCzKD11ofg==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      }  
+      }
  ]
   },
   {
