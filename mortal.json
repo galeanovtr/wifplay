@@ -2515,13 +2515,13 @@
     "name": "CANALES DE PRUEBA",
     "samples": [
       {
-       "name": "GLOBO TV",
-       "icono": "https://www.vhv.rs/dpng/d/605-6050402_telefe-canal-11-de-salta-hd-png-download.png",
-       "uri": "s5gkE2oLMf3l0lz/r5wrlkuH6Y2Z6A7MPRiXEshIUkI=",
-       "drm_scheme": "clearkey",
-       "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfcTRTnao9FVmrHWmvbitKtfUFjeQvxUgH79TE++osnxqiyI+InPEZjSxF+A+jtc0WInhem9DdwcMogkOyqqNjiZ5fr4dFO2Er0OnexWjGP+B5ZjmRXr19RY7F62VgM4oA==",
-       "referer": "https://embedtv-2.icu",
-       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        "name": "TELEFUTURO",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+        "uri": "vgXeyDnk8p+6eIXrcrjRCrpuDju9PnRVgwVn6JYl/cE8t8R5HgHvFlyutzeaEJYZO+aqb8MWlmOpD3Hw31mH8NMZ+xwjax+mUe8MG0m1bnuU9Z13xKm1rJ5cEQg8eUnqASjv/Jv8yky7RHJGMWqxoLGwe0aNv0tx+RuNeMLvzJg4h5ZLU7IMNWp5/Fi865Z5351sAcsQKRpHhv7Ay9TyN9V6k0yMoRO0tz55qS1CAJauW7/EIXTcba/4p6ZtPNpQn3YNachcAZ25RF/Lu4pkcn30Sk7+XUb/Q50mjoSnQ23H87OyE+/q5S9YSfIgev6Gwbia3KdGlVu8elzkXjsx0VbHQ0fomBvqR/z7xTt4hHeR6UXVyAY+1O8AZXTQBY980tqNxtzmkaToMGNyv9hujmbfWMOuLblR+3tT6cfxuHbeY3OHMR3TOrLNYch/1oGFzc3aUOffcf1CwUOrIiPQlHvrANKigNmcdmSBy6XAo+55WJm92UGHquFXXKlHEQUZ9zVwwRvPVz3JlKgENkkAceOGXipkqKVKMkdoWz0Up53vBC/U7tw15+H6kZSQu7AGdKNg7PsJYKTm8rszjZDlV/9EaFmCsIlb3hoegXgBgh6H5Wgjo9hBDMlzw4sPplL+xR20iBMrvDspoa9QAbqm94HB+En6E+QqRr9wvpMd/DTYFrl8BGHONmG2/UKGWecfc5HTVL1Hw7esJ3sV0167baaVe3Zn1ZSx1sFvEspsDwntwQmioqfMUxLDlAleuqfm8ieHGc6qCqeYOBbtN1w3BvdCEvOjcsH0619WBPsCljifnSN8aR2fXNykebmAfe3wpZLyWwPhBnZpA38Gr65y7mBNEm0n/29hOnbVpCs9K12iAYtApy8ETSCyGRaMOyEZQN7tcObWbm6kjTTrDjyNQw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q/pBguXt9xowWk7RvAH4Bf5SIteWIFbi+iyAmUEVI1BfhktQF8aVmMe7iW0rFIW6oqNUH3ZOeklXKWbZ3f2KvM3d07YOvDER5fShRdJV+pNZk2/1PMyGV46RZI/v8gQNxhGOggFjNF0rHl9gIu7+zrY=",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
            {
         "name": "CNN ESP",
