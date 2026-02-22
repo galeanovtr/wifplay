@@ -3,24 +3,6 @@
     "name": "🇵🇾PARAGUAY",
     "samples": [
              {
-        "name": "NPY",
-        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmhoioWCnAUGGsccNkrMMUD8PCxhKsKDGgwBd1IH3yVyHhCtXaRy1gjjosc6faBSpjEdEJaZD6dCAaulWj35ckAMxCXeJ0r9bD35Kxg7Ru3wQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7uy5Ts9aPizPHqhRHFJUsp9mvNN5Nwh4WlqaMgSnXm0n/nD5V9E2loibqH0/ShQkFMifSYRriMint36YqAiodyXOunoKAbe23vV5wrxuR/7SY5VWekJqm22h+MvNyrXkw==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-       {
-        "name": "GEN TV",
-        "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
-        "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPQ8tJOpVQ4ojcasH1qdga8otlfypcuOIEC6+Gc1+QehgXRcsc8Y6IkLTWfBlI/xIbo=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7BQDqGuiOhwVnoK4auGssCXAlG8j4kV6/jsUiOwkl8QqgtFwvH1Rcj0druP8i4/TEav7yEX9hsOafYILw1DvSUAZiv/Z+UGPKAHfKgnstgzmT98fX0OIWiqf8Hfl0na0Q==",
-        "origin": "https://web.app.flow.com.py",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
         "name": "TELEFUTURO",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
         "uri": "RaidKAjBjWRr00OYzP/Pvy8twx2RSpsZoBuuDidEmRKsO8dJuPLBc82wEjrbP5SWN8OlX7pD/BY13LXC5UC3iC4/dhgWUwOGj8kqMx48W0hKs9rTs9dFgtxcooTrJqXg",
@@ -39,11 +21,20 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
              {
-        "name": "SNT 2",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
-        "uri": "RaidKAjBjWRr00OYzP/Pvy8twx2RSpsZoBuuDidEmRKsO8dJuPLBc82wEjrbP5SWN8OlX7pD/BY13LXC5UC3iC4/dhgWUwOGj8kqMx48W0hKs9rTs9dFgtxcooTrJqXg",
+        "name": "NPY",
+        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmhoioWCnAUGGsccNkrMMUD8PCxhKsKDGgwBd1IH3yVyHhCtXaRy1gjjosc6faBSpjEdEJaZD6dCAaulWj35ckAMxCXeJ0r9bD35Kxg7Ru3wQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7uy5Ts9aPizPHqhRHFJUsp9mvNN5Nwh4WlqaMgSnXm0n/nD5V9E2loibqH0/ShQkFMifSYRriMint36YqAiodyXOunoKAbe23vV5wrxuR/7SY5VWekJqm22h+MvNyrXkw==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+       {
+        "name": "GEN TV",
+        "icono": "https://appnew.megainfoapp.com/files/1/gen.png",
+        "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPQ8tJOpVQ4ojcasH1qdga8otlfypcuOIEC6+Gc1+QehgXRcsc8Y6IkLTWfBlI/xIbo=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7BQDqGuiOhwVnoK4auGssCXAlG8j4kV6/jsUiOwkl8QqgtFwvH1Rcj0druP8i4/TEav7yEX9hsOafYILw1DvSUAZiv/Z+UGPKAHfKgnstgzmT98fX0OIWiqf8Hfl0na0Q==",
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
