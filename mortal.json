@@ -2,6 +2,15 @@
    {
     "name": "🇵🇾PARAGUAY",
     "samples": [
+       {
+        "name": "TELEFUTURO",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
+        "uri": "RaidKAjBjWRr00OYzP/Pvy8twx2RSpsZoBuuDidEmRKsO8dJuPLBc82wEjrbP5SWN8OlX7pD/BY13LXC5UC3iOuq3heC3BTZqQ8Pcx9KCkVSR+XA7AuzrvYrNaP2+AG9",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "lWBG0HmF56ygrsm5fAce1GY5+oLBNx76+hfqf92KXCHb4oG/u4kt5OO20YkrW8yZ8g3V1O/euU47DRDrOaIv3oSOXw9Ht0ZjnEPbODmCKZUbPQzbgy7xd+b98DFYiAbo/mnq/kGrcDqfnNYdfq25AA==",
+        "origin": "https://web.app.flow.com.py",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
       {
         "name": "SNT",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
@@ -1074,7 +1083,7 @@
         "origin": "https://web.app.flow.com.py",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
-                    {
+     {
         "name": "TELEFUTURO 2",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
         "uri": "RaidKAjBjWRr00OYzP/Pvy8twx2RSpsZoBuuDidEmRKsO8dJuPLBc82wEjrbP5SWN8OlX7pD/BY13LXC5UC3iOuq3heC3BTZqQ8Pcx9KCkVSR+XA7AuzrvYrNaP2+AG9",
