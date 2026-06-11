@@ -2,13 +2,11 @@
    {
     "name": "¡🏆⚽ MUNDIAL 2026!!!",
     "samples": [
-                   {
-                "name": "DIRECTV MUNDIAL",
-                "url": "ZdXK8O2HRKBwWjL4P6tgIiOPyLSp2A4pxfI9WJwQf8MfEMTSWfyc2VJB32+J7npUHFreb/VgjckT1TY4TFZDUKVMuVmbdTD62tN+CNn8QSvOnFN796SL0dgpsWLevaZK07Xns9bf+hI2hvWzScPNSou+XSD1mGBaH2J8LSDVwvlETupT2979YVMKmXSUWsyl",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/fYS9CLJ6/DSports.png",
-                "drm_license_uri": "vDPTiXLaW7edWZQ5SPofHTyFHfc0jv5gLt4fahOjDNF+5r8tcM4MvBAGBv63Ajnm+CRF8XX/tWXbjSVn8Xbbs5n/96Yj3hQbvxBHg/u/DnpUSqN4jjt33afZKaum5qR5zYo68kcCuFOmcLFDwK6F3Q=="
-            },
+              {
+        "name": "DIRECTV MUNDIAL",
+        "icono": "https://i.ibb.co/fYS9CLJ6/DSports.png",
+        "uri": "ZdXK8O2HRKBwWjL4P6tgIiOPyLSp2A4pxfI9WJwQf8MfEMTSWfyc2VJB32+J7npUHFreb/VgjckT1TY4TFZDUKVMuVmbdTD62tN+CNn8QSvOnFN796SL0dgpsWLevaZK07Xns9bf+hI2hvWzScPNSou+XSD1mGBaH2J8LSDVwvlETupT2979YVMKmXSUWsyl"
+      },
        {
         "name": "TELEFUTURO",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg",
